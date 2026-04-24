@@ -60,7 +60,8 @@ This project analyzes customer churn using Python, SQL, and Tableau to identify 
 
 ## 🔗 Live Dashboard
 
-(Add your Tableau Public link here)
+## 🔗 Live Dashboard
+👉 https://public.tableau.com/views/customerchurnanalysis_17770715753810/Dashboard1
 
 ---
 
