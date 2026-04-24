@@ -1,0 +1,1201 @@
+customer_id,gender,age,senior_citizen,region,contract_type,tenure_months,internet_service,payment_method,paperless_billing,streaming_service,tech_support,online_security,monthly_charges,discount_percent,total_charges,support_tickets,satisfaction_score,churn,churn_reason
+CUST-10000,Female,64,No,Midwest,Month-to-Month,1,None,Electronic Check,Yes,No,Yes,Yes,44.25,3.56,81.25,1,4.6,Yes,No Long-Term Commitment
+CUST-10001,Male,41,No,Midwest,Two Year,48,Fiber Optic,Credit Card,Yes,Yes,No,Yes,87.49,5.42,4175.17,0,3.7,No,Retained
+CUST-10002,Male,34,No,West,Month-to-Month,2,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,85.1,2.43,212.06,2,3.7,No,Retained
+CUST-10003,Male,68,Yes,Northeast,Month-to-Month,20,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,103.78,3.06,2106.46,3,3.7,No,Retained
+CUST-10004,Female,22,No,South,Two Year,46,Fiber Optic,Bank Transfer,No,No,No,Yes,70.09,9.68,3243.63,3,3.6,Yes,Poor Support Experience
+CUST-10005,Female,18,No,South,Month-to-Month,19,DSL,Bank Transfer,Yes,Yes,No,No,65.54,2.65,1266.71,2,2.8,No,Retained
+CUST-10006,Female,48,No,Midwest,Two Year,61,Fiber Optic,Electronic Check,No,Yes,No,No,101.01,9.51,6140.07,3,3.2,No,Retained
+CUST-10007,Male,35,No,Northeast,Month-to-Month,29,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,109.2,2.74,3231.82,0,4.8,No,Retained
+CUST-10008,Male,28,No,South,Month-to-Month,22,Fiber Optic,Credit Card,Yes,Yes,No,No,77.18,2.14,1699.47,4,2.7,Yes,Service Reliability Issues
+CUST-10009,Male,52,No,South,Month-to-Month,18,None,Electronic Check,Yes,No,No,Yes,50.37,0.95,917.23,1,4.2,No,Retained
+CUST-10010,Female,45,No,South,One Year,29,DSL,Electronic Check,Yes,Yes,No,Yes,74.77,5.86,2145.61,1,4.2,No,Retained
+CUST-10011,Male,34,No,South,Month-to-Month,8,Fiber Optic,Electronic Check,Yes,No,No,Yes,85.06,1.89,647.89,1,3.1,Yes,No Long-Term Commitment
+CUST-10012,Male,24,No,Midwest,Month-to-Month,29,Fiber Optic,Electronic Check,Yes,Yes,No,No,88.59,1.18,2585.82,3,3.6,Yes,Service Reliability Issues
+CUST-10013,Female,54,No,West,Month-to-Month,30,None,Bank Transfer,No,No,No,No,50.6,3.21,1525.61,3,2.9,Yes,Competitor Offer
+CUST-10014,Female,51,No,West,Month-to-Month,12,DSL,Electronic Check,Yes,No,Yes,Yes,75.0,2.79,872.37,2,3.9,Yes,No Long-Term Commitment
+CUST-10015,Female,41,No,West,Two Year,64,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,86.7,13.52,5498.46,5,2.2,No,Retained
+CUST-10016,Female,68,Yes,South,Two Year,21,Fiber Optic,Credit Card,Yes,Yes,No,Yes,97.54,8.42,2003.89,2,3.2,No,Retained
+CUST-10017,Male,27,No,South,Month-to-Month,23,Fiber Optic,Bank Transfer,Yes,Yes,No,No,88.44,2.6,2075.98,2,3.9,No,Retained
+CUST-10018,Female,21,No,Midwest,One Year,16,Fiber Optic,Electronic Check,Yes,No,No,No,70.94,8.42,1113.58,3,1.7,Yes,Competitor Offer
+CUST-10019,Female,32,No,Northeast,Month-to-Month,2,DSL,Electronic Check,Yes,Yes,No,Yes,78.82,3.61,145.78,1,4.2,Yes,No Long-Term Commitment
+CUST-10020,Male,41,No,Northeast,One Year,31,None,Electronic Check,Yes,No,Yes,No,42.9,2.23,1380.66,2,4.1,No,Retained
+CUST-10021,Female,45,No,South,One Year,41,DSL,Bank Transfer,No,No,Yes,Yes,66.54,8.98,2688.86,3,2.8,No,Retained
+CUST-10022,Female,39,No,Northeast,Two Year,44,DSL,Credit Card,No,No,Yes,No,54.07,9.82,2353.64,1,3.7,No,Retained
+CUST-10023,Female,47,No,Midwest,Month-to-Month,15,Fiber Optic,Bank Transfer,Yes,No,Yes,No,72.94,1.42,1067.19,2,2.7,Yes,Competitor Offer
+CUST-10024,Female,24,No,Midwest,One Year,18,DSL,Mailed Check,Yes,No,No,Yes,51.98,3.77,992.27,1,3.1,No,Retained
+CUST-10025,Male,62,No,West,Month-to-Month,8,DSL,Bank Transfer,No,Yes,No,No,53.42,3.4,497.13,2,3.7,Yes,No Long-Term Commitment
+CUST-10026,Female,41,No,West,Two Year,36,Fiber Optic,Credit Card,Yes,No,No,No,57.07,12.79,2080.82,5,4.9,No,Retained
+CUST-10027,Female,58,No,South,Month-to-Month,4,Fiber Optic,Credit Card,Yes,No,No,Yes,79.89,0.03,346.98,3,3.8,Yes,Competitor Offer
+CUST-10028,Male,47,No,South,One Year,47,DSL,Electronic Check,Yes,Yes,No,Yes,76.27,3.75,3564.38,1,3.1,No,Retained
+CUST-10029,Female,48,No,South,One Year,24,Fiber Optic,Mailed Check,Yes,No,No,No,69.58,4.34,1738.08,2,4.1,No,Retained
+CUST-10030,Male,50,No,South,One Year,23,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,69.54,4.39,1608.79,1,4.2,No,Retained
+CUST-10031,Female,48,No,West,Month-to-Month,5,DSL,Electronic Check,Yes,No,No,Yes,81.61,3.87,437.91,3,1.9,Yes,No Long-Term Commitment
+CUST-10032,Female,51,No,Midwest,Two Year,41,None,Bank Transfer,Yes,No,No,No,44.74,12.34,1830.65,0,3.7,No,Retained
+CUST-10033,Male,61,No,West,Month-to-Month,19,Fiber Optic,Electronic Check,Yes,Yes,No,No,91.59,1.89,1730.83,5,2.3,No,Retained
+CUST-10034,Male,45,No,South,One Year,28,DSL,Credit Card,No,No,Yes,No,86.83,3.4,2489.45,1,3.5,Yes,Price Too High
+CUST-10035,Male,52,No,Northeast,Month-to-Month,27,Fiber Optic,Credit Card,Yes,Yes,Yes,No,82.96,0.37,2258.81,1,3.7,Yes,Competitor Offer
+CUST-10036,Female,41,No,Northeast,Month-to-Month,22,DSL,Credit Card,Yes,Yes,Yes,No,100.12,1.51,2253.44,3,3.0,No,Retained
+CUST-10037,Female,62,No,Midwest,Month-to-Month,16,DSL,Bank Transfer,Yes,Yes,No,Yes,65.58,1.27,1058.22,1,3.0,No,Retained
+CUST-10038,Male,33,No,Northeast,Month-to-Month,1,DSL,Electronic Check,No,No,No,No,61.51,2.14,31.82,2,3.2,Yes,No Long-Term Commitment
+CUST-10039,Female,67,Yes,West,Month-to-Month,12,Fiber Optic,Credit Card,No,Yes,No,No,70.79,2.64,829.06,2,3.3,Yes,No Long-Term Commitment
+CUST-10040,Female,41,No,Northeast,Month-to-Month,24,DSL,Credit Card,Yes,Yes,No,Yes,75.98,2.81,1827.12,1,4.7,Yes,Competitor Offer
+CUST-10041,Female,22,No,South,Month-to-Month,2,DSL,Bank Transfer,Yes,No,Yes,Yes,77.2,0.55,132.47,3,2.7,Yes,Competitor Offer
+CUST-10042,Female,44,No,West,One Year,13,Fiber Optic,Bank Transfer,No,Yes,No,Yes,87.11,5.46,1093.67,2,3.0,Yes,Price Too High
+CUST-10043,Male,32,No,South,Two Year,29,Fiber Optic,Credit Card,No,Yes,No,No,89.29,7.54,2631.46,1,3.1,No,Retained
+CUST-10044,Female,54,No,South,Month-to-Month,25,Fiber Optic,Credit Card,Yes,Yes,No,No,86.01,3.56,2131.18,2,4.4,Yes,Price Too High
+CUST-10045,Male,33,No,South,Month-to-Month,16,Fiber Optic,Electronic Check,Yes,Yes,No,No,80.26,1.8,1289.0,1,4.3,No,Retained
+CUST-10046,Female,36,No,Midwest,Month-to-Month,5,DSL,Mailed Check,Yes,No,Yes,No,58.04,3.58,300.56,2,2.8,No,Retained
+CUST-10047,Male,18,No,Midwest,Month-to-Month,26,Fiber Optic,Credit Card,No,Yes,Yes,Yes,106.9,3.46,2758.81,4,3.0,Yes,No Long-Term Commitment
+CUST-10048,Male,36,No,West,One Year,35,Fiber Optic,Bank Transfer,Yes,No,No,No,66.12,2.99,2364.98,2,2.7,No,Retained
+CUST-10049,Female,18,No,South,One Year,18,DSL,Electronic Check,Yes,No,No,No,65.48,7.75,1139.54,1,4.0,No,Retained
+CUST-10050,Male,20,No,Northeast,Month-to-Month,19,Fiber Optic,Electronic Check,No,Yes,No,Yes,104.62,3.73,1996.94,4,3.7,Yes,No Long-Term Commitment
+CUST-10051,Male,53,No,Midwest,Month-to-Month,29,DSL,Credit Card,No,Yes,No,No,50.49,2.86,1472.82,2,1.9,Yes,No Long-Term Commitment
+CUST-10052,Male,53,No,West,Month-to-Month,3,Fiber Optic,Bank Transfer,No,Yes,No,Yes,103.61,3.71,308.93,2,2.3,Yes,Competitor Offer
+CUST-10053,Male,48,No,Midwest,Two Year,37,None,Credit Card,No,No,No,No,54.32,13.41,1964.45,0,4.1,No,Retained
+CUST-10054,Male,28,No,South,Two Year,51,DSL,Mailed Check,Yes,Yes,No,No,66.19,11.77,3406.17,1,3.4,No,Retained
+CUST-10055,Male,41,No,West,Month-to-Month,27,DSL,Credit Card,Yes,Yes,No,No,78.83,0.46,2154.43,0,4.2,No,Retained
+CUST-10056,Female,42,No,Northeast,Month-to-Month,26,Fiber Optic,Credit Card,Yes,No,No,No,87.41,1.17,2249.02,6,2.1,Yes,No Long-Term Commitment
+CUST-10057,Female,26,No,South,Two Year,69,DSL,Electronic Check,No,Yes,No,Yes,64.35,13.85,4464.91,0,2.7,No,Retained
+CUST-10058,Female,63,No,West,Two Year,23,Fiber Optic,Bank Transfer,Yes,Yes,No,No,83.41,7.52,1931.55,2,4.0,No,Retained
+CUST-10059,Female,54,No,Northeast,Month-to-Month,2,Fiber Optic,Electronic Check,No,No,No,Yes,65.98,0.37,87.14,1,2.7,Yes,Poor Support Experience
+CUST-10060,Female,39,No,Midwest,Month-to-Month,11,Fiber Optic,Bank Transfer,Yes,No,No,No,75.46,2.83,800.17,0,4.2,No,Retained
+CUST-10061,Female,42,No,South,Month-to-Month,12,DSL,Mailed Check,No,Yes,No,No,75.69,2.94,948.12,1,3.4,No,Retained
+CUST-10062,Male,45,No,South,One Year,33,Fiber Optic,Mailed Check,Yes,No,No,No,80.15,2.48,2655.78,1,5.0,No,Retained
+CUST-10063,Female,18,No,South,Month-to-Month,18,DSL,Credit Card,Yes,Yes,Yes,Yes,96.63,1.19,1719.59,1,3.3,No,Retained
+CUST-10064,Female,39,No,Midwest,Month-to-Month,13,Fiber Optic,Bank Transfer,No,No,No,No,65.45,1.88,820.8,2,3.8,No,Retained
+CUST-10065,Male,32,No,West,One Year,42,Fiber Optic,Bank Transfer,Yes,No,No,No,65.42,6.02,2729.6,2,3.9,No,Retained
+CUST-10066,Female,28,No,South,Month-to-Month,22,DSL,Electronic Check,No,No,No,No,80.14,3.16,1747.52,6,2.8,Yes,Poor Support Experience
+CUST-10067,Male,38,No,Northeast,One Year,17,Fiber Optic,Credit Card,Yes,No,Yes,Yes,83.79,3.91,1394.82,5,2.7,No,Retained
+CUST-10068,Female,67,Yes,West,Month-to-Month,2,DSL,Electronic Check,No,No,Yes,Yes,72.82,3.42,84.68,2,2.7,Yes,No Long-Term Commitment
+CUST-10069,Male,51,No,South,Month-to-Month,5,Fiber Optic,Credit Card,Yes,No,Yes,Yes,85.37,3.21,466.75,2,3.1,Yes,Service Reliability Issues
+CUST-10070,Male,34,No,West,One Year,12,DSL,Electronic Check,Yes,No,No,No,48.23,3.81,612.73,1,2.3,Yes,Poor Support Experience
+CUST-10071,Female,50,No,Midwest,Month-to-Month,26,DSL,Electronic Check,No,Yes,Yes,No,97.2,1.3,2482.64,2,3.5,Yes,Moved/No Longer Needed
+CUST-10072,Female,62,No,South,Two Year,37,Fiber Optic,Credit Card,Yes,Yes,No,No,70.41,13.79,2609.94,2,5.0,No,Retained
+CUST-10073,Male,55,No,South,Month-to-Month,24,Fiber Optic,Credit Card,Yes,No,Yes,Yes,74.13,1.78,1747.54,1,3.9,No,Retained
+CUST-10074,Male,43,No,Northeast,Month-to-Month,12,DSL,Credit Card,Yes,No,Yes,Yes,66.67,1.36,790.89,3,3.5,No,Retained
+CUST-10075,Male,33,No,West,One Year,21,DSL,Electronic Check,Yes,Yes,Yes,No,53.39,2.89,1109.12,0,2.8,No,Retained
+CUST-10076,Male,52,No,West,Month-to-Month,23,Fiber Optic,Credit Card,Yes,No,Yes,No,73.73,1.93,1680.82,6,1.8,Yes,No Long-Term Commitment
+CUST-10077,Female,48,No,West,Two Year,51,Fiber Optic,Electronic Check,No,No,No,No,59.97,6.85,3128.57,3,4.0,No,Retained
+CUST-10078,Female,55,No,South,Month-to-Month,30,DSL,Credit Card,Yes,No,No,No,67.13,0.42,1998.49,2,2.3,Yes,No Long-Term Commitment
+CUST-10079,Female,51,No,South,Month-to-Month,28,DSL,Credit Card,Yes,No,No,Yes,57.6,0.56,1584.51,0,3.4,No,Retained
+CUST-10080,Male,57,No,West,Month-to-Month,9,Fiber Optic,Credit Card,Yes,Yes,Yes,No,101.52,3.91,886.99,3,3.4,Yes,Price Too High
+CUST-10081,Male,35,No,South,Month-to-Month,15,DSL,Bank Transfer,Yes,Yes,Yes,No,93.53,2.35,1439.48,0,4.3,No,Retained
+CUST-10082,Female,60,No,South,Two Year,48,Fiber Optic,Electronic Check,Yes,Yes,No,No,87.32,10.32,4133.54,2,3.1,No,Retained
+CUST-10083,Female,45,No,Northeast,One Year,18,DSL,Bank Transfer,No,Yes,No,Yes,68.98,8.54,1214.95,2,3.6,Yes,Moved/No Longer Needed
+CUST-10084,Female,71,Yes,Northeast,Month-to-Month,5,Fiber Optic,Credit Card,No,No,Yes,Yes,89.91,0.86,500.19,4,2.7,Yes,Service Reliability Issues
+CUST-10085,Female,32,No,Midwest,Month-to-Month,11,None,Credit Card,Yes,No,No,Yes,24.96,2.87,283.1,1,2.8,Yes,Poor Support Experience
+CUST-10086,Male,66,Yes,Northeast,One Year,15,DSL,Credit Card,Yes,No,No,No,57.04,2.32,862.32,0,3.9,Yes,Moved/No Longer Needed
+CUST-10087,Male,45,No,South,Two Year,63,DSL,Electronic Check,No,No,Yes,Yes,57.44,8.34,3693.35,0,4.2,No,Retained
+CUST-10088,Male,33,No,Northeast,Month-to-Month,13,DSL,Credit Card,Yes,Yes,No,Yes,84.36,2.28,1105.3,0,3.9,Yes,No Long-Term Commitment
+CUST-10089,Female,35,No,South,Month-to-Month,9,None,Credit Card,Yes,Yes,Yes,Yes,90.43,3.66,789.08,2,1.6,No,Retained
+CUST-10090,Female,38,No,Northeast,Month-to-Month,21,DSL,Electronic Check,Yes,Yes,No,No,76.36,2.1,1593.69,3,4.5,No,Retained
+CUST-10091,Male,48,No,Northeast,Two Year,57,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,69.04,10.46,3895.54,0,3.1,No,Retained
+CUST-10092,Male,49,No,Midwest,Month-to-Month,18,DSL,Electronic Check,No,No,No,No,54.4,2.29,1023.16,2,3.6,Yes,Competitor Offer
+CUST-10093,Male,34,No,Northeast,Month-to-Month,15,DSL,Mailed Check,No,Yes,Yes,Yes,86.15,0.37,1312.36,0,3.9,No,Retained
+CUST-10094,Male,42,No,West,One Year,47,DSL,Bank Transfer,Yes,Yes,No,Yes,76.59,3.11,3639.08,1,3.4,No,Retained
+CUST-10095,Female,72,Yes,South,Month-to-Month,24,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,86.13,0.12,2109.57,1,3.6,No,Retained
+CUST-10096,Male,66,Yes,West,Month-to-Month,7,Fiber Optic,Electronic Check,No,No,No,Yes,83.2,2.05,567.9,3,2.6,Yes,Competitor Offer
+CUST-10097,Female,48,No,Midwest,Month-to-Month,8,Fiber Optic,Credit Card,No,Yes,No,Yes,78.82,0.34,597.49,2,5.0,Yes,Competitor Offer
+CUST-10098,Female,43,No,South,Month-to-Month,28,None,Bank Transfer,Yes,No,No,Yes,32.05,1.88,895.59,1,3.5,No,Retained
+CUST-10099,Female,44,No,Midwest,Month-to-Month,3,Fiber Optic,Electronic Check,Yes,Yes,No,No,92.18,3.73,245.99,3,3.6,No,Retained
+CUST-10100,Female,51,No,Northeast,Month-to-Month,15,None,Electronic Check,Yes,No,No,No,25.07,2.88,381.82,2,2.6,No,Retained
+CUST-10101,Male,28,No,South,Month-to-Month,16,DSL,Bank Transfer,No,Yes,Yes,Yes,91.18,0.31,1498.5,1,4.0,No,Retained
+CUST-10102,Female,38,No,Midwest,One Year,41,DSL,Electronic Check,No,No,Yes,Yes,55.1,2.59,2253.22,2,2.9,No,Retained
+CUST-10103,Female,19,No,Northeast,One Year,26,DSL,Electronic Check,Yes,No,No,No,73.95,8.9,1927.95,2,2.4,Yes,Moved/No Longer Needed
+CUST-10104,Male,48,No,Northeast,One Year,11,Fiber Optic,Mailed Check,No,No,Yes,No,69.2,6.12,757.92,1,2.9,No,Retained
+CUST-10105,Female,51,No,Northeast,Month-to-Month,1,Fiber Optic,Credit Card,Yes,No,No,Yes,79.22,0.13,107.32,2,2.8,Yes,Competitor Offer
+CUST-10106,Female,35,No,West,Month-to-Month,4,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,95.75,3.25,359.63,5,2.5,Yes,Moved/No Longer Needed
+CUST-10107,Male,64,No,Northeast,Month-to-Month,11,DSL,Electronic Check,Yes,Yes,No,No,63.75,2.25,624.37,1,5.0,No,Retained
+CUST-10108,Female,25,No,Midwest,Month-to-Month,12,Fiber Optic,Electronic Check,Yes,Yes,No,No,87.76,2.18,1069.6,1,5.0,Yes,Price Too High
+CUST-10109,Female,21,No,South,Month-to-Month,26,DSL,Electronic Check,Yes,No,No,No,64.34,3.83,1707.41,1,3.5,No,Retained
+CUST-10110,Female,45,No,West,One Year,42,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,96.96,8.12,4087.94,2,3.9,No,Retained
+CUST-10111,Female,57,No,Midwest,Month-to-Month,23,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,106.74,3.4,2432.61,2,2.1,Yes,Poor Support Experience
+CUST-10112,Male,66,Yes,South,Month-to-Month,29,Fiber Optic,Bank Transfer,Yes,No,No,No,72.89,1.42,2074.08,4,1.3,Yes,Service Reliability Issues
+CUST-10113,Male,36,No,Midwest,Month-to-Month,21,None,Mailed Check,Yes,No,Yes,No,42.28,2.22,905.19,1,3.8,Yes,Competitor Offer
+CUST-10114,Male,57,No,Midwest,One Year,32,DSL,Credit Card,Yes,Yes,No,Yes,99.22,6.56,3179.99,0,4.1,No,Retained
+CUST-10115,Male,41,No,South,Month-to-Month,7,Fiber Optic,Electronic Check,Yes,No,No,No,86.27,1.29,599.49,4,3.3,Yes,No Long-Term Commitment
+CUST-10116,Male,40,No,West,One Year,45,DSL,Credit Card,Yes,No,No,No,46.39,5.22,2151.34,0,4.9,Yes,Competitor Offer
+CUST-10117,Female,54,No,Midwest,Month-to-Month,13,Fiber Optic,Mailed Check,Yes,Yes,Yes,No,95.29,0.95,1205.63,3,2.6,No,Retained
+CUST-10118,Male,51,No,West,Two Year,34,None,Bank Transfer,No,Yes,Yes,No,49.35,6.86,1740.03,2,3.6,No,Retained
+CUST-10119,Male,20,No,South,Two Year,70,DSL,Electronic Check,No,No,Yes,No,57.11,12.65,3998.81,3,3.9,No,Retained
+CUST-10120,Male,63,No,South,Month-to-Month,16,Fiber Optic,Bank Transfer,No,No,Yes,Yes,72.05,2.96,1088.56,2,4.5,Yes,Competitor Offer
+CUST-10121,Male,61,No,West,Month-to-Month,30,DSL,Credit Card,Yes,Yes,Yes,No,71.35,3.66,2134.23,1,3.0,Yes,Moved/No Longer Needed
+CUST-10122,Female,33,No,Northeast,Month-to-Month,29,Fiber Optic,Mailed Check,Yes,Yes,No,No,107.73,1.83,3157.75,1,3.6,No,Retained
+CUST-10123,Female,48,No,South,Month-to-Month,4,None,Electronic Check,No,No,Yes,Yes,56.46,2.57,213.06,2,4.0,Yes,No Long-Term Commitment
+CUST-10124,Female,49,No,Midwest,One Year,45,Fiber Optic,Credit Card,Yes,No,No,Yes,49.92,4.2,2194.78,2,3.6,No,Retained
+CUST-10125,Female,46,No,South,Two Year,27,DSL,Bank Transfer,Yes,No,No,No,70.05,6.1,1885.59,2,3.0,No,Retained
+CUST-10126,Male,34,No,West,One Year,36,Fiber Optic,Credit Card,Yes,Yes,No,Yes,99.32,7.25,3545.52,2,3.2,No,Retained
+CUST-10127,Male,33,No,Northeast,Two Year,64,DSL,Credit Card,No,Yes,No,No,63.17,6.68,4060.09,3,3.7,No,Retained
+CUST-10128,Female,42,No,Midwest,Month-to-Month,10,DSL,Electronic Check,Yes,No,Yes,Yes,79.01,3.18,817.17,3,2.6,No,Retained
+CUST-10129,Female,58,No,South,Month-to-Month,25,DSL,Electronic Check,No,Yes,No,Yes,66.99,1.03,1637.78,1,2.8,No,Retained
+CUST-10130,Female,50,No,West,One Year,17,DSL,Electronic Check,No,No,Yes,No,57.94,5.58,960.28,0,5.0,No,Retained
+CUST-10131,Female,37,No,South,Month-to-Month,26,DSL,Mailed Check,Yes,No,No,Yes,80.76,3.84,2126.24,3,3.4,No,Retained
+CUST-10132,Female,53,No,West,One Year,42,Fiber Optic,Electronic Check,No,Yes,Yes,No,89.67,2.26,3736.08,2,3.9,No,Retained
+CUST-10133,Female,18,No,Midwest,Month-to-Month,16,Fiber Optic,Credit Card,Yes,No,No,No,52.1,2.73,795.72,4,3.2,Yes,Poor Support Experience
+CUST-10134,Male,58,No,South,Month-to-Month,1,Fiber Optic,Bank Transfer,No,Yes,No,Yes,89.65,3.85,48.4,3,3.7,Yes,Price Too High
+CUST-10135,Female,18,No,South,Two Year,39,None,Electronic Check,Yes,No,No,Yes,38.08,11.57,1497.44,1,3.8,No,Retained
+CUST-10136,Female,37,No,West,Month-to-Month,9,Fiber Optic,Credit Card,No,Yes,Yes,Yes,111.4,3.45,1013.42,0,4.1,No,Retained
+CUST-10137,Male,26,No,Northeast,Two Year,23,DSL,Bank Transfer,Yes,Yes,Yes,Yes,78.33,8.03,1777.65,1,2.9,No,Retained
+CUST-10138,Female,24,No,Northeast,Two Year,16,DSL,Bank Transfer,No,No,No,No,51.47,6.32,823.7,4,1.6,Yes,Poor Support Experience
+CUST-10139,Male,58,No,South,One Year,33,Fiber Optic,Credit Card,Yes,No,No,Yes,86.75,8.24,2916.2,1,3.0,No,Retained
+CUST-10140,Male,35,No,Midwest,One Year,40,Fiber Optic,Bank Transfer,Yes,Yes,Yes,Yes,100.1,2.29,3969.91,3,1.8,Yes,Service Reliability Issues
+CUST-10141,Female,47,No,West,One Year,10,Fiber Optic,Electronic Check,No,No,Yes,No,72.15,2.5,653.19,2,1.8,No,Retained
+CUST-10142,Female,41,No,West,Two Year,45,Fiber Optic,Mailed Check,No,Yes,Yes,Yes,97.69,14.95,4411.98,1,3.6,No,Retained
+CUST-10143,Female,49,No,Midwest,Month-to-Month,14,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,93.05,3.4,1298.84,1,2.0,Yes,Competitor Offer
+CUST-10144,Female,43,No,Northeast,Month-to-Month,2,Fiber Optic,Bank Transfer,Yes,Yes,Yes,Yes,98.48,2.53,172.11,0,4.4,No,Retained
+CUST-10145,Female,24,No,Northeast,One Year,18,DSL,Electronic Check,Yes,Yes,No,No,71.5,3.55,1309.82,0,5.0,No,Retained
+CUST-10146,Male,56,No,West,Month-to-Month,7,None,Mailed Check,No,Yes,No,No,37.03,0.31,288.58,1,2.6,Yes,Poor Support Experience
+CUST-10147,Female,35,No,West,Month-to-Month,10,Fiber Optic,Bank Transfer,No,Yes,No,No,79.21,3.01,714.81,2,3.7,Yes,Service Reliability Issues
+CUST-10148,Female,20,No,Midwest,Month-to-Month,13,Fiber Optic,Bank Transfer,No,Yes,No,Yes,91.3,2.91,1164.06,1,4.9,No,Retained
+CUST-10149,Female,36,No,South,One Year,19,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,88.9,3.01,1770.21,3,2.5,No,Retained
+CUST-10150,Male,63,No,West,Two Year,22,DSL,Credit Card,Yes,No,No,No,69.48,7.69,1548.98,1,4.2,No,Retained
+CUST-10151,Female,54,No,West,Month-to-Month,10,DSL,Credit Card,Yes,No,Yes,No,67.31,3.31,696.76,1,5.0,No,Retained
+CUST-10152,Female,37,No,Midwest,Two Year,49,Fiber Optic,Bank Transfer,No,Yes,No,No,89.33,9.09,4418.22,3,1.6,Yes,Service Reliability Issues
+CUST-10153,Female,37,No,South,One Year,9,Fiber Optic,Electronic Check,Yes,No,No,Yes,76.12,7.29,685.68,1,2.9,No,Retained
+CUST-10154,Male,37,No,South,Two Year,64,DSL,Mailed Check,No,No,No,Yes,70.42,10.5,4534.76,1,4.2,No,Retained
+CUST-10155,Female,71,Yes,Northeast,One Year,38,DSL,Bank Transfer,Yes,No,No,No,63.0,2.73,2419.13,0,5.0,No,Retained
+CUST-10156,Male,47,No,South,One Year,12,Fiber Optic,Electronic Check,Yes,No,Yes,No,76.63,7.85,938.43,2,2.9,No,Retained
+CUST-10157,Male,48,No,West,Month-to-Month,24,DSL,Bank Transfer,Yes,No,No,No,58.89,1.59,1402.09,2,5.0,No,Retained
+CUST-10158,Female,56,No,South,One Year,46,Fiber Optic,Credit Card,Yes,Yes,Yes,No,80.34,3.84,3701.66,4,3.1,No,Retained
+CUST-10159,Male,45,No,South,Month-to-Month,8,Fiber Optic,Credit Card,Yes,No,No,No,81.13,1.16,628.45,1,2.2,No,Retained
+CUST-10160,Female,38,No,South,Two Year,48,DSL,Electronic Check,Yes,No,Yes,No,61.93,6.9,2973.09,2,4.8,No,Retained
+CUST-10161,Male,39,No,South,Two Year,62,DSL,Credit Card,Yes,No,No,No,49.43,8.43,3023.76,4,2.6,No,Retained
+CUST-10162,Male,41,No,Northeast,Month-to-Month,10,Fiber Optic,Bank Transfer,No,No,Yes,No,95.43,0.88,926.63,1,3.8,Yes,Price Too High
+CUST-10163,Male,41,No,South,Month-to-Month,11,None,Credit Card,Yes,Yes,No,No,34.26,2.11,366.98,1,2.4,Yes,No Long-Term Commitment
+CUST-10164,Female,52,No,Northeast,One Year,20,Fiber Optic,Credit Card,Yes,No,No,Yes,74.11,3.67,1449.17,1,3.1,No,Retained
+CUST-10165,Male,43,No,West,Month-to-Month,6,DSL,Bank Transfer,Yes,No,Yes,Yes,82.6,3.2,477.92,0,2.8,Yes,Competitor Offer
+CUST-10166,Female,52,No,West,Two Year,26,DSL,Bank Transfer,Yes,Yes,No,No,65.06,14.16,1685.82,2,2.2,No,Retained
+CUST-10167,Female,41,No,West,Month-to-Month,5,DSL,Electronic Check,No,Yes,No,No,69.79,2.3,363.03,2,3.6,Yes,Moved/No Longer Needed
+CUST-10168,Female,43,No,West,Month-to-Month,29,None,Bank Transfer,Yes,No,No,No,40.77,0.59,1215.55,3,3.7,No,Retained
+CUST-10169,Male,18,No,Midwest,Two Year,30,Fiber Optic,Credit Card,No,No,Yes,Yes,81.85,10.2,2439.27,3,2.8,Yes,Service Reliability Issues
+CUST-10170,Male,55,No,South,One Year,15,None,Electronic Check,Yes,No,No,Yes,24.69,4.31,417.08,1,2.6,No,Retained
+CUST-10171,Female,47,No,West,Two Year,23,DSL,Electronic Check,Yes,No,No,No,47.82,14.32,1132.71,1,2.7,No,Retained
+CUST-10172,Female,56,No,Northeast,Month-to-Month,22,DSL,Credit Card,Yes,Yes,No,Yes,94.4,3.08,2094.44,1,3.7,No,Retained
+CUST-10173,Female,18,No,Northeast,One Year,9,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,82.4,4.29,746.98,2,3.6,No,Retained
+CUST-10174,Male,71,Yes,Northeast,One Year,36,DSL,Credit Card,Yes,Yes,No,Yes,68.08,8.22,2462.05,3,3.6,No,Retained
+CUST-10175,Female,40,No,West,One Year,23,DSL,Bank Transfer,No,Yes,Yes,No,70.92,2.18,1672.71,2,4.7,Yes,Moved/No Longer Needed
+CUST-10176,Male,58,No,Midwest,One Year,21,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,95.12,4.84,2040.35,4,3.1,No,Retained
+CUST-10177,Female,27,No,West,One Year,45,None,Credit Card,Yes,Yes,Yes,No,48.89,2.22,2246.77,1,4.1,No,Retained
+CUST-10178,Male,51,No,West,Month-to-Month,4,Fiber Optic,Mailed Check,Yes,No,Yes,No,86.84,2.25,348.81,1,5.0,Yes,Price Too High
+CUST-10179,Female,27,No,South,Month-to-Month,25,Fiber Optic,Bank Transfer,Yes,No,No,No,76.18,2.8,1923.92,2,3.3,Yes,No Long-Term Commitment
+CUST-10180,Female,33,No,Midwest,One Year,28,DSL,Electronic Check,Yes,Yes,No,No,78.22,3.77,2237.18,3,5.0,No,Retained
+CUST-10181,Female,69,Yes,South,Month-to-Month,12,DSL,Credit Card,Yes,Yes,Yes,Yes,70.31,2.88,821.89,3,4.4,No,Retained
+CUST-10182,Male,39,No,West,One Year,39,DSL,Electronic Check,Yes,Yes,No,Yes,70.19,5.05,2726.27,2,3.3,No,Retained
+CUST-10183,Male,45,No,Northeast,Month-to-Month,4,Fiber Optic,Credit Card,Yes,No,No,Yes,76.25,3.83,305.56,2,4.1,Yes,No Long-Term Commitment
+CUST-10184,Female,54,No,South,One Year,42,None,Bank Transfer,No,Yes,No,No,52.07,6.13,2218.43,1,3.6,No,Retained
+CUST-10185,Male,49,No,South,One Year,8,Fiber Optic,Bank Transfer,No,Yes,No,Yes,81.95,2.99,687.63,5,1.6,Yes,Poor Support Experience
+CUST-10186,Male,44,No,South,Month-to-Month,9,Fiber Optic,Electronic Check,Yes,No,No,Yes,89.83,3.4,800.39,1,3.4,Yes,Price Too High
+CUST-10187,Male,47,No,Northeast,Month-to-Month,29,Fiber Optic,Mailed Check,Yes,No,Yes,No,94.63,2.68,2691.47,2,2.0,No,Retained
+CUST-10188,Male,76,Yes,West,Month-to-Month,21,DSL,Credit Card,No,Yes,Yes,Yes,70.99,2.93,1499.41,2,3.7,No,Retained
+CUST-10189,Female,41,No,West,One Year,23,None,Credit Card,Yes,Yes,Yes,Yes,53.26,6.75,1192.84,0,4.6,No,Retained
+CUST-10190,Female,45,No,Northeast,Two Year,54,DSL,Credit Card,Yes,Yes,No,No,61.64,6.06,3276.41,1,3.6,No,Retained
+CUST-10191,Male,57,No,Northeast,Month-to-Month,3,DSL,Credit Card,Yes,No,Yes,No,98.01,0.59,249.79,1,3.6,Yes,Price Too High
+CUST-10192,Male,57,No,West,One Year,39,Fiber Optic,Credit Card,Yes,No,No,Yes,70.2,8.64,2749.22,0,4.2,No,Retained
+CUST-10193,Male,59,No,Midwest,Month-to-Month,9,DSL,Credit Card,Yes,Yes,Yes,Yes,103.22,1.82,976.62,0,4.3,Yes,No Long-Term Commitment
+CUST-10194,Female,51,No,Midwest,Month-to-Month,14,Fiber Optic,Credit Card,No,No,No,No,58.37,3.99,818.54,2,3.6,Yes,Competitor Offer
+CUST-10195,Female,26,No,Midwest,Two Year,15,DSL,Electronic Check,No,Yes,Yes,Yes,65.54,10.37,990.5,1,3.5,No,Retained
+CUST-10196,Male,65,Yes,South,Month-to-Month,29,Fiber Optic,Bank Transfer,No,Yes,Yes,No,84.03,3.15,2478.27,2,4.1,No,Retained
+CUST-10197,Male,26,No,Northeast,Month-to-Month,9,DSL,Credit Card,No,Yes,Yes,Yes,73.85,1.34,610.59,3,3.4,No,Retained
+CUST-10198,Male,46,No,West,Month-to-Month,13,DSL,Electronic Check,Yes,No,No,No,54.9,3.33,731.91,4,1.3,Yes,Poor Support Experience
+CUST-10199,Male,31,No,South,Month-to-Month,18,DSL,Bank Transfer,Yes,Yes,Yes,Yes,74.61,2.46,1342.57,2,3.2,No,Retained
+CUST-10200,Male,41,No,West,Month-to-Month,15,DSL,Mailed Check,No,Yes,No,No,60.44,2.79,926.41,0,3.6,No,Retained
+CUST-10201,Female,47,No,South,Month-to-Month,28,Fiber Optic,Mailed Check,No,Yes,Yes,Yes,113.54,1.18,3162.2,2,3.3,No,Retained
+CUST-10202,Female,46,No,South,One Year,47,DSL,Credit Card,Yes,Yes,Yes,No,88.17,5.89,4115.36,1,3.4,No,Retained
+CUST-10203,Male,48,No,Midwest,Month-to-Month,16,Fiber Optic,Electronic Check,No,No,No,Yes,91.02,2.54,1461.24,0,2.1,Yes,Poor Support Experience
+CUST-10204,Male,65,Yes,South,Month-to-Month,12,DSL,Credit Card,Yes,Yes,Yes,Yes,89.14,2.36,1127.4,2,2.0,Yes,Poor Support Experience
+CUST-10205,Female,48,No,West,Month-to-Month,20,DSL,Electronic Check,Yes,Yes,No,No,70.43,3.66,1438.73,0,3.2,No,Retained
+CUST-10206,Female,39,No,West,Month-to-Month,5,Fiber Optic,Mailed Check,Yes,No,No,No,67.53,3.59,319.88,1,3.8,Yes,No Long-Term Commitment
+CUST-10207,Male,55,No,South,One Year,39,None,Electronic Check,Yes,No,Yes,No,32.04,4.53,1202.63,4,3.9,Yes,Poor Support Experience
+CUST-10208,Female,59,No,Northeast,Two Year,53,DSL,Electronic Check,Yes,No,Yes,Yes,69.94,9.59,3647.95,0,2.7,Yes,Competitor Offer
+CUST-10209,Female,25,No,South,Month-to-Month,1,Fiber Optic,Credit Card,Yes,No,Yes,No,66.24,3.89,112.3,4,2.5,Yes,Poor Support Experience
+CUST-10210,Male,50,No,South,Two Year,50,DSL,Credit Card,Yes,Yes,No,No,55.87,6.99,2760.07,2,3.5,No,Retained
+CUST-10211,Male,52,No,South,One Year,37,Fiber Optic,Bank Transfer,Yes,No,No,No,83.51,7.03,3078.48,0,3.3,No,Retained
+CUST-10212,Male,38,No,South,One Year,31,DSL,Credit Card,Yes,No,No,No,76.03,8.19,2403.17,0,4.1,No,Retained
+CUST-10213,Female,61,No,South,Month-to-Month,17,DSL,Electronic Check,No,Yes,No,Yes,81.93,0.95,1336.32,1,4.3,Yes,No Long-Term Commitment
+CUST-10214,Male,40,No,Midwest,Month-to-Month,16,None,Electronic Check,Yes,No,Yes,No,58.27,0.02,984.55,1,3.1,No,Retained
+CUST-10215,Female,44,No,Northeast,Month-to-Month,27,DSL,Credit Card,Yes,Yes,No,No,68.53,0.75,1841.43,1,4.0,Yes,No Long-Term Commitment
+CUST-10216,Female,40,No,South,One Year,32,Fiber Optic,Electronic Check,Yes,No,No,Yes,61.39,6.91,1924.28,4,2.9,Yes,Poor Support Experience
+CUST-10217,Male,42,No,Midwest,Month-to-Month,24,DSL,Credit Card,Yes,No,No,No,65.41,2.88,1561.18,1,2.8,No,Retained
+CUST-10218,Male,27,No,Midwest,Two Year,46,Fiber Optic,Credit Card,No,No,No,Yes,82.03,7.65,3748.09,1,3.6,No,Retained
+CUST-10219,Male,22,No,Northeast,Month-to-Month,14,DSL,Bank Transfer,Yes,No,No,No,60.1,1.25,856.83,1,4.1,No,Retained
+CUST-10220,Male,64,No,West,Month-to-Month,10,DSL,Mailed Check,No,No,Yes,Yes,67.95,3.05,656.82,1,4.9,No,Retained
+CUST-10221,Male,30,No,South,One Year,44,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,102.27,3.11,4432.97,1,4.7,No,Retained
+CUST-10222,Female,28,No,West,Month-to-Month,26,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,78.97,3.9,2045.5,5,2.3,Yes,Moved/No Longer Needed
+CUST-10223,Female,18,No,Midwest,Month-to-Month,17,DSL,Electronic Check,Yes,Yes,Yes,No,67.92,2.57,1107.16,1,3.2,No,Retained
+CUST-10224,Female,33,No,Northeast,One Year,43,DSL,Electronic Check,Yes,Yes,No,No,54.96,8.25,2370.43,1,3.8,No,Retained
+CUST-10225,Female,23,No,South,Two Year,34,Fiber Optic,Electronic Check,Yes,No,Yes,No,74.95,10.8,2506.75,2,3.1,Yes,Competitor Offer
+CUST-10226,Male,65,Yes,West,One Year,27,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,76.35,5.68,2044.37,1,4.7,No,Retained
+CUST-10227,Female,56,No,Northeast,One Year,9,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,82.08,4.32,745.11,0,4.1,No,Retained
+CUST-10228,Male,32,No,Northeast,One Year,14,DSL,Bank Transfer,Yes,No,Yes,No,53.34,8.86,739.32,1,3.8,No,Retained
+CUST-10229,Male,74,Yes,Northeast,Two Year,15,Fiber Optic,Electronic Check,No,No,No,No,65.31,10.38,988.42,5,3.3,No,Retained
+CUST-10230,Male,56,No,Midwest,Month-to-Month,7,DSL,Mailed Check,Yes,Yes,No,No,54.15,0.0,402.86,1,3.9,Yes,Competitor Offer
+CUST-10231,Female,37,No,West,Month-to-Month,23,Fiber Optic,Credit Card,Yes,Yes,No,Yes,94.3,0.79,2128.37,2,3.4,No,Retained
+CUST-10232,Male,18,No,Midwest,Month-to-Month,2,DSL,Electronic Check,Yes,Yes,Yes,No,93.27,0.75,184.29,0,3.9,Yes,Competitor Offer
+CUST-10233,Female,74,Yes,Midwest,Month-to-Month,17,Fiber Optic,Credit Card,Yes,No,Yes,Yes,88.03,2.87,1379.98,3,2.8,No,Retained
+CUST-10234,Female,23,No,South,One Year,29,DSL,Electronic Check,Yes,Yes,Yes,No,88.97,8.75,2588.79,1,2.7,No,Retained
+CUST-10235,Male,19,No,West,One Year,45,Fiber Optic,Credit Card,No,No,Yes,No,93.07,6.0,4177.62,4,4.1,No,Retained
+CUST-10236,Female,56,No,Midwest,One Year,36,DSL,Electronic Check,No,Yes,No,No,74.37,8.56,2642.9,3,2.5,Yes,Poor Support Experience
+CUST-10237,Female,76,Yes,South,Month-to-Month,15,Fiber Optic,Credit Card,Yes,Yes,No,No,87.46,1.62,1322.95,1,4.7,Yes,Price Too High
+CUST-10238,Male,61,No,Midwest,One Year,36,DSL,Credit Card,Yes,No,No,Yes,62.29,6.01,2283.48,0,4.3,No,Retained
+CUST-10239,Female,50,No,West,Month-to-Month,15,DSL,Bank Transfer,Yes,Yes,No,No,79.44,2.13,1174.94,3,2.8,No,Retained
+CUST-10240,Male,50,No,Northeast,One Year,45,Fiber Optic,Bank Transfer,Yes,Yes,No,No,77.29,7.22,3444.98,3,3.7,No,Retained
+CUST-10241,Male,54,No,South,One Year,48,DSL,Credit Card,Yes,Yes,No,Yes,50.79,8.33,2443.7,0,4.6,No,Retained
+CUST-10242,Male,53,No,South,Month-to-Month,2,DSL,Bank Transfer,Yes,No,No,No,64.4,2.27,82.05,0,5.0,No,Retained
+CUST-10243,Female,46,No,Midwest,Month-to-Month,23,Fiber Optic,Mailed Check,Yes,No,No,Yes,66.45,2.9,1505.24,3,2.2,No,Retained
+CUST-10244,Female,43,No,South,Month-to-Month,24,Fiber Optic,Electronic Check,No,Yes,No,No,75.17,1.67,1846.86,2,3.4,Yes,Competitor Offer
+CUST-10245,Male,41,No,Midwest,Two Year,60,Fiber Optic,Credit Card,Yes,Yes,Yes,No,88.91,6.41,5336.78,4,3.8,No,Retained
+CUST-10246,Female,31,No,Midwest,Two Year,71,DSL,Electronic Check,Yes,Yes,Yes,No,73.41,5.71,5146.33,1,4.3,No,Retained
+CUST-10247,Male,38,No,South,One Year,31,DSL,Electronic Check,No,No,No,Yes,47.32,3.55,1404.03,2,3.9,No,Retained
+CUST-10248,Male,18,No,West,Month-to-Month,16,Fiber Optic,Bank Transfer,Yes,No,No,Yes,82.26,2.06,1321.83,4,4.2,No,Retained
+CUST-10249,Male,41,No,West,Month-to-Month,25,DSL,Bank Transfer,No,No,No,No,70.25,1.87,1786.43,2,3.4,Yes,Moved/No Longer Needed
+CUST-10250,Female,28,No,West,One Year,18,DSL,Electronic Check,Yes,No,No,No,43.84,5.65,732.5,0,2.1,Yes,Poor Support Experience
+CUST-10251,Female,27,No,Northeast,One Year,20,None,Bank Transfer,No,Yes,Yes,Yes,74.62,4.66,1508.14,2,3.2,No,Retained
+CUST-10252,Male,45,No,Northeast,Month-to-Month,27,DSL,Bank Transfer,No,Yes,No,Yes,57.5,3.0,1599.06,5,4.4,Yes,Poor Support Experience
+CUST-10253,Female,61,No,Midwest,Month-to-Month,4,None,Mailed Check,Yes,Yes,Yes,Yes,87.9,0.58,417.68,0,3.9,No,Retained
+CUST-10254,Female,55,No,Midwest,One Year,21,DSL,Electronic Check,No,Yes,No,No,63.88,4.74,1353.07,1,3.1,No,Retained
+CUST-10255,Male,20,No,West,Month-to-Month,30,Fiber Optic,Mailed Check,Yes,Yes,No,No,89.46,0.32,2701.54,2,4.2,No,Retained
+CUST-10256,Male,28,No,Northeast,Month-to-Month,12,DSL,Electronic Check,No,No,Yes,No,43.07,2.78,442.18,2,4.2,No,Retained
+CUST-10257,Male,55,No,Midwest,Month-to-Month,30,DSL,Credit Card,Yes,No,No,No,58.34,1.53,1823.69,3,3.4,No,Retained
+CUST-10258,Male,28,No,Midwest,Month-to-Month,4,Fiber Optic,Electronic Check,Yes,No,No,No,78.32,0.53,293.14,1,4.2,No,Retained
+CUST-10259,Female,39,No,Northeast,Two Year,14,DSL,Electronic Check,Yes,Yes,Yes,Yes,76.72,8.63,1041.41,1,2.9,No,Retained
+CUST-10260,Male,50,No,South,Two Year,33,DSL,Bank Transfer,No,No,No,Yes,56.18,5.17,1845.01,0,3.7,No,Retained
+CUST-10261,Male,28,No,Northeast,One Year,27,DSL,Credit Card,Yes,No,No,No,44.37,8.78,1250.9,0,3.9,No,Retained
+CUST-10262,Female,43,No,South,Month-to-Month,18,Fiber Optic,Electronic Check,No,No,No,No,89.46,0.12,1687.56,3,3.8,Yes,Service Reliability Issues
+CUST-10263,Female,23,No,West,Month-to-Month,25,Fiber Optic,Electronic Check,No,Yes,Yes,No,93.32,2.15,2337.39,1,3.0,Yes,Price Too High
+CUST-10264,Male,34,No,West,Month-to-Month,18,DSL,Bank Transfer,Yes,Yes,Yes,No,93.89,3.69,1724.95,2,3.1,No,Retained
+CUST-10265,Male,46,No,Northeast,Month-to-Month,23,DSL,Electronic Check,No,Yes,No,No,64.11,2.39,1476.04,3,4.4,No,Retained
+CUST-10266,Male,20,No,Northeast,One Year,17,Fiber Optic,Bank Transfer,No,Yes,Yes,No,82.9,7.66,1372.98,5,4.8,Yes,Poor Support Experience
+CUST-10267,Male,48,No,Midwest,Month-to-Month,23,DSL,Electronic Check,Yes,No,No,Yes,75.37,0.55,1785.2,1,3.1,Yes,No Long-Term Commitment
+CUST-10268,Female,42,No,Midwest,Month-to-Month,21,DSL,Electronic Check,Yes,Yes,Yes,Yes,64.03,2.27,1322.86,5,2.9,Yes,No Long-Term Commitment
+CUST-10269,Female,50,No,West,Month-to-Month,24,Fiber Optic,Credit Card,Yes,Yes,No,No,71.1,3.19,1760.14,2,2.3,Yes,Poor Support Experience
+CUST-10270,Male,45,No,Northeast,Month-to-Month,4,Fiber Optic,Credit Card,Yes,No,No,No,87.3,2.1,394.65,3,2.9,Yes,Poor Support Experience
+CUST-10271,Male,61,No,West,Month-to-Month,12,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,74.67,0.36,917.53,3,3.0,No,Retained
+CUST-10272,Male,44,No,West,Month-to-Month,26,None,Electronic Check,Yes,Yes,Yes,No,34.35,2.33,957.11,0,5.0,Yes,Competitor Offer
+CUST-10273,Male,36,No,South,Two Year,34,Fiber Optic,Mailed Check,Yes,No,No,Yes,93.78,10.19,3266.65,3,2.0,No,Retained
+CUST-10274,Female,44,No,Midwest,Month-to-Month,22,Fiber Optic,Credit Card,Yes,Yes,No,Yes,75.02,2.91,1644.31,0,3.0,No,Retained
+CUST-10275,Female,50,No,Midwest,Month-to-Month,21,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,94.25,3.04,1950.94,1,4.6,No,Retained
+CUST-10276,Male,43,No,West,Two Year,31,Fiber Optic,Credit Card,No,Yes,No,Yes,83.43,12.02,2521.08,2,3.0,No,Retained
+CUST-10277,Male,43,No,South,Two Year,26,Fiber Optic,Bank Transfer,No,No,Yes,No,44.66,9.35,1239.72,2,3.7,No,Retained
+CUST-10278,Male,32,No,Northeast,One Year,28,Fiber Optic,Electronic Check,Yes,No,No,Yes,75.11,4.67,2087.69,2,3.7,Yes,Competitor Offer
+CUST-10279,Male,33,No,South,One Year,33,DSL,Electronic Check,No,Yes,No,No,71.44,7.67,2397.25,2,2.9,No,Retained
+CUST-10280,Male,22,No,Midwest,Month-to-Month,16,DSL,Bank Transfer,No,No,Yes,Yes,74.86,3.1,1171.82,1,3.1,Yes,No Long-Term Commitment
+CUST-10281,Female,66,Yes,Northeast,Month-to-Month,5,Fiber Optic,Credit Card,No,Yes,No,No,95.07,3.81,529.19,2,4.1,No,Retained
+CUST-10282,Female,25,No,West,Month-to-Month,21,Fiber Optic,Credit Card,Yes,No,Yes,No,78.1,0.32,1615.6,4,3.5,No,Retained
+CUST-10283,Female,32,No,South,One Year,20,None,Electronic Check,Yes,Yes,Yes,No,60.13,8.27,1160.89,0,4.0,Yes,Competitor Offer
+CUST-10284,Male,32,No,Midwest,One Year,22,Fiber Optic,Electronic Check,No,Yes,No,Yes,83.8,2.25,1836.3,2,3.4,Yes,Competitor Offer
+CUST-10285,Female,55,No,Northeast,Month-to-Month,18,Fiber Optic,Credit Card,No,No,No,Yes,64.48,0.9,1142.03,1,4.0,Yes,No Long-Term Commitment
+CUST-10286,Female,38,No,West,Month-to-Month,5,Fiber Optic,Electronic Check,No,No,No,Yes,65.09,2.02,346.32,1,4.1,Yes,No Long-Term Commitment
+CUST-10287,Male,59,No,Northeast,One Year,18,Fiber Optic,Credit Card,No,Yes,No,Yes,71.5,6.48,1285.2,3,4.3,No,Retained
+CUST-10288,Female,33,No,South,Month-to-Month,19,DSL,Credit Card,Yes,Yes,Yes,No,91.08,0.04,1752.49,2,3.1,No,Retained
+CUST-10289,Male,46,No,West,One Year,35,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,74.48,3.06,2596.61,3,3.6,No,Retained
+CUST-10290,Female,30,No,Midwest,One Year,23,DSL,Mailed Check,Yes,Yes,No,No,70.8,5.97,1605.12,0,4.6,No,Retained
+CUST-10291,Female,72,Yes,Northeast,One Year,19,Fiber Optic,Bank Transfer,Yes,No,Yes,No,73.94,7.35,1384.44,3,3.8,No,Retained
+CUST-10292,Male,25,No,South,One Year,41,Fiber Optic,Bank Transfer,No,No,No,Yes,74.87,7.3,3141.24,1,4.9,Yes,Service Reliability Issues
+CUST-10293,Female,46,No,Northeast,Two Year,47,DSL,Electronic Check,Yes,Yes,Yes,Yes,88.89,12.3,4185.71,3,2.9,No,Retained
+CUST-10294,Female,51,No,West,Month-to-Month,20,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,87.22,1.71,1674.97,3,2.4,Yes,Price Too High
+CUST-10295,Male,48,No,West,One Year,24,DSL,Credit Card,No,No,Yes,No,68.91,7.3,1635.63,1,3.5,No,Retained
+CUST-10296,Male,39,No,South,One Year,12,Fiber Optic,Electronic Check,Yes,Yes,No,No,81.47,7.89,981.03,2,4.0,No,Retained
+CUST-10297,Female,40,No,Northeast,Month-to-Month,25,DSL,Mailed Check,No,No,Yes,Yes,68.95,3.13,1788.34,3,3.2,No,Retained
+CUST-10298,Male,43,No,South,Month-to-Month,12,Fiber Optic,Electronic Check,No,Yes,Yes,Yes,124.89,0.09,1534.68,2,5.0,No,Retained
+CUST-10299,Female,40,No,South,Month-to-Month,21,DSL,Credit Card,Yes,No,Yes,No,47.77,3.88,970.91,2,3.5,Yes,Moved/No Longer Needed
+CUST-10300,Female,55,No,South,Month-to-Month,4,Fiber Optic,Credit Card,Yes,No,Yes,No,95.28,3.24,465.76,1,2.6,Yes,No Long-Term Commitment
+CUST-10301,Male,73,Yes,Northeast,One Year,39,DSL,Credit Card,Yes,No,Yes,No,73.26,2.17,2856.05,2,3.8,No,Retained
+CUST-10302,Male,34,No,Midwest,Two Year,13,Fiber Optic,Electronic Check,Yes,No,No,Yes,70.26,7.85,957.0,2,4.7,No,Retained
+CUST-10303,Male,23,No,Midwest,Month-to-Month,5,DSL,Credit Card,Yes,Yes,No,Yes,96.03,1.56,439.72,0,3.0,Yes,Price Too High
+CUST-10304,Male,41,No,South,Month-to-Month,23,Fiber Optic,Electronic Check,Yes,No,No,No,52.2,3.01,1116.66,1,3.1,No,Retained
+CUST-10305,Male,78,Yes,Midwest,Two Year,21,None,Bank Transfer,No,No,No,No,27.96,11.9,537.86,0,3.9,No,Retained
+CUST-10306,Female,31,No,West,Month-to-Month,10,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,76.65,3.59,652.74,3,2.7,Yes,Service Reliability Issues
+CUST-10307,Female,65,Yes,Northeast,Month-to-Month,9,Fiber Optic,Mailed Check,No,Yes,No,No,92.29,0.71,904.53,1,2.3,Yes,Poor Support Experience
+CUST-10308,Male,65,Yes,Northeast,One Year,18,DSL,Bank Transfer,Yes,Yes,No,No,57.16,2.52,1036.39,0,2.8,No,Retained
+CUST-10309,Female,34,No,South,Month-to-Month,7,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,97.01,2.21,646.71,3,3.1,Yes,Price Too High
+CUST-10310,Female,50,No,Midwest,Month-to-Month,5,Fiber Optic,Bank Transfer,No,Yes,No,Yes,90.59,1.28,468.79,3,3.5,Yes,Price Too High
+CUST-10311,Female,65,Yes,South,Month-to-Month,26,None,Electronic Check,Yes,No,Yes,Yes,44.48,1.7,1163.11,2,2.9,No,Retained
+CUST-10312,Female,37,No,West,Month-to-Month,10,None,Mailed Check,Yes,Yes,Yes,Yes,66.33,1.97,685.03,1,3.7,No,Retained
+CUST-10313,Male,39,No,South,One Year,15,Fiber Optic,Credit Card,No,No,No,No,68.41,6.0,1068.48,3,3.4,No,Retained
+CUST-10314,Male,34,No,South,Month-to-Month,6,None,Electronic Check,No,Yes,Yes,Yes,48.9,2.09,283.25,3,2.4,Yes,No Long-Term Commitment
+CUST-10315,Male,28,No,West,Month-to-Month,27,DSL,Credit Card,No,Yes,No,No,104.09,1.45,2779.64,1,4.1,No,Retained
+CUST-10316,Female,33,No,Midwest,One Year,26,Fiber Optic,Electronic Check,Yes,No,No,No,64.45,8.13,1704.67,0,4.2,Yes,Service Reliability Issues
+CUST-10317,Female,25,No,West,Two Year,19,DSL,Mailed Check,Yes,No,Yes,Yes,41.25,11.07,811.83,2,3.9,No,Retained
+CUST-10318,Female,42,No,Midwest,Month-to-Month,1,DSL,Electronic Check,No,Yes,Yes,No,67.47,2.06,71.0,2,4.0,No,Retained
+CUST-10319,Female,31,No,West,Month-to-Month,28,None,Credit Card,No,Yes,No,No,33.75,2.98,1021.21,4,4.9,No,Retained
+CUST-10320,Male,45,No,South,One Year,44,Fiber Optic,Credit Card,Yes,Yes,No,No,90.62,7.45,3971.96,4,1.8,Yes,Price Too High
+CUST-10321,Male,20,No,Midwest,Month-to-Month,14,DSL,Mailed Check,No,No,Yes,No,70.23,0.89,951.72,2,2.8,No,Retained
+CUST-10322,Male,47,No,South,Month-to-Month,21,Fiber Optic,Electronic Check,Yes,No,No,Yes,85.46,1.52,1809.29,2,4.5,Yes,Price Too High
+CUST-10323,Female,54,No,West,One Year,35,Fiber Optic,Credit Card,Yes,Yes,No,No,80.43,3.74,2791.43,2,4.0,No,Retained
+CUST-10324,Male,18,No,Midwest,Two Year,32,Fiber Optic,Credit Card,Yes,No,Yes,No,71.06,10.79,2291.26,1,3.8,No,Retained
+CUST-10325,Male,47,No,West,One Year,14,None,Bank Transfer,Yes,No,Yes,No,36.92,8.94,487.72,2,3.1,Yes,Competitor Offer
+CUST-10326,Male,59,No,South,One Year,22,DSL,Electronic Check,Yes,Yes,No,Yes,71.41,7.3,1557.01,3,3.1,Yes,Competitor Offer
+CUST-10327,Male,25,No,West,One Year,10,DSL,Electronic Check,Yes,No,Yes,No,70.97,7.86,775.88,1,3.6,No,Retained
+CUST-10328,Female,65,Yes,Northeast,Month-to-Month,26,DSL,Electronic Check,Yes,No,No,Yes,68.28,2.5,1761.08,0,2.8,No,Retained
+CUST-10329,Female,48,No,Midwest,One Year,36,Fiber Optic,Bank Transfer,No,Yes,No,No,86.39,8.1,3082.08,1,4.2,No,Retained
+CUST-10330,Female,32,No,Midwest,Month-to-Month,20,Fiber Optic,Electronic Check,No,Yes,No,No,91.29,2.87,1866.77,2,1.5,Yes,Competitor Offer
+CUST-10331,Male,41,No,Midwest,Month-to-Month,29,Fiber Optic,Credit Card,Yes,Yes,No,No,96.45,2.19,2760.26,2,2.5,Yes,Service Reliability Issues
+CUST-10332,Female,50,No,South,One Year,45,Fiber Optic,Electronic Check,No,Yes,No,No,87.83,3.97,3928.1,2,2.8,Yes,Service Reliability Issues
+CUST-10333,Female,43,No,West,One Year,43,DSL,Bank Transfer,Yes,No,Yes,Yes,72.54,6.17,3139.4,1,5.0,No,Retained
+CUST-10334,Female,50,No,Midwest,Month-to-Month,11,DSL,Mailed Check,Yes,Yes,Yes,Yes,98.31,0.97,1114.25,0,3.6,Yes,Moved/No Longer Needed
+CUST-10335,Female,29,No,South,Two Year,30,Fiber Optic,Credit Card,No,No,No,Yes,64.46,12.91,1976.52,4,3.3,Yes,Poor Support Experience
+CUST-10336,Male,44,No,South,Month-to-Month,4,Fiber Optic,Electronic Check,Yes,No,No,Yes,70.12,2.24,254.33,2,2.8,Yes,Poor Support Experience
+CUST-10337,Male,22,No,South,Month-to-Month,18,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,72.95,2.44,1333.96,2,4.2,Yes,Service Reliability Issues
+CUST-10338,Female,40,No,West,Month-to-Month,1,Fiber Optic,Electronic Check,Yes,No,No,No,75.45,3.5,59.14,2,5.0,No,Retained
+CUST-10339,Female,29,No,Northeast,One Year,18,None,Electronic Check,No,Yes,Yes,No,33.12,4.73,574.96,1,4.1,No,Retained
+CUST-10340,Female,32,No,South,One Year,19,DSL,Credit Card,Yes,Yes,Yes,Yes,85.75,5.3,1671.36,0,3.4,No,Retained
+CUST-10341,Female,59,No,West,Month-to-Month,24,DSL,Credit Card,No,No,Yes,No,63.71,3.01,1509.81,1,2.1,No,Retained
+CUST-10342,Female,57,No,South,One Year,38,Fiber Optic,Mailed Check,Yes,Yes,No,No,94.99,6.52,3619.36,1,4.0,No,Retained
+CUST-10343,Female,51,No,Northeast,Month-to-Month,30,Fiber Optic,Credit Card,No,Yes,No,No,78.19,2.19,2351.15,1,3.0,Yes,Service Reliability Issues
+CUST-10344,Female,27,No,South,One Year,34,Fiber Optic,Bank Transfer,No,No,Yes,No,75.89,5.8,2542.78,4,2.4,No,Retained
+CUST-10345,Male,38,No,West,Month-to-Month,11,DSL,Credit Card,No,No,Yes,Yes,86.16,0.36,981.57,1,4.1,No,Retained
+CUST-10346,Male,59,No,Midwest,Month-to-Month,17,DSL,Credit Card,Yes,Yes,Yes,No,92.43,3.32,1590.92,2,2.8,Yes,Poor Support Experience
+CUST-10347,Female,44,No,Midwest,Two Year,47,Fiber Optic,Electronic Check,Yes,No,No,No,58.96,13.09,2701.6,1,3.7,No,Retained
+CUST-10348,Female,74,Yes,West,Month-to-Month,26,DSL,Credit Card,No,No,Yes,Yes,74.67,0.68,1951.13,3,3.8,Yes,Poor Support Experience
+CUST-10349,Male,48,No,West,Month-to-Month,12,DSL,Credit Card,Yes,Yes,No,Yes,78.94,3.18,920.23,1,3.2,Yes,No Long-Term Commitment
+CUST-10350,Female,45,No,West,One Year,15,DSL,Bank Transfer,Yes,Yes,Yes,Yes,87.4,2.33,1349.4,1,2.4,Yes,Poor Support Experience
+CUST-10351,Male,38,No,South,Two Year,42,None,Mailed Check,Yes,No,No,Yes,38.53,5.69,1567.67,0,4.4,No,Retained
+CUST-10352,Male,44,No,South,Month-to-Month,6,DSL,Electronic Check,No,Yes,Yes,Yes,98.03,2.34,575.7,4,3.3,Yes,Moved/No Longer Needed
+CUST-10353,Female,40,No,West,Month-to-Month,25,DSL,Electronic Check,Yes,Yes,No,No,48.15,2.38,1216.42,1,3.3,Yes,No Long-Term Commitment
+CUST-10354,Female,52,No,South,Month-to-Month,1,Fiber Optic,Credit Card,Yes,No,Yes,Yes,81.34,3.11,83.24,1,3.2,Yes,No Long-Term Commitment
+CUST-10355,Male,55,No,South,Month-to-Month,7,Fiber Optic,Credit Card,Yes,No,Yes,No,86.59,2.02,632.83,2,2.3,Yes,Service Reliability Issues
+CUST-10356,Female,31,No,Midwest,Month-to-Month,26,Fiber Optic,Electronic Check,Yes,Yes,No,No,91.58,2.04,2327.94,3,3.5,Yes,Poor Support Experience
+CUST-10357,Male,23,No,Northeast,One Year,32,Fiber Optic,Bank Transfer,No,Yes,No,Yes,101.2,8.19,3296.22,4,4.2,No,Retained
+CUST-10358,Male,18,No,Midwest,Two Year,32,DSL,Mailed Check,Yes,Yes,No,Yes,80.55,12.81,2595.98,0,4.7,No,Retained
+CUST-10359,Male,49,No,South,Month-to-Month,28,DSL,Mailed Check,Yes,No,No,Yes,61.05,2.43,1756.99,1,3.7,Yes,No Long-Term Commitment
+CUST-10360,Female,27,No,South,Month-to-Month,16,Fiber Optic,Electronic Check,No,Yes,No,Yes,105.67,3.59,1721.32,2,3.7,Yes,Price Too High
+CUST-10361,Male,18,No,Northeast,Month-to-Month,24,DSL,Bank Transfer,No,No,No,Yes,56.51,1.61,1355.83,0,3.3,Yes,Competitor Offer
+CUST-10362,Female,47,No,South,Month-to-Month,14,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,98.63,1.54,1335.87,3,3.2,Yes,Competitor Offer
+CUST-10363,Male,77,Yes,South,Two Year,34,Fiber Optic,Credit Card,No,Yes,No,No,94.29,14.07,3186.14,3,2.0,No,Retained
+CUST-10364,Male,42,No,Midwest,Month-to-Month,20,Fiber Optic,Credit Card,No,No,No,No,88.36,2.45,1822.83,3,2.8,Yes,No Long-Term Commitment
+CUST-10365,Female,54,No,Midwest,Month-to-Month,20,Fiber Optic,Bank Transfer,No,No,Yes,Yes,90.16,0.12,1851.69,1,4.3,No,Retained
+CUST-10366,Male,43,No,Midwest,One Year,43,Fiber Optic,Credit Card,Yes,No,No,Yes,73.69,5.55,3146.98,0,4.6,No,Retained
+CUST-10367,Male,41,No,South,Month-to-Month,22,DSL,Credit Card,Yes,Yes,Yes,No,58.71,3.22,1192.98,3,3.7,No,Retained
+CUST-10368,Female,55,No,South,One Year,30,Fiber Optic,Credit Card,No,No,Yes,No,79.6,8.22,2380.56,1,4.1,No,Retained
+CUST-10369,Female,38,No,Northeast,Month-to-Month,28,None,Credit Card,No,No,No,No,24.35,1.08,671.73,4,2.4,Yes,Poor Support Experience
+CUST-10370,Female,46,No,South,One Year,10,Fiber Optic,Electronic Check,Yes,No,No,No,60.92,8.36,600.46,2,3.6,No,Retained
+CUST-10371,Female,47,No,Midwest,Two Year,67,Fiber Optic,Mailed Check,Yes,Yes,Yes,Yes,78.62,9.33,5286.04,3,3.9,No,Retained
+CUST-10372,Female,33,No,Midwest,One Year,26,Fiber Optic,Bank Transfer,Yes,No,No,Yes,70.96,7.22,1875.63,5,2.6,No,Retained
+CUST-10373,Male,56,No,Midwest,Two Year,29,DSL,Credit Card,Yes,Yes,No,No,64.47,10.03,1904.29,1,3.6,No,Retained
+CUST-10374,Female,40,No,South,Month-to-Month,15,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,103.57,0.68,1569.15,1,3.0,Yes,Price Too High
+CUST-10375,Female,31,No,South,Month-to-Month,6,DSL,Credit Card,Yes,Yes,No,No,62.44,3.62,311.61,2,3.3,No,Retained
+CUST-10376,Male,50,No,Midwest,One Year,34,DSL,Electronic Check,No,No,No,No,70.32,3.44,2378.94,0,3.4,No,Retained
+CUST-10377,Female,29,No,Northeast,One Year,24,DSL,Electronic Check,Yes,Yes,No,No,65.79,5.34,1659.6,1,3.8,Yes,Competitor Offer
+CUST-10378,Male,42,No,Northeast,Month-to-Month,1,DSL,Credit Card,No,No,No,Yes,56.53,0.03,69.63,2,3.2,Yes,Moved/No Longer Needed
+CUST-10379,Female,42,No,South,Month-to-Month,1,Fiber Optic,Credit Card,Yes,No,No,No,77.89,1.05,90.76,2,2.3,Yes,Service Reliability Issues
+CUST-10380,Female,57,No,South,Month-to-Month,13,Fiber Optic,Credit Card,Yes,Yes,No,No,110.67,0.8,1451.29,4,4.7,Yes,Price Too High
+CUST-10381,Male,49,No,Northeast,Month-to-Month,3,Fiber Optic,Electronic Check,Yes,No,No,Yes,85.97,0.06,272.45,3,2.1,Yes,No Long-Term Commitment
+CUST-10382,Male,42,No,Midwest,Month-to-Month,10,DSL,Credit Card,Yes,Yes,No,Yes,71.49,2.93,631.49,1,3.6,No,Retained
+CUST-10383,Male,53,No,Northeast,One Year,26,Fiber Optic,Electronic Check,No,Yes,No,No,67.34,3.35,1742.46,2,3.5,No,Retained
+CUST-10384,Male,61,No,South,Month-to-Month,3,Fiber Optic,Mailed Check,No,No,No,No,71.04,3.17,211.79,3,2.8,No,Retained
+CUST-10385,Male,50,No,West,Month-to-Month,9,None,Credit Card,Yes,No,Yes,Yes,53.27,1.03,524.28,0,3.9,No,Retained
+CUST-10386,Female,42,No,Midwest,One Year,45,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,79.84,5.35,3594.47,0,3.3,No,Retained
+CUST-10387,Female,24,No,Midwest,One Year,8,DSL,Electronic Check,Yes,No,Yes,No,45.74,2.73,308.29,0,4.6,No,Retained
+CUST-10388,Male,27,No,West,Two Year,36,DSL,Electronic Check,No,Yes,Yes,No,65.01,5.49,2355.41,0,4.0,No,Retained
+CUST-10389,Male,38,No,South,One Year,43,Fiber Optic,Mailed Check,No,Yes,Yes,No,104.71,6.88,4474.4,2,3.7,No,Retained
+CUST-10390,Male,33,No,West,Month-to-Month,13,Fiber Optic,Electronic Check,Yes,No,No,No,90.84,2.54,1138.33,3,4.1,Yes,Poor Support Experience
+CUST-10391,Female,39,No,South,One Year,25,Fiber Optic,Credit Card,No,Yes,No,Yes,76.52,8.21,1883.8,2,3.3,No,Retained
+CUST-10392,Female,43,No,West,Month-to-Month,20,DSL,Credit Card,No,Yes,No,No,77.57,3.12,1570.39,2,4.1,No,Retained
+CUST-10393,Male,49,No,Northeast,Month-to-Month,12,DSL,Electronic Check,Yes,No,No,Yes,50.37,2.88,648.5,0,5.0,No,Retained
+CUST-10394,Female,41,No,West,One Year,39,DSL,Bank Transfer,Yes,Yes,No,No,83.55,5.96,3275.35,3,3.2,No,Retained
+CUST-10395,Male,49,No,Northeast,Two Year,32,None,Credit Card,No,Yes,No,No,48.54,8.32,1575.4,2,4.1,No,Retained
+CUST-10396,Male,43,No,South,Month-to-Month,24,DSL,Electronic Check,No,No,No,Yes,76.57,1.07,1854.24,1,3.4,Yes,Moved/No Longer Needed
+CUST-10397,Female,18,No,Midwest,Month-to-Month,23,Fiber Optic,Electronic Check,Yes,No,Yes,No,61.44,1.57,1416.67,1,4.7,No,Retained
+CUST-10398,Male,29,No,Northeast,Month-to-Month,16,Fiber Optic,Electronic Check,Yes,No,No,No,83.19,1.12,1355.43,5,2.4,Yes,Competitor Offer
+CUST-10399,Male,40,No,South,Month-to-Month,23,DSL,Bank Transfer,Yes,No,No,Yes,65.31,0.91,1417.47,4,3.6,Yes,Poor Support Experience
+CUST-10400,Female,25,No,South,Month-to-Month,6,Fiber Optic,Bank Transfer,Yes,Yes,Yes,Yes,107.64,3.22,649.73,2,3.9,No,Retained
+CUST-10401,Male,50,No,West,One Year,18,Fiber Optic,Electronic Check,No,No,No,No,84.04,3.38,1476.15,1,2.8,No,Retained
+CUST-10402,Female,63,No,South,Month-to-Month,17,DSL,Electronic Check,Yes,No,No,Yes,65.28,2.26,1150.46,0,3.5,No,Retained
+CUST-10403,Male,59,No,Midwest,Two Year,34,Fiber Optic,Bank Transfer,No,Yes,Yes,No,76.65,12.69,2600.95,1,3.2,No,Retained
+CUST-10404,Female,39,No,Northeast,One Year,14,None,Credit Card,No,Yes,No,Yes,61.27,6.26,858.86,3,4.1,Yes,Competitor Offer
+CUST-10405,Male,63,No,West,One Year,22,DSL,Credit Card,Yes,No,Yes,No,63.15,4.72,1336.62,2,2.6,No,Retained
+CUST-10406,Female,44,No,South,Two Year,72,Fiber Optic,Credit Card,Yes,No,Yes,Yes,71.58,8.85,5189.35,1,4.0,No,Retained
+CUST-10407,Female,37,No,West,Month-to-Month,2,None,Electronic Check,Yes,No,No,Yes,31.68,3.87,85.32,0,4.6,Yes,Competitor Offer
+CUST-10408,Male,33,No,Midwest,Month-to-Month,19,Fiber Optic,Bank Transfer,No,No,No,No,56.57,2.91,1094.32,4,3.1,Yes,Poor Support Experience
+CUST-10409,Female,38,No,South,One Year,24,Fiber Optic,Mailed Check,Yes,No,No,No,63.65,8.91,1499.14,4,4.0,No,Retained
+CUST-10410,Female,37,No,West,Two Year,67,Fiber Optic,Electronic Check,Yes,No,No,Yes,86.55,9.11,5771.77,2,1.6,Yes,Service Reliability Issues
+CUST-10411,Male,44,No,Midwest,One Year,12,Fiber Optic,Credit Card,No,No,Yes,Yes,85.16,6.55,1029.75,1,3.9,No,Retained
+CUST-10412,Male,44,No,Midwest,Month-to-Month,22,DSL,Credit Card,Yes,Yes,No,No,65.1,0.82,1407.89,2,3.4,No,Retained
+CUST-10413,Male,42,No,South,Two Year,53,Fiber Optic,Credit Card,No,No,No,No,77.15,9.93,4104.17,4,1.8,No,Retained
+CUST-10414,Male,48,No,Midwest,Month-to-Month,10,Fiber Optic,Electronic Check,No,Yes,No,No,77.99,0.03,704.27,1,2.9,Yes,Service Reliability Issues
+CUST-10415,Female,59,No,South,Two Year,70,Fiber Optic,Bank Transfer,Yes,No,Yes,No,78.56,6.63,5482.14,1,5.0,No,Retained
+CUST-10416,Female,55,No,South,Two Year,31,DSL,Credit Card,Yes,No,No,No,54.71,5.42,1758.9,7,2.8,No,Retained
+CUST-10417,Female,21,No,Northeast,Month-to-Month,9,DSL,Credit Card,No,No,No,No,67.09,3.26,619.19,0,4.6,No,Retained
+CUST-10418,Male,18,No,Midwest,One Year,22,Fiber Optic,Electronic Check,No,No,No,No,53.63,6.03,1185.7,3,4.0,No,Retained
+CUST-10419,Male,55,No,South,Month-to-Month,27,Fiber Optic,Electronic Check,Yes,Yes,No,No,76.31,1.92,2129.85,2,2.4,Yes,Poor Support Experience
+CUST-10420,Male,23,No,South,Month-to-Month,15,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,71.47,3.86,990.29,1,3.9,Yes,Competitor Offer
+CUST-10421,Male,39,No,South,Month-to-Month,2,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,90.0,0.97,151.46,0,4.5,Yes,Service Reliability Issues
+CUST-10422,Female,26,No,South,One Year,41,DSL,Electronic Check,No,No,No,Yes,74.1,7.99,3024.06,0,3.7,No,Retained
+CUST-10423,Female,18,No,South,Two Year,30,DSL,Bank Transfer,Yes,No,Yes,Yes,61.28,8.44,1868.44,0,5.0,No,Retained
+CUST-10424,Female,50,No,South,One Year,22,Fiber Optic,Credit Card,Yes,No,No,Yes,71.96,5.15,1613.77,2,3.0,No,Retained
+CUST-10425,Male,53,No,West,Month-to-Month,5,Fiber Optic,Credit Card,No,Yes,No,No,96.49,2.0,452.14,1,3.5,Yes,Price Too High
+CUST-10426,Female,34,No,Midwest,One Year,44,Fiber Optic,Credit Card,Yes,No,No,No,86.16,2.99,3825.97,0,4.0,No,Retained
+CUST-10427,Male,18,No,Midwest,Two Year,29,DSL,Credit Card,Yes,No,No,No,53.32,9.53,1532.16,2,4.1,No,Retained
+CUST-10428,Female,34,No,Midwest,Month-to-Month,21,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,94.8,2.49,2033.21,2,2.9,Yes,Poor Support Experience
+CUST-10429,Female,47,No,South,Two Year,65,None,Electronic Check,No,No,No,Yes,27.14,12.69,1727.96,2,4.3,No,Retained
+CUST-10430,Female,21,No,Northeast,Month-to-Month,27,DSL,Bank Transfer,Yes,No,No,No,74.15,3.12,1997.73,2,3.8,No,Retained
+CUST-10431,Male,45,No,Northeast,One Year,12,Fiber Optic,Bank Transfer,No,No,Yes,Yes,107.3,6.52,1270.44,0,2.3,No,Retained
+CUST-10432,Male,42,No,Northeast,Month-to-Month,17,DSL,Electronic Check,No,Yes,Yes,No,82.68,3.01,1442.52,3,4.7,No,Retained
+CUST-10433,Female,50,No,Northeast,Month-to-Month,7,None,Credit Card,Yes,No,Yes,No,19.31,3.46,116.87,1,3.0,Yes,Competitor Offer
+CUST-10434,Female,44,No,Northeast,Month-to-Month,4,DSL,Electronic Check,Yes,Yes,No,Yes,68.8,3.51,273.71,4,4.5,Yes,Poor Support Experience
+CUST-10435,Male,28,No,West,One Year,45,Fiber Optic,Electronic Check,Yes,No,No,Yes,83.63,6.4,3781.09,2,3.4,No,Retained
+CUST-10436,Female,59,No,South,Month-to-Month,13,Fiber Optic,Electronic Check,Yes,Yes,No,No,81.59,1.63,1079.75,2,3.2,Yes,Moved/No Longer Needed
+CUST-10437,Male,40,No,Midwest,Month-to-Month,4,DSL,Bank Transfer,No,Yes,No,No,83.84,3.93,366.4,2,3.8,No,Retained
+CUST-10438,Male,42,No,Midwest,One Year,43,DSL,Electronic Check,No,No,No,No,62.39,6.97,2690.16,1,3.2,Yes,Competitor Offer
+CUST-10439,Female,29,No,Midwest,Two Year,36,DSL,Electronic Check,Yes,Yes,Yes,No,66.63,5.51,2384.04,1,2.2,No,Retained
+CUST-10440,Female,36,No,West,Month-to-Month,5,DSL,Electronic Check,Yes,No,No,Yes,65.97,0.64,317.61,1,3.7,Yes,No Long-Term Commitment
+CUST-10441,Male,30,No,South,Month-to-Month,30,DSL,Electronic Check,Yes,No,No,No,47.34,3.92,1421.1,0,4.3,Yes,No Long-Term Commitment
+CUST-10442,Female,40,No,West,Month-to-Month,12,None,Credit Card,No,No,No,Yes,40.63,2.82,496.3,1,5.0,No,Retained
+CUST-10443,Female,66,Yes,Northeast,Month-to-Month,4,Fiber Optic,Electronic Check,Yes,No,No,Yes,73.07,3.01,287.13,3,2.3,Yes,No Long-Term Commitment
+CUST-10444,Male,23,No,West,Two Year,35,DSL,Electronic Check,Yes,Yes,No,No,76.95,10.63,2693.92,1,4.2,No,Retained
+CUST-10445,Male,19,No,West,Two Year,40,DSL,Credit Card,Yes,No,No,No,80.41,5.83,3163.3,1,3.7,No,Retained
+CUST-10446,Male,63,No,South,One Year,14,DSL,Electronic Check,Yes,Yes,Yes,Yes,61.75,8.97,887.86,1,3.8,No,Retained
+CUST-10447,Male,39,No,West,Month-to-Month,4,DSL,Bank Transfer,Yes,Yes,No,Yes,53.44,2.69,220.1,5,3.5,Yes,No Long-Term Commitment
+CUST-10448,Female,33,No,Northeast,One Year,29,Fiber Optic,Credit Card,Yes,No,Yes,Yes,78.69,8.56,2317.08,2,3.1,No,Retained
+CUST-10449,Female,57,No,Midwest,One Year,19,DSL,Electronic Check,Yes,Yes,No,Yes,57.37,4.03,1090.04,4,3.1,Yes,Poor Support Experience
+CUST-10450,Male,34,No,Midwest,Two Year,16,DSL,Credit Card,No,No,No,Yes,59.87,10.04,897.08,2,4.4,No,Retained
+CUST-10451,Male,68,Yes,West,One Year,23,Fiber Optic,Electronic Check,Yes,No,Yes,No,87.97,4.37,2010.76,4,3.5,No,Retained
+CUST-10452,Female,51,No,Midwest,One Year,47,Fiber Optic,Credit Card,Yes,No,Yes,No,92.08,8.77,4320.76,3,1.9,Yes,Price Too High
+CUST-10453,Male,35,No,South,One Year,24,Fiber Optic,Credit Card,Yes,No,Yes,No,83.11,2.71,2020.64,3,2.8,No,Retained
+CUST-10454,Female,72,Yes,Midwest,Month-to-Month,12,Fiber Optic,Electronic Check,Yes,Yes,No,No,85.12,0.65,948.98,1,3.3,Yes,Competitor Offer
+CUST-10455,Female,34,No,West,Two Year,29,Fiber Optic,Credit Card,Yes,No,No,No,47.2,9.69,1370.24,2,4.2,No,Retained
+CUST-10456,Female,52,No,West,Month-to-Month,17,Fiber Optic,Bank Transfer,Yes,No,No,No,76.07,0.31,1311.17,3,3.0,No,Retained
+CUST-10457,Female,46,No,Midwest,One Year,35,DSL,Mailed Check,Yes,No,Yes,No,63.44,6.52,2197.25,1,3.8,No,Retained
+CUST-10458,Female,60,No,Northeast,Month-to-Month,24,DSL,Credit Card,Yes,Yes,No,Yes,83.85,2.12,2015.01,2,4.5,No,Retained
+CUST-10459,Female,64,No,South,One Year,16,DSL,Credit Card,Yes,No,No,No,47.88,7.02,744.13,0,3.7,No,Retained
+CUST-10460,Female,42,No,Northeast,One Year,40,DSL,Electronic Check,Yes,Yes,Yes,No,67.24,8.86,2664.06,2,4.7,No,Retained
+CUST-10461,Male,31,No,South,Month-to-Month,23,Fiber Optic,Electronic Check,No,Yes,No,No,68.5,2.51,1561.21,4,1.7,Yes,Poor Support Experience
+CUST-10462,Male,48,No,West,Month-to-Month,17,Fiber Optic,Credit Card,Yes,No,No,No,46.71,3.69,769.2,1,3.4,Yes,No Long-Term Commitment
+CUST-10463,Male,33,No,South,One Year,6,DSL,Credit Card,Yes,No,Yes,Yes,57.0,4.52,365.93,1,2.7,Yes,Poor Support Experience
+CUST-10464,Male,70,Yes,South,One Year,20,Fiber Optic,Mailed Check,Yes,No,No,No,54.72,4.27,1068.68,1,3.8,No,Retained
+CUST-10465,Female,44,No,West,Month-to-Month,28,None,Credit Card,Yes,No,No,Yes,46.17,3.9,1261.16,0,4.6,No,Retained
+CUST-10466,Female,37,No,South,Month-to-Month,9,DSL,Credit Card,Yes,No,Yes,No,59.88,1.48,600.8,1,3.6,Yes,No Long-Term Commitment
+CUST-10467,Male,45,No,West,One Year,20,DSL,Credit Card,Yes,Yes,Yes,Yes,71.77,8.62,1469.03,4,2.6,No,Retained
+CUST-10468,Female,23,No,Northeast,Month-to-Month,28,None,Bank Transfer,No,Yes,Yes,Yes,50.89,0.59,1359.77,2,2.4,Yes,Poor Support Experience
+CUST-10469,Male,28,No,South,Month-to-Month,24,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,62.14,0.11,1464.59,2,4.8,No,Retained
+CUST-10470,Female,59,No,Midwest,Month-to-Month,28,Fiber Optic,Credit Card,Yes,No,No,No,90.37,3.96,2538.85,4,2.6,Yes,Price Too High
+CUST-10471,Male,33,No,West,Month-to-Month,29,DSL,Electronic Check,No,Yes,No,Yes,65.26,1.12,1903.87,2,3.1,No,Retained
+CUST-10472,Female,27,No,Midwest,Month-to-Month,3,Fiber Optic,Bank Transfer,No,Yes,Yes,No,86.73,3.69,208.02,6,3.4,Yes,Poor Support Experience
+CUST-10473,Male,50,No,South,Month-to-Month,22,None,Electronic Check,Yes,No,No,Yes,25.48,3.98,601.11,1,3.5,Yes,Moved/No Longer Needed
+CUST-10474,Male,59,No,South,Month-to-Month,27,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,104.1,2.4,2839.58,4,1.9,Yes,Price Too High
+CUST-10475,Male,52,No,South,Month-to-Month,19,DSL,Credit Card,Yes,Yes,Yes,No,80.62,0.13,1548.65,1,3.2,Yes,Competitor Offer
+CUST-10476,Female,56,No,South,Month-to-Month,13,DSL,Credit Card,Yes,No,Yes,Yes,62.87,0.33,864.8,3,2.6,No,Retained
+CUST-10477,Male,31,No,South,Month-to-Month,12,DSL,Credit Card,Yes,Yes,No,Yes,71.88,1.93,878.39,0,3.1,No,Retained
+CUST-10478,Male,22,No,Midwest,Month-to-Month,20,Fiber Optic,Bank Transfer,Yes,Yes,No,No,106.39,1.62,2143.5,1,2.8,Yes,Service Reliability Issues
+CUST-10479,Male,63,No,Northeast,Two Year,12,Fiber Optic,Electronic Check,No,Yes,Yes,No,84.97,9.72,1074.16,1,5.0,No,Retained
+CUST-10480,Male,37,No,Northeast,Month-to-Month,21,DSL,Bank Transfer,Yes,No,Yes,No,63.68,1.76,1375.82,3,2.3,Yes,Poor Support Experience
+CUST-10481,Male,38,No,Midwest,Month-to-Month,17,Fiber Optic,Credit Card,Yes,No,No,Yes,68.06,3.74,1127.57,4,1.8,Yes,Service Reliability Issues
+CUST-10482,Female,61,No,South,Month-to-Month,13,DSL,Electronic Check,Yes,Yes,No,No,48.22,2.14,649.02,2,3.7,Yes,No Long-Term Commitment
+CUST-10483,Male,50,No,South,Month-to-Month,1,DSL,Electronic Check,No,No,Yes,No,63.28,2.77,40.03,2,3.4,No,Retained
+CUST-10484,Male,48,No,South,One Year,15,DSL,Credit Card,Yes,Yes,No,Yes,78.54,4.12,1195.75,2,4.0,No,Retained
+CUST-10485,Male,72,Yes,South,One Year,37,DSL,Credit Card,Yes,No,No,Yes,76.51,3.4,2847.55,1,3.3,No,Retained
+CUST-10486,Female,33,No,West,Two Year,50,Fiber Optic,Credit Card,Yes,Yes,No,Yes,58.86,12.17,2894.58,4,2.3,No,Retained
+CUST-10487,Female,55,No,West,One Year,27,DSL,Bank Transfer,Yes,No,No,No,44.14,5.08,1187.52,3,4.6,No,Retained
+CUST-10488,Male,43,No,West,Two Year,29,DSL,Credit Card,Yes,No,No,No,49.62,6.43,1448.26,2,2.2,No,Retained
+CUST-10489,Male,46,No,West,Month-to-Month,16,Fiber Optic,Mailed Check,Yes,No,No,Yes,80.28,2.05,1269.21,2,3.8,No,Retained
+CUST-10490,Female,63,No,Northeast,Month-to-Month,14,None,Credit Card,Yes,Yes,No,Yes,53.57,1.28,760.99,1,4.3,No,Retained
+CUST-10491,Male,49,No,Midwest,Month-to-Month,27,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,90.98,1.69,2484.67,2,3.8,Yes,Price Too High
+CUST-10492,Female,50,No,South,Month-to-Month,28,Fiber Optic,Electronic Check,Yes,No,No,Yes,83.48,3.93,2336.37,3,3.0,Yes,Moved/No Longer Needed
+CUST-10493,Female,57,No,Northeast,Month-to-Month,18,Fiber Optic,Credit Card,No,Yes,No,Yes,82.64,0.63,1495.38,2,2.5,No,Retained
+CUST-10494,Female,37,No,Northeast,One Year,44,None,Electronic Check,Yes,No,Yes,No,54.7,2.68,2455.22,0,5.0,No,Retained
+CUST-10495,Female,30,No,West,Month-to-Month,17,Fiber Optic,Credit Card,Yes,No,Yes,No,87.85,0.4,1510.01,1,3.0,Yes,Service Reliability Issues
+CUST-10496,Male,27,No,West,Two Year,40,DSL,Bank Transfer,Yes,No,No,Yes,56.12,9.72,2251.83,2,4.7,No,Retained
+CUST-10497,Female,18,No,West,Two Year,29,DSL,Electronic Check,Yes,Yes,Yes,No,85.99,12.44,2460.18,1,3.7,No,Retained
+CUST-10498,Male,71,Yes,Northeast,Month-to-Month,12,Fiber Optic,Electronic Check,No,No,No,No,91.09,3.79,1116.57,4,2.3,Yes,Competitor Offer
+CUST-10499,Male,27,No,Northeast,Month-to-Month,8,Fiber Optic,Bank Transfer,Yes,No,No,No,85.83,1.56,698.2,3,3.2,Yes,Competitor Offer
+CUST-10500,Male,39,No,South,Month-to-Month,22,DSL,Electronic Check,Yes,No,No,Yes,29.7,0.26,698.33,3,4.2,Yes,Poor Support Experience
+CUST-10501,Male,38,No,West,Month-to-Month,30,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,111.2,1.55,3337.64,1,3.5,No,Retained
+CUST-10502,Female,46,No,West,Month-to-Month,2,DSL,Credit Card,No,Yes,Yes,No,88.03,0.58,112.49,4,2.1,No,Retained
+CUST-10503,Male,53,No,West,Month-to-Month,7,Fiber Optic,Bank Transfer,No,Yes,No,No,111.05,0.92,717.85,3,1.5,Yes,Price Too High
+CUST-10504,Male,54,No,South,Month-to-Month,4,DSL,Electronic Check,Yes,Yes,No,Yes,90.56,2.47,387.99,1,3.1,Yes,Price Too High
+CUST-10505,Female,34,No,Northeast,Month-to-Month,18,DSL,Electronic Check,Yes,No,Yes,No,85.71,0.27,1522.82,2,3.8,Yes,Competitor Offer
+CUST-10506,Male,40,No,Midwest,Two Year,71,Fiber Optic,Credit Card,Yes,No,No,No,81.35,6.0,5791.14,2,2.7,No,Retained
+CUST-10507,Male,46,No,Northeast,One Year,43,Fiber Optic,Mailed Check,Yes,Yes,Yes,Yes,108.41,7.48,4665.63,1,3.9,No,Retained
+CUST-10508,Male,39,No,Northeast,Two Year,70,Fiber Optic,Credit Card,No,No,No,No,94.64,5.29,6618.96,4,2.7,No,Retained
+CUST-10509,Male,65,Yes,Midwest,Month-to-Month,9,Fiber Optic,Electronic Check,Yes,Yes,No,No,90.53,0.08,811.4,2,3.7,Yes,Competitor Offer
+CUST-10510,Male,49,No,West,Month-to-Month,27,DSL,Credit Card,Yes,Yes,Yes,Yes,63.52,3.94,1684.75,1,1.9,Yes,No Long-Term Commitment
+CUST-10511,Female,52,No,Midwest,One Year,14,DSL,Mailed Check,No,Yes,No,No,65.33,4.36,914.07,1,2.6,No,Retained
+CUST-10512,Male,51,No,South,Month-to-Month,14,Fiber Optic,Bank Transfer,No,Yes,No,No,89.8,3.11,1236.74,4,2.3,Yes,Price Too High
+CUST-10513,Male,58,No,Midwest,Month-to-Month,8,DSL,Mailed Check,Yes,No,Yes,No,67.02,1.3,523.13,2,5.0,No,Retained
+CUST-10514,Female,45,No,South,One Year,40,DSL,Electronic Check,No,Yes,Yes,Yes,64.09,8.49,2552.27,0,3.4,No,Retained
+CUST-10515,Female,24,No,Midwest,One Year,23,Fiber Optic,Electronic Check,Yes,No,No,Yes,58.43,6.4,1335.96,2,3.4,No,Retained
+CUST-10516,Female,48,No,South,Month-to-Month,5,Fiber Optic,Credit Card,No,Yes,No,No,78.03,1.37,422.43,1,5.0,No,Retained
+CUST-10517,Male,33,No,South,Month-to-Month,14,None,Bank Transfer,No,No,No,Yes,53.64,0.09,746.42,0,4.3,Yes,No Long-Term Commitment
+CUST-10518,Male,35,No,South,Month-to-Month,28,DSL,Electronic Check,Yes,Yes,No,Yes,95.56,1.44,2711.51,4,3.3,Yes,Competitor Offer
+CUST-10519,Female,50,No,South,Month-to-Month,30,DSL,Electronic Check,No,Yes,No,Yes,85.83,3.56,2628.72,2,2.6,No,Retained
+CUST-10520,Male,59,No,Midwest,Month-to-Month,4,DSL,Bank Transfer,No,Yes,No,Yes,88.19,2.76,382.68,1,4.3,No,Retained
+CUST-10521,Female,42,No,Midwest,Month-to-Month,7,Fiber Optic,Electronic Check,Yes,Yes,No,No,86.53,0.58,624.42,3,4.0,Yes,Moved/No Longer Needed
+CUST-10522,Male,46,No,West,Month-to-Month,20,DSL,Credit Card,Yes,Yes,No,Yes,55.75,2.36,1126.44,2,3.9,Yes,No Long-Term Commitment
+CUST-10523,Male,66,Yes,South,Two Year,36,DSL,Credit Card,No,No,Yes,No,55.57,9.7,2030.81,1,3.7,No,Retained
+CUST-10524,Male,45,No,South,One Year,33,DSL,Credit Card,Yes,No,Yes,Yes,64.54,7.66,2132.95,3,3.7,No,Retained
+CUST-10525,Female,78,Yes,South,One Year,17,Fiber Optic,Bank Transfer,Yes,No,No,No,66.36,5.25,1162.58,1,2.4,No,Retained
+CUST-10526,Female,50,No,South,Month-to-Month,2,Fiber Optic,Electronic Check,No,No,Yes,Yes,86.55,3.47,194.59,2,4.0,Yes,Price Too High
+CUST-10527,Female,18,No,Northeast,Month-to-Month,11,Fiber Optic,Credit Card,No,Yes,No,No,92.17,1.21,1001.28,2,2.5,Yes,Poor Support Experience
+CUST-10528,Female,53,No,South,Month-to-Month,14,None,Credit Card,Yes,Yes,No,No,59.14,1.82,859.31,1,3.5,No,Retained
+CUST-10529,Male,47,No,West,Month-to-Month,22,Fiber Optic,Credit Card,Yes,No,No,Yes,77.01,2.1,1697.42,2,4.6,Yes,No Long-Term Commitment
+CUST-10530,Male,60,No,South,Month-to-Month,23,Fiber Optic,Credit Card,Yes,No,No,No,51.34,3.4,1177.11,5,3.6,Yes,Competitor Offer
+CUST-10531,Male,51,No,South,One Year,25,Fiber Optic,Electronic Check,Yes,No,No,Yes,74.59,2.12,1848.08,1,2.5,No,Retained
+CUST-10532,Male,40,No,West,One Year,43,Fiber Optic,Electronic Check,Yes,No,No,No,73.28,4.24,3156.85,3,2.5,No,Retained
+CUST-10533,Male,25,No,Midwest,Month-to-Month,23,DSL,Electronic Check,No,Yes,Yes,No,93.64,0.03,2188.6,4,3.2,Yes,Poor Support Experience
+CUST-10534,Male,39,No,South,Month-to-Month,4,DSL,Electronic Check,Yes,Yes,Yes,No,69.53,3.69,309.23,1,2.4,Yes,No Long-Term Commitment
+CUST-10535,Male,30,No,South,Two Year,26,DSL,Credit Card,Yes,Yes,No,No,71.12,9.0,1861.49,0,5.0,No,Retained
+CUST-10536,Male,34,No,West,Month-to-Month,24,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,96.45,1.06,2335.79,5,2.5,Yes,Poor Support Experience
+CUST-10537,Female,50,No,South,Month-to-Month,25,DSL,Bank Transfer,No,Yes,Yes,Yes,83.77,2.06,2138.76,4,4.1,No,Retained
+CUST-10538,Female,65,Yes,South,Month-to-Month,1,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,98.25,1.92,93.0,3,2.3,Yes,Poor Support Experience
+CUST-10539,Female,48,No,Northeast,One Year,12,Fiber Optic,Electronic Check,Yes,No,No,No,62.38,8.36,709.52,3,2.7,No,Retained
+CUST-10540,Male,25,No,Midwest,Two Year,68,Fiber Optic,Credit Card,Yes,No,No,No,61.02,11.69,4194.9,2,4.3,No,Retained
+CUST-10541,Male,48,No,West,Month-to-Month,12,Fiber Optic,Credit Card,Yes,No,No,Yes,78.8,3.74,927.06,2,3.3,Yes,No Long-Term Commitment
+CUST-10542,Female,59,No,West,Two Year,53,Fiber Optic,Electronic Check,Yes,No,No,No,61.72,9.66,3247.0,1,2.8,No,Retained
+CUST-10543,Male,33,No,West,Two Year,16,DSL,Electronic Check,Yes,Yes,No,Yes,79.41,5.58,1207.69,0,4.4,No,Retained
+CUST-10544,Male,40,No,West,Month-to-Month,12,DSL,Credit Card,Yes,Yes,Yes,Yes,73.63,3.68,903.55,3,2.0,Yes,Competitor Offer
+CUST-10545,Female,42,No,Midwest,Month-to-Month,18,DSL,Mailed Check,Yes,No,No,No,62.53,0.31,1068.79,2,4.7,No,Retained
+CUST-10546,Female,31,No,Midwest,Month-to-Month,10,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,91.51,2.44,888.84,1,3.5,No,Retained
+CUST-10547,Male,51,No,South,Two Year,49,Fiber Optic,Electronic Check,Yes,Yes,No,No,78.05,13.83,3845.04,2,2.8,No,Retained
+CUST-10548,Male,40,No,West,Month-to-Month,28,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,86.69,2.02,2452.59,1,4.3,No,Retained
+CUST-10549,Male,48,No,West,One Year,17,None,Electronic Check,Yes,Yes,Yes,No,51.32,3.05,849.63,4,3.9,Yes,Competitor Offer
+CUST-10550,Male,30,No,Northeast,Month-to-Month,7,DSL,Bank Transfer,Yes,No,No,Yes,66.69,0.69,462.13,2,3.5,Yes,No Long-Term Commitment
+CUST-10551,Male,36,No,Midwest,One Year,23,DSL,Bank Transfer,Yes,Yes,No,Yes,76.47,4.91,1728.27,1,5.0,No,Retained
+CUST-10552,Male,52,No,West,Month-to-Month,2,Fiber Optic,Mailed Check,Yes,No,Yes,No,82.49,0.56,145.79,0,5.0,No,Retained
+CUST-10553,Male,37,No,South,One Year,15,DSL,Credit Card,Yes,No,No,No,73.7,8.4,1114.82,0,4.3,No,Retained
+CUST-10554,Male,66,Yes,Midwest,Two Year,26,Fiber Optic,Bank Transfer,Yes,Yes,Yes,Yes,76.61,14.03,1974.3,5,3.6,No,Retained
+CUST-10555,Female,36,No,South,One Year,35,DSL,Credit Card,Yes,Yes,No,Yes,74.36,3.71,2594.05,3,4.3,No,Retained
+CUST-10556,Female,45,No,West,Two Year,55,None,Credit Card,No,Yes,No,No,28.89,7.17,1537.69,1,2.8,No,Retained
+CUST-10557,Female,55,No,South,Month-to-Month,26,None,Credit Card,No,Yes,Yes,Yes,64.92,3.76,1727.57,1,4.0,Yes,No Long-Term Commitment
+CUST-10558,Male,22,No,Midwest,One Year,22,DSL,Electronic Check,Yes,No,No,No,44.28,5.01,992.01,3,2.7,No,Retained
+CUST-10559,Male,18,No,South,Month-to-Month,4,Fiber Optic,Credit Card,Yes,No,Yes,No,77.94,2.16,339.51,3,2.6,Yes,Poor Support Experience
+CUST-10560,Male,21,No,West,Month-to-Month,7,None,Credit Card,Yes,No,No,Yes,38.07,3.73,311.65,4,3.1,Yes,Poor Support Experience
+CUST-10561,Female,60,No,Northeast,Month-to-Month,30,DSL,Bank Transfer,Yes,Yes,No,No,73.93,1.91,2189.02,1,3.9,Yes,Competitor Offer
+CUST-10562,Female,34,No,South,Month-to-Month,9,Fiber Optic,Bank Transfer,Yes,No,Yes,No,74.66,2.24,659.4,1,2.5,Yes,No Long-Term Commitment
+CUST-10563,Female,78,Yes,West,Month-to-Month,19,Fiber Optic,Bank Transfer,No,No,Yes,Yes,79.91,2.38,1451.97,3,3.5,No,Retained
+CUST-10564,Female,34,No,West,Two Year,71,Fiber Optic,Electronic Check,Yes,No,No,No,83.78,10.14,6058.29,0,3.8,No,Retained
+CUST-10565,Male,45,No,South,Month-to-Month,27,Fiber Optic,Bank Transfer,No,No,No,Yes,82.55,3.35,2223.61,4,4.1,No,Retained
+CUST-10566,Female,64,No,Midwest,One Year,44,Fiber Optic,Credit Card,Yes,No,Yes,No,69.91,8.34,3112.4,3,4.2,No,Retained
+CUST-10567,Female,70,Yes,South,Month-to-Month,23,DSL,Bank Transfer,No,No,No,Yes,61.59,2.22,1373.23,3,2.6,Yes,No Long-Term Commitment
+CUST-10568,Male,71,Yes,West,Month-to-Month,2,Fiber Optic,Mailed Check,No,No,Yes,No,99.77,2.89,234.41,3,4.0,Yes,Competitor Offer
+CUST-10569,Female,59,No,West,Month-to-Month,6,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,94.63,3.62,632.8,3,3.3,Yes,No Long-Term Commitment
+CUST-10570,Female,56,No,Midwest,Two Year,61,DSL,Bank Transfer,Yes,No,No,Yes,49.89,13.58,3041.18,1,3.6,No,Retained
+CUST-10571,Male,50,No,Midwest,Two Year,49,DSL,Electronic Check,Yes,Yes,Yes,No,64.82,8.42,3140.8,1,3.3,No,Retained
+CUST-10572,Female,53,No,South,Two Year,56,DSL,Credit Card,Yes,Yes,No,Yes,65.93,7.67,3687.22,1,2.8,No,Retained
+CUST-10573,Male,34,No,South,Two Year,69,Fiber Optic,Credit Card,Yes,No,No,Yes,63.75,14.85,4320.81,3,2.3,No,Retained
+CUST-10574,Male,31,No,Midwest,Month-to-Month,19,None,Electronic Check,Yes,No,No,Yes,28.1,1.87,532.57,1,2.3,No,Retained
+CUST-10575,Male,42,No,West,Month-to-Month,30,None,Bank Transfer,Yes,Yes,No,Yes,40.97,3.63,1257.83,0,4.0,No,Retained
+CUST-10576,Female,40,No,Northeast,One Year,39,Fiber Optic,Electronic Check,No,Yes,No,No,72.95,6.53,2843.8,4,1.4,Yes,Poor Support Experience
+CUST-10577,Male,36,No,Northeast,Month-to-Month,12,Fiber Optic,Electronic Check,Yes,Yes,No,No,91.7,3.58,1090.46,1,2.7,Yes,Price Too High
+CUST-10578,Female,52,No,Northeast,Month-to-Month,15,DSL,Credit Card,No,No,No,Yes,61.09,0.55,934.81,0,4.5,No,Retained
+CUST-10579,Female,55,No,West,Month-to-Month,14,DSL,Bank Transfer,Yes,No,No,No,55.55,3.4,798.84,1,4.9,No,Retained
+CUST-10580,Female,43,No,West,One Year,11,None,Mailed Check,No,No,No,No,50.15,5.8,493.55,1,2.8,Yes,Competitor Offer
+CUST-10581,Male,63,No,Midwest,One Year,42,DSL,Bank Transfer,Yes,No,Yes,No,78.68,4.68,3307.67,0,4.5,No,Retained
+CUST-10582,Female,26,No,West,Month-to-Month,18,DSL,Bank Transfer,Yes,Yes,No,Yes,73.07,2.07,1400.52,0,3.8,Yes,Competitor Offer
+CUST-10583,Female,39,No,South,Month-to-Month,3,DSL,Credit Card,No,No,No,No,50.79,3.12,105.64,3,2.8,Yes,Poor Support Experience
+CUST-10584,Male,32,No,Northeast,One Year,8,Fiber Optic,Electronic Check,Yes,Yes,No,No,71.99,7.26,572.93,2,3.6,No,Retained
+CUST-10585,Female,18,No,Northeast,One Year,27,Fiber Optic,Electronic Check,No,No,No,No,78.21,7.23,2179.63,2,3.0,No,Retained
+CUST-10586,Female,41,No,West,Month-to-Month,22,Fiber Optic,Credit Card,Yes,No,No,No,72.2,1.82,1627.05,3,3.2,Yes,Service Reliability Issues
+CUST-10587,Female,40,No,South,One Year,15,DSL,Bank Transfer,Yes,No,No,Yes,57.89,5.66,850.38,1,3.8,No,Retained
+CUST-10588,Female,63,No,West,Month-to-Month,19,DSL,Credit Card,Yes,Yes,Yes,No,67.05,3.17,1281.16,2,4.4,Yes,No Long-Term Commitment
+CUST-10589,Female,51,No,Northeast,Month-to-Month,3,DSL,Bank Transfer,No,Yes,No,No,61.52,1.98,184.49,2,4.6,Yes,Moved/No Longer Needed
+CUST-10590,Female,28,No,Northeast,One Year,17,Fiber Optic,Credit Card,Yes,Yes,Yes,No,92.97,5.94,1554.31,0,3.2,No,Retained
+CUST-10591,Male,68,Yes,South,One Year,34,DSL,Electronic Check,No,No,No,Yes,48.77,2.87,1655.58,0,3.8,No,Retained
+CUST-10592,Female,59,No,South,Month-to-Month,16,Fiber Optic,Electronic Check,No,Yes,No,No,98.29,1.65,1562.84,1,4.0,No,Retained
+CUST-10593,Female,50,No,Northeast,One Year,22,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,82.13,7.29,1810.81,1,3.6,No,Retained
+CUST-10594,Male,39,No,West,One Year,12,DSL,Bank Transfer,Yes,No,Yes,No,63.85,2.07,740.01,1,4.3,No,Retained
+CUST-10595,Female,29,No,West,One Year,18,DSL,Bank Transfer,No,No,No,No,40.13,8.71,677.66,5,3.5,Yes,Moved/No Longer Needed
+CUST-10596,Male,37,No,Northeast,One Year,7,None,Electronic Check,Yes,Yes,Yes,No,53.66,5.61,374.18,1,4.6,No,Retained
+CUST-10597,Female,57,No,South,One Year,9,Fiber Optic,Mailed Check,Yes,No,Yes,Yes,77.51,8.88,757.62,1,3.8,Yes,Competitor Offer
+CUST-10598,Female,68,Yes,Midwest,Month-to-Month,10,DSL,Electronic Check,Yes,No,No,No,58.56,1.42,588.48,1,2.8,No,Retained
+CUST-10599,Female,64,No,South,Month-to-Month,7,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,106.0,0.62,730.39,1,3.3,Yes,Competitor Offer
+CUST-10600,Female,35,No,West,Month-to-Month,24,Fiber Optic,Mailed Check,Yes,Yes,No,No,87.64,2.76,2129.75,3,2.5,Yes,Price Too High
+CUST-10601,Female,26,No,Northeast,Month-to-Month,17,DSL,Electronic Check,Yes,Yes,No,Yes,65.83,3.84,1113.57,1,4.4,No,Retained
+CUST-10602,Female,44,No,West,One Year,11,DSL,Bank Transfer,No,Yes,Yes,No,67.27,4.53,805.35,1,5.0,No,Retained
+CUST-10603,Female,18,No,Northeast,Month-to-Month,19,DSL,Electronic Check,Yes,Yes,No,No,77.19,2.47,1466.47,0,5.0,Yes,Competitor Offer
+CUST-10604,Female,47,No,West,Month-to-Month,5,Fiber Optic,Credit Card,Yes,Yes,No,Yes,107.16,2.21,560.32,4,3.4,Yes,Service Reliability Issues
+CUST-10605,Female,40,No,West,Month-to-Month,10,DSL,Mailed Check,No,No,No,Yes,69.14,0.35,664.99,3,2.5,Yes,No Long-Term Commitment
+CUST-10606,Female,35,No,South,Month-to-Month,9,Fiber Optic,Electronic Check,No,No,No,No,81.8,2.92,753.81,2,4.6,No,Retained
+CUST-10607,Female,20,No,West,Month-to-Month,27,DSL,Bank Transfer,No,No,No,Yes,71.55,2.41,1941.48,2,3.8,No,Retained
+CUST-10608,Female,49,No,West,One Year,18,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,103.72,6.58,1864.98,2,2.5,Yes,Poor Support Experience
+CUST-10609,Male,35,No,South,Month-to-Month,19,Fiber Optic,Credit Card,No,No,Yes,Yes,63.24,3.6,1184.0,2,4.2,Yes,Moved/No Longer Needed
+CUST-10610,Female,26,No,West,One Year,26,DSL,Electronic Check,Yes,No,Yes,No,71.24,5.02,1829.91,0,3.8,No,Retained
+CUST-10611,Male,18,No,West,Two Year,35,None,Electronic Check,Yes,No,No,No,43.4,12.86,1528.88,0,2.4,No,Retained
+CUST-10612,Male,42,No,Midwest,Month-to-Month,6,Fiber Optic,Electronic Check,Yes,No,Yes,No,64.46,3.71,408.77,1,3.0,Yes,No Long-Term Commitment
+CUST-10613,Female,67,Yes,Midwest,Month-to-Month,4,Fiber Optic,Electronic Check,Yes,No,No,No,62.78,3.96,246.67,1,3.7,Yes,No Long-Term Commitment
+CUST-10614,Male,65,Yes,Midwest,Month-to-Month,24,DSL,Mailed Check,No,No,No,Yes,54.49,2.33,1317.81,1,3.7,Yes,Competitor Offer
+CUST-10615,Male,36,No,South,One Year,40,Fiber Optic,Credit Card,Yes,Yes,Yes,No,81.99,4.94,3278.27,4,2.1,No,Retained
+CUST-10616,Female,34,No,South,One Year,8,Fiber Optic,Electronic Check,No,No,No,Yes,74.22,2.62,597.21,3,3.9,No,Retained
+CUST-10617,Female,49,No,Midwest,Month-to-Month,4,Fiber Optic,Credit Card,No,Yes,Yes,Yes,100.64,3.15,395.54,3,3.3,Yes,Competitor Offer
+CUST-10618,Male,28,No,West,Month-to-Month,25,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,104.28,0.11,2607.63,4,1.5,Yes,Competitor Offer
+CUST-10619,Male,46,No,South,Two Year,48,None,Bank Transfer,Yes,Yes,No,No,58.0,7.9,2878.43,0,5.0,No,Retained
+CUST-10620,Female,53,No,Northeast,Month-to-Month,8,DSL,Mailed Check,Yes,Yes,No,No,61.78,0.27,505.15,4,2.0,Yes,No Long-Term Commitment
+CUST-10621,Female,59,No,Midwest,Month-to-Month,16,DSL,Credit Card,Yes,Yes,No,Yes,65.88,2.92,1076.67,1,3.4,No,Retained
+CUST-10622,Female,41,No,West,Two Year,65,None,Bank Transfer,Yes,Yes,Yes,No,68.29,6.18,4454.18,2,3.8,No,Retained
+CUST-10623,Female,39,No,South,One Year,40,Fiber Optic,Credit Card,No,Yes,No,Yes,95.45,6.2,3808.8,0,3.3,No,Retained
+CUST-10624,Male,30,No,Midwest,Two Year,42,Fiber Optic,Electronic Check,Yes,No,No,Yes,72.41,12.75,3086.51,1,4.9,No,Retained
+CUST-10625,Female,30,No,West,One Year,30,Fiber Optic,Bank Transfer,Yes,Yes,No,No,88.42,5.61,2642.41,2,3.0,No,Retained
+CUST-10626,Female,39,No,Midwest,One Year,45,Fiber Optic,Credit Card,No,No,No,No,69.51,8.11,3164.88,1,3.0,No,Retained
+CUST-10627,Male,47,No,Midwest,Month-to-Month,13,Fiber Optic,Credit Card,Yes,Yes,No,No,93.3,1.06,1201.2,4,3.1,Yes,Competitor Offer
+CUST-10628,Female,55,No,Northeast,One Year,9,None,Bank Transfer,No,No,No,No,33.19,2.29,265.11,2,1.2,No,Retained
+CUST-10629,Female,31,No,West,Two Year,57,DSL,Credit Card,Yes,No,No,No,56.84,10.11,3252.67,1,4.2,No,Retained
+CUST-10630,Male,63,No,South,One Year,19,Fiber Optic,Mailed Check,Yes,No,Yes,Yes,67.74,4.42,1248.4,1,4.8,No,Retained
+CUST-10631,Male,38,No,Midwest,Month-to-Month,13,DSL,Bank Transfer,Yes,No,No,No,50.42,2.57,674.21,0,2.2,No,Retained
+CUST-10632,Female,42,No,Midwest,Month-to-Month,27,DSL,Credit Card,Yes,Yes,No,No,63.19,1.08,1664.33,3,2.9,No,Retained
+CUST-10633,Male,32,No,Midwest,Month-to-Month,6,None,Credit Card,Yes,No,No,Yes,38.25,3.18,218.33,2,2.2,Yes,Competitor Offer
+CUST-10634,Female,18,No,South,Month-to-Month,17,DSL,Electronic Check,No,No,Yes,No,55.37,0.92,891.18,0,4.0,No,Retained
+CUST-10635,Female,54,No,South,Month-to-Month,4,DSL,Mailed Check,Yes,No,No,No,53.26,0.64,311.89,5,4.5,Yes,Poor Support Experience
+CUST-10636,Male,52,No,Northeast,One Year,45,DSL,Bank Transfer,No,No,Yes,Yes,52.15,4.89,2288.86,1,3.9,No,Retained
+CUST-10637,Female,38,No,Midwest,One Year,40,DSL,Electronic Check,Yes,Yes,No,No,74.35,5.38,2974.34,0,3.8,Yes,Moved/No Longer Needed
+CUST-10638,Female,43,No,Northeast,Month-to-Month,17,DSL,Electronic Check,Yes,No,No,No,58.58,0.73,1035.88,2,1.2,Yes,Poor Support Experience
+CUST-10639,Female,49,No,Midwest,One Year,46,Fiber Optic,Credit Card,Yes,Yes,No,Yes,67.05,8.82,3120.57,2,2.6,Yes,Poor Support Experience
+CUST-10640,Female,20,No,Midwest,Month-to-Month,2,Fiber Optic,Electronic Check,No,No,No,Yes,69.57,3.35,168.94,1,3.6,No,Retained
+CUST-10641,Female,35,No,Midwest,Month-to-Month,25,DSL,Electronic Check,Yes,Yes,Yes,Yes,86.27,3.11,2145.65,2,3.2,No,Retained
+CUST-10642,Female,53,No,Northeast,Month-to-Month,13,Fiber Optic,Credit Card,Yes,No,Yes,No,75.48,1.31,1028.53,1,4.0,Yes,Service Reliability Issues
+CUST-10643,Female,24,No,West,Month-to-Month,20,Fiber Optic,Electronic Check,No,Yes,No,No,77.55,2.63,1582.97,2,4.1,No,Retained
+CUST-10644,Female,46,No,Midwest,Month-to-Month,2,DSL,Credit Card,Yes,Yes,Yes,No,77.71,0.5,162.85,1,3.0,No,Retained
+CUST-10645,Male,23,No,South,Month-to-Month,20,Fiber Optic,Electronic Check,No,No,No,Yes,84.37,2.03,1695.82,3,3.3,Yes,Poor Support Experience
+CUST-10646,Male,49,No,West,Month-to-Month,28,DSL,Electronic Check,Yes,No,Yes,Yes,55.72,0.07,1549.52,2,3.1,Yes,No Long-Term Commitment
+CUST-10647,Male,42,No,Midwest,One Year,48,DSL,Bank Transfer,No,No,No,Yes,66.6,8.27,3164.96,0,3.2,No,Retained
+CUST-10648,Male,19,No,South,Month-to-Month,27,None,Credit Card,No,Yes,No,No,40.28,0.3,1130.86,4,2.3,No,Retained
+CUST-10649,Female,58,No,South,One Year,31,DSL,Electronic Check,No,Yes,Yes,No,76.11,3.39,2405.34,1,4.2,No,Retained
+CUST-10650,Female,32,No,South,One Year,27,Fiber Optic,Electronic Check,Yes,No,Yes,No,78.05,5.47,2076.41,3,1.2,Yes,Poor Support Experience
+CUST-10651,Male,31,No,South,One Year,48,DSL,Credit Card,Yes,No,No,Yes,54.73,8.3,2621.66,0,2.5,No,Retained
+CUST-10652,Male,45,No,South,Two Year,66,DSL,Electronic Check,No,No,No,No,41.0,14.08,2700.98,0,5.0,No,Retained
+CUST-10653,Male,58,No,West,Month-to-Month,3,None,Electronic Check,Yes,Yes,No,No,45.89,1.45,136.53,1,3.2,Yes,No Long-Term Commitment
+CUST-10654,Female,28,No,Northeast,Month-to-Month,3,Fiber Optic,Electronic Check,Yes,No,No,Yes,98.42,3.03,297.51,1,4.6,Yes,Price Too High
+CUST-10655,Female,43,No,West,Two Year,71,Fiber Optic,Bank Transfer,No,Yes,No,No,67.66,5.58,4837.0,1,3.7,No,Retained
+CUST-10656,Female,48,No,South,Month-to-Month,26,None,Bank Transfer,Yes,No,Yes,Yes,69.27,2.86,1774.87,3,2.8,Yes,No Long-Term Commitment
+CUST-10657,Female,52,No,South,One Year,17,Fiber Optic,Bank Transfer,Yes,No,No,Yes,75.08,4.82,1246.74,1,4.3,No,Retained
+CUST-10658,Male,44,No,Midwest,One Year,29,DSL,Bank Transfer,Yes,Yes,Yes,Yes,77.93,8.77,2303.25,0,4.1,No,Retained
+CUST-10659,Male,37,No,West,One Year,10,Fiber Optic,Bank Transfer,Yes,No,Yes,No,65.57,6.28,639.51,3,3.1,No,Retained
+CUST-10660,Female,30,No,Northeast,Two Year,31,Fiber Optic,Credit Card,Yes,No,No,Yes,67.36,7.4,2043.95,1,3.7,No,Retained
+CUST-10661,Male,43,No,Midwest,Two Year,50,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,86.36,9.07,4301.02,2,3.5,No,Retained
+CUST-10662,Male,27,No,Midwest,One Year,44,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,82.53,6.69,3619.77,3,2.7,No,Retained
+CUST-10663,Female,18,No,South,Month-to-Month,13,DSL,Credit Card,No,Yes,Yes,No,74.63,2.43,1024.61,0,3.6,No,Retained
+CUST-10664,Female,48,No,Midwest,Two Year,52,None,Bank Transfer,No,No,No,No,28.18,14.93,1497.73,1,3.0,No,Retained
+CUST-10665,Female,55,No,South,Month-to-Month,25,Fiber Optic,Credit Card,Yes,Yes,No,No,105.85,3.96,2686.41,2,2.2,Yes,Service Reliability Issues
+CUST-10666,Female,18,No,Northeast,Month-to-Month,21,DSL,Electronic Check,Yes,Yes,No,Yes,62.77,1.94,1346.87,0,5.0,Yes,Moved/No Longer Needed
+CUST-10667,Female,28,No,Midwest,Two Year,56,Fiber Optic,Electronic Check,No,No,No,Yes,78.67,5.48,4438.64,2,2.8,No,Retained
+CUST-10668,Female,51,No,West,Month-to-Month,12,DSL,Credit Card,Yes,No,No,Yes,67.19,2.58,782.2,2,4.3,No,Retained
+CUST-10669,Female,71,Yes,South,Month-to-Month,13,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,74.47,2.22,961.16,5,2.5,No,Retained
+CUST-10670,Female,42,No,South,Month-to-Month,24,None,Bank Transfer,Yes,No,No,No,45.07,2.54,1047.03,4,3.4,Yes,Competitor Offer
+CUST-10671,Male,32,No,Midwest,Two Year,21,DSL,Electronic Check,Yes,No,Yes,No,53.55,13.93,1117.18,0,4.0,No,Retained
+CUST-10672,Female,39,No,South,Month-to-Month,1,DSL,Bank Transfer,No,No,Yes,No,35.98,2.99,59.92,2,2.1,No,Retained
+CUST-10673,Male,61,No,Midwest,One Year,45,DSL,Credit Card,Yes,No,Yes,No,69.67,7.01,3139.86,0,4.0,No,Retained
+CUST-10674,Female,33,No,South,Month-to-Month,22,DSL,Bank Transfer,No,No,No,Yes,51.63,1.85,1181.76,0,4.5,No,Retained
+CUST-10675,Male,31,No,Midwest,One Year,21,None,Credit Card,Yes,Yes,Yes,Yes,48.5,3.82,978.55,2,2.7,No,Retained
+CUST-10676,Female,35,No,Northeast,One Year,40,DSL,Credit Card,No,No,Yes,No,72.16,4.1,2903.91,0,5.0,No,Retained
+CUST-10677,Female,29,No,Midwest,Month-to-Month,3,None,Credit Card,Yes,Yes,Yes,Yes,57.75,1.83,129.56,2,4.1,Yes,No Long-Term Commitment
+CUST-10678,Male,44,No,Midwest,Month-to-Month,24,DSL,Bank Transfer,Yes,Yes,Yes,Yes,95.94,0.07,2305.86,3,3.6,Yes,No Long-Term Commitment
+CUST-10679,Male,65,Yes,South,Month-to-Month,5,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,107.76,0.7,564.71,5,3.1,Yes,Poor Support Experience
+CUST-10680,Male,47,No,South,Two Year,37,DSL,Electronic Check,Yes,Yes,No,Yes,63.66,9.39,2347.91,3,1.4,No,Retained
+CUST-10681,Female,38,No,Midwest,One Year,16,Fiber Optic,Electronic Check,Yes,No,No,Yes,87.17,4.75,1414.01,3,3.5,No,Retained
+CUST-10682,Female,38,No,West,Two Year,18,DSL,Mailed Check,Yes,No,Yes,No,49.28,14.94,853.45,0,5.0,No,Retained
+CUST-10683,Male,20,No,West,Month-to-Month,21,DSL,Credit Card,Yes,No,Yes,No,91.84,2.09,1870.41,1,4.0,No,Retained
+CUST-10684,Male,54,No,South,One Year,15,DSL,Credit Card,Yes,No,No,Yes,55.89,3.1,857.85,0,3.8,No,Retained
+CUST-10685,Male,41,No,South,One Year,47,Fiber Optic,Credit Card,Yes,No,Yes,Yes,94.37,6.85,4496.43,4,1.8,No,Retained
+CUST-10686,Male,39,No,South,One Year,39,Fiber Optic,Electronic Check,No,Yes,No,No,95.53,2.65,3690.81,2,2.2,Yes,Price Too High
+CUST-10687,Female,80,Yes,Northeast,Two Year,14,DSL,Bank Transfer,No,No,Yes,Yes,71.5,6.89,1043.78,1,2.7,No,Retained
+CUST-10688,Male,46,No,South,Month-to-Month,8,None,Bank Transfer,No,No,No,Yes,35.84,0.31,288.24,3,2.9,Yes,Competitor Offer
+CUST-10689,Female,31,No,West,Month-to-Month,11,Fiber Optic,Electronic Check,No,Yes,Yes,Yes,96.32,2.88,1012.77,2,2.3,Yes,No Long-Term Commitment
+CUST-10690,Female,36,No,South,One Year,12,Fiber Optic,Electronic Check,Yes,No,No,Yes,51.47,8.35,578.04,2,3.4,No,Retained
+CUST-10691,Female,58,No,Midwest,One Year,7,DSL,Bank Transfer,Yes,Yes,No,No,71.06,4.86,497.97,0,4.2,No,Retained
+CUST-10692,Female,44,No,West,One Year,11,DSL,Electronic Check,Yes,Yes,No,No,70.16,7.93,757.6,0,2.6,Yes,Competitor Offer
+CUST-10693,Female,22,No,Northeast,Month-to-Month,9,Fiber Optic,Bank Transfer,No,Yes,Yes,Yes,101.63,0.95,868.72,2,2.5,Yes,No Long-Term Commitment
+CUST-10694,Female,55,No,Northeast,Month-to-Month,20,Fiber Optic,Electronic Check,No,Yes,No,Yes,57.0,2.27,1080.71,1,3.3,No,Retained
+CUST-10695,Male,33,No,West,Month-to-Month,25,Fiber Optic,Credit Card,Yes,No,No,Yes,64.58,3.34,1584.86,2,3.0,Yes,No Long-Term Commitment
+CUST-10696,Female,68,Yes,Northeast,Month-to-Month,2,None,Mailed Check,Yes,No,Yes,Yes,41.7,0.77,90.18,0,4.0,Yes,Moved/No Longer Needed
+CUST-10697,Male,57,No,Northeast,One Year,21,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,89.71,8.92,1883.69,2,3.2,No,Retained
+CUST-10698,Female,36,No,Northeast,One Year,30,Fiber Optic,Credit Card,Yes,No,No,No,74.13,6.72,2206.36,4,2.7,No,Retained
+CUST-10699,Female,60,No,Northeast,Month-to-Month,12,Fiber Optic,Bank Transfer,Yes,No,Yes,No,77.98,3.68,942.83,4,2.5,No,Retained
+CUST-10700,Male,43,No,South,Month-to-Month,7,Fiber Optic,Electronic Check,Yes,Yes,No,No,95.31,0.32,703.57,1,3.4,Yes,Service Reliability Issues
+CUST-10701,Female,54,No,West,Month-to-Month,7,DSL,Electronic Check,No,Yes,Yes,No,64.25,3.66,463.54,4,4.2,Yes,Competitor Offer
+CUST-10702,Female,49,No,South,Month-to-Month,17,Fiber Optic,Mailed Check,Yes,No,No,No,81.69,1.96,1384.48,1,2.6,Yes,Competitor Offer
+CUST-10703,Female,30,No,South,One Year,16,Fiber Optic,Bank Transfer,No,No,Yes,Yes,87.26,7.86,1428.64,4,3.6,No,Retained
+CUST-10704,Female,33,No,Northeast,Two Year,17,Fiber Optic,Credit Card,No,No,No,Yes,77.24,10.74,1279.49,1,2.4,No,Retained
+CUST-10705,Male,56,No,West,Month-to-Month,29,Fiber Optic,Electronic Check,No,Yes,Yes,No,89.14,3.96,2577.19,2,3.4,Yes,Price Too High
+CUST-10706,Female,37,No,Midwest,One Year,28,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,107.01,3.57,2989.24,1,4.2,Yes,Price Too High
+CUST-10707,Male,36,No,Northeast,Two Year,38,DSL,Electronic Check,Yes,Yes,Yes,No,78.14,7.98,2926.03,0,2.9,No,Retained
+CUST-10708,Female,29,No,Northeast,Two Year,57,DSL,Credit Card,Yes,Yes,No,No,56.26,6.83,3192.12,3,3.5,Yes,Poor Support Experience
+CUST-10709,Male,48,No,Northeast,Month-to-Month,6,None,Bank Transfer,Yes,No,Yes,No,46.96,2.12,209.14,3,2.4,No,Retained
+CUST-10710,Male,71,Yes,South,Two Year,49,DSL,Credit Card,Yes,Yes,No,Yes,80.64,7.34,4018.29,0,4.9,No,Retained
+CUST-10711,Male,27,No,South,Month-to-Month,2,DSL,Bank Transfer,No,Yes,Yes,No,70.3,2.28,107.79,1,2.5,Yes,Poor Support Experience
+CUST-10712,Female,42,No,West,Month-to-Month,22,Fiber Optic,Electronic Check,No,Yes,Yes,Yes,113.99,0.07,2563.29,3,2.2,Yes,Price Too High
+CUST-10713,Female,62,No,South,Month-to-Month,20,DSL,Credit Card,No,Yes,No,No,74.41,2.84,1489.53,2,3.6,Yes,Competitor Offer
+CUST-10714,Female,41,No,South,Month-to-Month,25,DSL,Electronic Check,No,No,No,Yes,36.81,2.85,940.02,1,4.3,Yes,Moved/No Longer Needed
+CUST-10715,Male,48,No,West,Month-to-Month,15,DSL,Credit Card,Yes,No,No,No,63.31,0.46,932.54,3,3.3,Yes,Competitor Offer
+CUST-10716,Male,27,No,Midwest,Month-to-Month,28,DSL,Electronic Check,Yes,Yes,No,No,65.6,2.28,1844.08,1,4.1,No,Retained
+CUST-10717,Male,48,No,West,Month-to-Month,17,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,98.17,2.27,1691.66,6,1.7,Yes,Service Reliability Issues
+CUST-10718,Female,39,No,South,One Year,34,DSL,Electronic Check,Yes,Yes,No,No,81.18,2.58,2783.38,0,3.1,No,Retained
+CUST-10719,Male,56,No,Midwest,Two Year,19,DSL,Mailed Check,No,No,No,No,55.16,11.51,1075.16,1,4.9,No,Retained
+CUST-10720,Male,59,No,South,Month-to-Month,5,None,Credit Card,Yes,Yes,Yes,Yes,80.9,2.51,391.61,0,4.4,No,Retained
+CUST-10721,Female,78,Yes,South,Two Year,60,Fiber Optic,Mailed Check,Yes,No,No,No,63.05,14.64,3766.19,6,2.1,No,Retained
+CUST-10722,Female,50,No,Midwest,Two Year,63,Fiber Optic,Credit Card,Yes,Yes,No,Yes,86.92,14.36,5420.16,3,1.6,No,Retained
+CUST-10723,Male,47,No,Midwest,One Year,38,Fiber Optic,Mailed Check,Yes,Yes,No,No,90.31,7.53,3450.09,1,4.4,No,Retained
+CUST-10724,Male,45,No,Midwest,Month-to-Month,22,DSL,Electronic Check,Yes,No,Yes,No,63.97,2.82,1445.22,3,4.3,No,Retained
+CUST-10725,Male,37,No,South,One Year,10,Fiber Optic,Bank Transfer,No,No,Yes,Yes,93.41,5.02,990.66,1,3.2,No,Retained
+CUST-10726,Female,47,No,Northeast,Two Year,50,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,77.86,10.36,3903.68,2,3.0,No,Retained
+CUST-10727,Male,38,No,Midwest,One Year,23,None,Electronic Check,Yes,No,Yes,No,37.32,6.53,831.53,5,2.5,No,Retained
+CUST-10728,Female,44,No,West,Month-to-Month,6,Fiber Optic,Electronic Check,Yes,No,No,Yes,65.83,0.63,335.58,2,3.3,Yes,No Long-Term Commitment
+CUST-10729,Female,60,No,Midwest,Month-to-Month,22,DSL,Credit Card,Yes,No,Yes,Yes,73.31,3.41,1649.28,1,4.4,No,Retained
+CUST-10730,Female,28,No,Northeast,One Year,42,Fiber Optic,Mailed Check,Yes,No,No,No,72.78,8.91,2993.89,2,2.6,No,Retained
+CUST-10731,Male,58,No,West,Month-to-Month,30,DSL,Credit Card,No,No,Yes,Yes,84.45,3.1,2521.58,2,3.0,No,Retained
+CUST-10732,Male,60,No,West,Month-to-Month,19,DSL,Credit Card,Yes,No,No,Yes,74.64,1.13,1410.31,0,3.9,Yes,No Long-Term Commitment
+CUST-10733,Male,40,No,Northeast,Month-to-Month,10,None,Electronic Check,Yes,Yes,Yes,No,52.96,1.15,527.17,2,3.7,Yes,Competitor Offer
+CUST-10734,Female,18,No,Midwest,One Year,20,None,Electronic Check,Yes,No,No,Yes,28.44,4.77,570.05,2,4.2,No,Retained
+CUST-10735,Male,33,No,West,Two Year,53,Fiber Optic,Bank Transfer,No,Yes,No,Yes,87.38,11.91,4635.98,2,3.4,No,Retained
+CUST-10736,Female,60,No,Midwest,Month-to-Month,27,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,114.04,0.25,2994.54,7,3.3,No,Retained
+CUST-10737,Male,42,No,West,Two Year,59,Fiber Optic,Credit Card,Yes,Yes,No,No,84.58,12.86,4990.73,2,2.7,No,Retained
+CUST-10738,Female,28,No,South,Month-to-Month,12,DSL,Mailed Check,Yes,Yes,Yes,No,91.55,0.5,1020.56,1,4.6,No,Retained
+CUST-10739,Female,35,No,Midwest,One Year,23,DSL,Electronic Check,No,No,Yes,No,62.62,2.86,1465.89,0,3.2,Yes,Competitor Offer
+CUST-10740,Female,54,No,Northeast,One Year,28,Fiber Optic,Bank Transfer,Yes,No,No,Yes,73.29,4.07,2032.69,1,3.4,No,Retained
+CUST-10741,Female,50,No,Northeast,One Year,38,DSL,Electronic Check,Yes,No,No,Yes,52.47,8.21,1918.36,0,4.3,No,Retained
+CUST-10742,Male,39,No,West,Two Year,27,Fiber Optic,Credit Card,Yes,Yes,No,Yes,79.42,14.9,2115.84,3,4.2,Yes,Competitor Offer
+CUST-10743,Female,37,No,West,Month-to-Month,22,DSL,Electronic Check,Yes,Yes,Yes,Yes,83.68,0.45,1821.01,2,3.2,Yes,Moved/No Longer Needed
+CUST-10744,Female,37,No,South,Two Year,49,None,Bank Transfer,No,No,No,No,37.53,7.28,1880.64,1,4.1,No,Retained
+CUST-10745,Male,29,No,Northeast,Month-to-Month,3,Fiber Optic,Electronic Check,No,Yes,No,Yes,89.58,3.1,275.62,4,2.4,Yes,Poor Support Experience
+CUST-10746,Female,65,Yes,Northeast,One Year,39,DSL,Credit Card,Yes,No,Yes,Yes,68.78,3.67,2694.48,0,2.2,No,Retained
+CUST-10747,Male,37,No,Midwest,One Year,33,Fiber Optic,Credit Card,No,No,No,Yes,69.35,4.58,2329.89,3,3.2,No,Retained
+CUST-10748,Male,59,No,Northeast,One Year,7,DSL,Electronic Check,No,No,No,No,66.92,6.14,465.07,0,3.0,No,Retained
+CUST-10749,Male,63,No,Midwest,Month-to-Month,30,DSL,Bank Transfer,No,No,Yes,No,67.88,0.06,2062.8,2,4.5,Yes,Competitor Offer
+CUST-10750,Female,56,No,Midwest,Two Year,24,Fiber Optic,Electronic Check,Yes,No,Yes,No,69.99,13.5,1703.7,3,4.3,No,Retained
+CUST-10751,Male,36,No,South,Month-to-Month,9,Fiber Optic,Bank Transfer,Yes,Yes,No,No,78.71,0.4,663.36,1,3.1,Yes,No Long-Term Commitment
+CUST-10752,Male,48,No,West,Month-to-Month,16,Fiber Optic,Electronic Check,Yes,No,No,No,59.68,0.56,1006.43,2,2.7,Yes,Service Reliability Issues
+CUST-10753,Female,42,No,Midwest,One Year,10,DSL,Bank Transfer,No,Yes,Yes,Yes,95.58,5.08,906.09,1,2.9,No,Retained
+CUST-10754,Female,29,No,Midwest,Month-to-Month,23,DSL,Electronic Check,Yes,Yes,Yes,Yes,88.49,3.46,2067.38,2,3.6,Yes,Price Too High
+CUST-10755,Male,47,No,West,Two Year,39,Fiber Optic,Credit Card,Yes,Yes,No,No,65.0,5.12,2481.9,2,3.9,Yes,Service Reliability Issues
+CUST-10756,Male,25,No,Northeast,Month-to-Month,21,DSL,Electronic Check,Yes,No,No,No,68.36,1.16,1456.6,5,5.0,Yes,Competitor Offer
+CUST-10757,Male,59,No,South,Month-to-Month,7,DSL,Bank Transfer,Yes,Yes,Yes,No,88.8,1.41,686.77,3,2.7,Yes,No Long-Term Commitment
+CUST-10758,Male,35,No,West,Two Year,56,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,91.45,5.22,5113.75,4,2.7,No,Retained
+CUST-10759,Male,45,No,Midwest,Month-to-Month,20,Fiber Optic,Bank Transfer,No,Yes,No,No,105.78,1.31,2106.63,2,4.7,No,Retained
+CUST-10760,Female,46,No,Midwest,Month-to-Month,24,DSL,Bank Transfer,Yes,No,No,No,61.99,0.97,1509.13,2,3.7,No,Retained
+CUST-10761,Female,38,No,Midwest,One Year,32,None,Electronic Check,No,No,No,No,20.42,2.78,641.91,4,2.1,Yes,Competitor Offer
+CUST-10762,Female,50,No,South,Month-to-Month,30,Fiber Optic,Credit Card,Yes,No,No,No,77.49,3.6,2388.34,1,4.0,No,Retained
+CUST-10763,Male,35,No,South,One Year,32,Fiber Optic,Electronic Check,Yes,No,No,Yes,78.56,7.51,2520.65,2,4.1,No,Retained
+CUST-10764,Female,54,No,Midwest,Month-to-Month,26,Fiber Optic,Credit Card,Yes,No,No,No,68.24,0.75,1763.03,1,3.5,No,Retained
+CUST-10765,Male,23,No,Midwest,Two Year,18,DSL,Bank Transfer,Yes,Yes,Yes,No,73.92,13.93,1311.65,1,4.4,No,Retained
+CUST-10766,Male,44,No,South,Two Year,53,Fiber Optic,Credit Card,Yes,No,Yes,Yes,63.97,7.27,3357.76,3,3.8,No,Retained
+CUST-10767,Male,69,Yes,Midwest,One Year,43,Fiber Optic,Credit Card,No,Yes,No,No,93.48,6.42,3997.67,2,2.8,No,Retained
+CUST-10768,Female,28,No,West,Month-to-Month,5,DSL,Electronic Check,Yes,Yes,No,No,61.05,0.66,292.98,1,5.0,No,Retained
+CUST-10769,Male,33,No,Midwest,Two Year,34,DSL,Credit Card,No,Yes,No,Yes,61.75,6.69,2082.43,1,3.1,No,Retained
+CUST-10770,Female,49,No,Northeast,One Year,33,Fiber Optic,Electronic Check,Yes,No,Yes,No,79.38,2.76,2596.5,1,4.1,No,Retained
+CUST-10771,Male,45,No,South,One Year,39,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,90.54,8.73,3604.52,3,2.4,No,Retained
+CUST-10772,Female,47,No,South,Month-to-Month,21,DSL,Credit Card,Yes,No,No,No,60.78,1.92,1240.33,4,1.6,No,Retained
+CUST-10773,Female,49,No,Midwest,Two Year,26,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,73.72,14.37,1921.85,2,3.8,No,Retained
+CUST-10774,Male,51,No,Midwest,One Year,37,Fiber Optic,Electronic Check,Yes,No,No,Yes,72.73,4.21,2711.75,3,4.8,No,Retained
+CUST-10775,Female,58,No,Midwest,Month-to-Month,26,DSL,Electronic Check,Yes,Yes,No,Yes,63.16,1.92,1664.21,2,3.5,Yes,Competitor Offer
+CUST-10776,Female,48,No,Northeast,Month-to-Month,16,Fiber Optic,Electronic Check,Yes,Yes,No,No,83.06,2.63,1326.91,5,1.6,Yes,Service Reliability Issues
+CUST-10777,Male,39,No,Northeast,Two Year,42,DSL,Electronic Check,Yes,Yes,No,Yes,78.76,13.35,3299.5,2,3.7,No,Retained
+CUST-10778,Male,51,No,Northeast,Month-to-Month,19,None,Electronic Check,Yes,No,No,Yes,42.75,2.72,828.05,0,3.3,No,Retained
+CUST-10779,Male,69,Yes,West,Two Year,20,Fiber Optic,Bank Transfer,No,Yes,No,No,90.76,7.68,1824.53,1,4.2,No,Retained
+CUST-10780,Male,40,No,West,One Year,34,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,99.76,6.29,3382.78,2,3.0,No,Retained
+CUST-10781,Male,28,No,West,One Year,44,DSL,Credit Card,Yes,No,Yes,Yes,60.86,7.7,2623.17,1,2.3,No,Retained
+CUST-10782,Female,57,No,South,Month-to-Month,4,DSL,Credit Card,No,No,No,No,56.81,1.64,210.86,2,3.9,No,Retained
+CUST-10783,Female,40,No,West,Month-to-Month,30,None,Electronic Check,Yes,No,No,No,63.99,0.09,1879.57,1,3.9,No,Retained
+CUST-10784,Female,18,No,South,Two Year,14,DSL,Bank Transfer,Yes,Yes,No,No,82.42,7.73,1130.53,3,3.0,No,Retained
+CUST-10785,Male,54,No,Northeast,Month-to-Month,24,Fiber Optic,Electronic Check,Yes,Yes,No,No,65.63,3.38,1576.28,3,2.4,Yes,Competitor Offer
+CUST-10786,Male,35,No,West,One Year,34,DSL,Mailed Check,Yes,No,Yes,Yes,72.56,6.56,2479.6,0,5.0,No,Retained
+CUST-10787,Female,41,No,Midwest,Month-to-Month,20,Fiber Optic,Credit Card,No,No,No,Yes,81.86,0.18,1699.52,3,2.9,No,Retained
+CUST-10788,Female,47,No,West,Month-to-Month,11,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,95.01,3.95,1026.3,2,3.9,Yes,Moved/No Longer Needed
+CUST-10789,Male,45,No,South,Month-to-Month,1,Fiber Optic,Mailed Check,No,No,No,No,66.36,1.05,93.47,2,3.1,Yes,Moved/No Longer Needed
+CUST-10790,Female,52,No,South,Month-to-Month,6,Fiber Optic,Electronic Check,No,Yes,No,No,77.52,0.51,475.83,1,4.3,No,Retained
+CUST-10791,Male,36,No,West,Two Year,69,DSL,Credit Card,Yes,Yes,No,No,56.72,11.22,3959.04,3,3.3,No,Retained
+CUST-10792,Female,49,No,South,Month-to-Month,11,Fiber Optic,Credit Card,Yes,No,Yes,No,73.89,2.95,832.96,2,3.5,No,Retained
+CUST-10793,Male,38,No,Midwest,Month-to-Month,27,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,103.54,1.18,2760.28,1,2.7,Yes,Competitor Offer
+CUST-10794,Female,52,No,Northeast,Month-to-Month,1,Fiber Optic,Credit Card,Yes,Yes,No,Yes,77.99,2.3,17.68,2,3.9,Yes,Competitor Offer
+CUST-10795,Male,51,No,Northeast,Month-to-Month,21,DSL,Credit Card,Yes,No,No,Yes,57.56,1.66,1219.65,1,4.9,No,Retained
+CUST-10796,Male,29,No,Midwest,Month-to-Month,7,DSL,Bank Transfer,Yes,Yes,No,Yes,56.26,0.47,375.32,1,2.9,Yes,No Long-Term Commitment
+CUST-10797,Male,57,No,South,Two Year,42,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,88.3,12.65,3674.29,4,2.0,No,Retained
+CUST-10798,Male,34,No,Northeast,Month-to-Month,6,Fiber Optic,Mailed Check,Yes,No,No,No,88.6,2.9,487.23,1,5.0,Yes,Price Too High
+CUST-10799,Male,53,No,Northeast,Month-to-Month,14,Fiber Optic,Electronic Check,No,No,No,Yes,76.17,2.45,1072.01,6,1.7,Yes,Poor Support Experience
+CUST-10800,Male,47,No,South,Month-to-Month,2,None,Electronic Check,Yes,Yes,Yes,No,53.16,0.48,159.09,1,3.3,No,Retained
+CUST-10801,Female,68,Yes,Midwest,Two Year,38,DSL,Electronic Check,No,Yes,No,No,71.1,8.19,2687.5,1,4.9,No,Retained
+CUST-10802,Male,39,No,South,Month-to-Month,4,DSL,Electronic Check,No,No,Yes,Yes,88.37,2.56,374.14,1,4.5,No,Retained
+CUST-10803,Male,37,No,Northeast,Month-to-Month,11,DSL,Electronic Check,Yes,Yes,No,No,74.4,3.25,814.82,0,2.1,No,Retained
+CUST-10804,Female,42,No,Northeast,One Year,23,Fiber Optic,Mailed Check,No,Yes,No,No,73.87,7.23,1653.88,1,4.4,No,Retained
+CUST-10805,Male,38,No,South,One Year,6,DSL,Electronic Check,Yes,Yes,No,Yes,55.31,5.57,357.58,1,3.6,No,Retained
+CUST-10806,Male,53,No,Northeast,Month-to-Month,3,DSL,Electronic Check,Yes,Yes,No,No,58.22,0.68,136.35,4,2.9,Yes,Competitor Offer
+CUST-10807,Male,19,No,Midwest,Month-to-Month,3,Fiber Optic,Electronic Check,Yes,Yes,No,No,87.77,1.25,264.07,1,4.3,Yes,Competitor Offer
+CUST-10808,Female,27,No,Northeast,One Year,36,Fiber Optic,Bank Transfer,Yes,No,Yes,No,70.88,5.67,2539.73,2,3.2,No,Retained
+CUST-10809,Female,27,No,West,Month-to-Month,28,DSL,Bank Transfer,Yes,Yes,No,No,72.06,3.07,2048.94,1,3.3,Yes,Competitor Offer
+CUST-10810,Male,55,No,Northeast,Two Year,50,None,Electronic Check,Yes,Yes,No,No,41.17,5.04,2021.46,1,3.5,No,Retained
+CUST-10811,Male,66,Yes,South,One Year,6,Fiber Optic,Electronic Check,Yes,No,No,No,60.71,4.09,377.94,1,3.5,No,Retained
+CUST-10812,Female,41,No,West,Month-to-Month,25,DSL,Electronic Check,Yes,No,Yes,Yes,57.21,2.83,1400.86,0,4.3,No,Retained
+CUST-10813,Male,40,No,South,Month-to-Month,11,DSL,Electronic Check,Yes,Yes,No,Yes,93.55,3.31,1011.16,1,4.5,No,Retained
+CUST-10814,Male,43,No,Northeast,Month-to-Month,6,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,110.4,1.14,535.17,4,3.0,Yes,Poor Support Experience
+CUST-10815,Female,58,No,Northeast,One Year,25,Fiber Optic,Credit Card,Yes,No,Yes,Yes,101.86,7.21,2619.72,0,3.6,No,Retained
+CUST-10816,Male,29,No,Northeast,Month-to-Month,3,Fiber Optic,Electronic Check,Yes,No,No,No,79.27,3.89,257.08,2,3.9,Yes,No Long-Term Commitment
+CUST-10817,Female,45,No,Northeast,Month-to-Month,19,DSL,Credit Card,Yes,No,Yes,No,60.07,2.87,1114.47,2,4.1,No,Retained
+CUST-10818,Female,56,No,South,One Year,7,Fiber Optic,Electronic Check,Yes,No,No,Yes,90.91,7.12,597.01,2,3.6,Yes,Price Too High
+CUST-10819,Female,49,No,West,Two Year,29,Fiber Optic,Mailed Check,No,Yes,Yes,Yes,88.33,12.2,2544.22,2,2.6,No,Retained
+CUST-10820,Male,45,No,South,Month-to-Month,30,DSL,Mailed Check,Yes,No,No,Yes,67.68,1.42,2055.49,1,4.1,No,Retained
+CUST-10821,Female,56,No,South,Two Year,55,DSL,Credit Card,No,Yes,No,No,66.48,7.01,3590.18,2,1.8,No,Retained
+CUST-10822,Female,18,No,South,Month-to-Month,29,Fiber Optic,Electronic Check,Yes,No,No,No,40.51,0.31,1169.83,3,4.5,Yes,No Long-Term Commitment
+CUST-10823,Female,51,No,West,Month-to-Month,10,Fiber Optic,Credit Card,No,No,Yes,No,99.94,2.27,1061.37,2,4.4,Yes,No Long-Term Commitment
+CUST-10824,Male,33,No,South,Month-to-Month,5,DSL,Credit Card,Yes,No,No,No,64.76,1.72,284.11,4,3.7,Yes,Moved/No Longer Needed
+CUST-10825,Male,18,No,South,Month-to-Month,9,DSL,Bank Transfer,Yes,Yes,No,Yes,81.9,0.07,739.91,3,4.2,Yes,Poor Support Experience
+CUST-10826,Female,49,No,South,Month-to-Month,2,DSL,Credit Card,Yes,Yes,No,Yes,76.53,0.94,230.18,1,3.7,Yes,Competitor Offer
+CUST-10827,Female,61,No,South,Month-to-Month,2,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,89.92,1.14,201.97,1,2.8,Yes,Poor Support Experience
+CUST-10828,Male,40,No,Northeast,Two Year,71,DSL,Mailed Check,Yes,No,Yes,Yes,61.02,7.31,4336.83,0,3.0,No,Retained
+CUST-10829,Female,55,No,Midwest,Two Year,49,DSL,Electronic Check,Yes,No,No,No,62.33,7.52,3071.9,1,4.6,No,Retained
+CUST-10830,Female,65,Yes,Northeast,One Year,36,DSL,Credit Card,No,Yes,Yes,No,61.85,2.3,2212.57,1,3.1,No,Retained
+CUST-10831,Female,60,No,West,Month-to-Month,10,DSL,Electronic Check,Yes,Yes,No,No,73.41,1.11,779.59,0,3.7,No,Retained
+CUST-10832,Female,65,Yes,South,Month-to-Month,18,Fiber Optic,Electronic Check,Yes,No,Yes,No,86.52,3.59,1543.38,1,3.6,Yes,Moved/No Longer Needed
+CUST-10833,Female,52,No,Midwest,Month-to-Month,12,Fiber Optic,Credit Card,No,Yes,No,Yes,89.91,1.87,1010.35,1,3.4,Yes,Competitor Offer
+CUST-10834,Female,43,No,West,One Year,41,DSL,Electronic Check,Yes,No,No,Yes,65.82,6.57,2684.92,2,3.7,No,Retained
+CUST-10835,Female,20,No,South,Two Year,65,DSL,Bank Transfer,No,No,No,No,41.8,13.09,2683.16,2,2.1,No,Retained
+CUST-10836,Male,39,No,South,Month-to-Month,21,DSL,Electronic Check,Yes,No,No,No,46.65,3.64,969.81,0,3.8,No,Retained
+CUST-10837,Female,30,No,South,Month-to-Month,17,Fiber Optic,Credit Card,No,No,No,Yes,84.76,0.1,1431.85,3,3.9,Yes,No Long-Term Commitment
+CUST-10838,Male,72,Yes,South,Month-to-Month,15,None,Credit Card,Yes,No,No,No,45.31,1.79,721.56,3,2.9,No,Retained
+CUST-10839,Male,40,No,West,Month-to-Month,6,DSL,Bank Transfer,No,Yes,No,No,48.29,2.44,314.08,1,3.1,Yes,Moved/No Longer Needed
+CUST-10840,Female,44,No,Midwest,Month-to-Month,16,Fiber Optic,Credit Card,No,No,No,Yes,87.14,1.27,1403.45,1,4.2,Yes,No Long-Term Commitment
+CUST-10841,Male,50,No,South,One Year,8,Fiber Optic,Bank Transfer,Yes,Yes,No,No,75.43,7.42,603.34,3,2.9,Yes,Poor Support Experience
+CUST-10842,Female,43,No,South,One Year,15,DSL,Credit Card,Yes,No,Yes,Yes,67.28,4.82,972.14,1,3.9,No,Retained
+CUST-10843,Male,66,Yes,Northeast,Month-to-Month,5,DSL,Credit Card,Yes,Yes,No,No,53.82,3.77,192.76,1,3.6,Yes,Competitor Offer
+CUST-10844,Female,33,No,South,Month-to-Month,14,DSL,Electronic Check,No,No,Yes,No,56.18,1.06,790.48,2,3.5,No,Retained
+CUST-10845,Female,45,No,West,Two Year,37,DSL,Credit Card,Yes,Yes,No,No,77.77,6.96,2905.3,0,5.0,No,Retained
+CUST-10846,Female,32,No,Northeast,Month-to-Month,29,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,90.77,3.83,2628.54,3,3.4,Yes,Price Too High
+CUST-10847,Male,24,No,South,Month-to-Month,21,Fiber Optic,Credit Card,Yes,No,No,Yes,75.99,1.83,1577.07,3,2.3,No,Retained
+CUST-10848,Female,33,No,South,Month-to-Month,13,DSL,Bank Transfer,Yes,Yes,No,Yes,75.96,0.83,1003.74,8,1.7,Yes,No Long-Term Commitment
+CUST-10849,Male,41,No,West,Month-to-Month,26,DSL,Credit Card,Yes,No,No,Yes,69.84,2.83,1812.92,1,3.4,No,Retained
+CUST-10850,Female,36,No,South,Month-to-Month,6,DSL,Electronic Check,No,No,Yes,No,71.47,1.14,487.82,3,3.4,Yes,Moved/No Longer Needed
+CUST-10851,Male,32,No,West,One Year,31,DSL,Electronic Check,Yes,Yes,No,No,67.08,5.66,2122.63,1,4.5,No,Retained
+CUST-10852,Female,22,No,Northeast,Month-to-Month,8,Fiber Optic,Electronic Check,No,No,Yes,Yes,98.53,3.52,821.82,1,3.4,Yes,Competitor Offer
+CUST-10853,Male,41,No,South,Month-to-Month,5,DSL,Bank Transfer,Yes,Yes,No,Yes,89.07,0.65,471.87,3,2.9,Yes,Price Too High
+CUST-10854,Female,21,No,West,One Year,20,Fiber Optic,Bank Transfer,Yes,Yes,Yes,Yes,102.12,3.62,1997.24,2,1.4,No,Retained
+CUST-10855,Female,53,No,West,Month-to-Month,27,Fiber Optic,Electronic Check,Yes,Yes,No,No,87.7,1.08,2391.1,0,4.7,Yes,Price Too High
+CUST-10856,Female,43,No,South,Two Year,27,Fiber Optic,Credit Card,Yes,No,No,Yes,79.18,11.92,2151.03,2,3.4,Yes,Service Reliability Issues
+CUST-10857,Female,22,No,Midwest,Two Year,12,Fiber Optic,Credit Card,No,Yes,Yes,Yes,91.64,12.53,1120.9,2,3.4,No,Retained
+CUST-10858,Male,38,No,South,Month-to-Month,16,Fiber Optic,Credit Card,No,No,No,No,87.05,1.89,1410.04,5,2.6,Yes,Poor Support Experience
+CUST-10859,Female,31,No,West,One Year,42,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,95.53,4.27,4028.11,5,1.8,Yes,Price Too High
+CUST-10860,Male,46,No,South,Month-to-Month,3,Fiber Optic,Electronic Check,Yes,No,No,No,61.62,3.39,279.39,2,3.3,Yes,Service Reliability Issues
+CUST-10861,Female,61,No,West,Two Year,63,Fiber Optic,Electronic Check,Yes,Yes,No,No,68.55,8.56,4315.98,1,3.1,No,Retained
+CUST-10862,Male,18,No,South,Month-to-Month,15,DSL,Electronic Check,No,No,Yes,Yes,62.48,3.27,969.97,0,5.0,Yes,Competitor Offer
+CUST-10863,Female,44,No,Northeast,Two Year,42,Fiber Optic,Electronic Check,No,No,Yes,No,83.48,11.86,3489.68,2,1.7,No,Retained
+CUST-10864,Female,40,No,South,One Year,18,Fiber Optic,Electronic Check,No,No,No,No,54.25,4.96,1004.17,1,3.0,No,Retained
+CUST-10865,Male,51,No,West,Month-to-Month,24,DSL,Credit Card,Yes,No,Yes,No,70.51,1.72,1725.12,1,3.5,Yes,Competitor Offer
+CUST-10866,Female,45,No,West,Month-to-Month,16,DSL,Electronic Check,Yes,No,No,No,64.05,0.46,1037.55,4,4.2,Yes,Poor Support Experience
+CUST-10867,Female,31,No,Midwest,Two Year,66,DSL,Mailed Check,Yes,Yes,Yes,Yes,88.41,10.65,5893.48,1,4.0,No,Retained
+CUST-10868,Male,38,No,West,Two Year,54,Fiber Optic,Electronic Check,Yes,No,Yes,No,75.7,11.11,4056.85,2,2.2,No,Retained
+CUST-10869,Male,31,No,Midwest,Month-to-Month,21,DSL,Electronic Check,Yes,Yes,No,No,55.48,0.71,1148.03,2,3.4,Yes,No Long-Term Commitment
+CUST-10870,Female,57,No,Midwest,One Year,7,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,84.15,5.97,596.48,2,4.1,No,Retained
+CUST-10871,Female,42,No,Northeast,Month-to-Month,22,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,77.74,2.61,1741.11,2,5.0,No,Retained
+CUST-10872,Male,69,Yes,South,Month-to-Month,27,Fiber Optic,Bank Transfer,No,Yes,Yes,Yes,93.65,0.94,2534.83,4,2.4,Yes,Poor Support Experience
+CUST-10873,Female,41,No,West,Month-to-Month,6,DSL,Electronic Check,No,Yes,Yes,Yes,82.21,0.73,538.26,4,2.1,Yes,Poor Support Experience
+CUST-10874,Female,32,No,Northeast,Month-to-Month,26,Fiber Optic,Mailed Check,Yes,No,No,No,61.99,0.04,1588.58,2,3.8,No,Retained
+CUST-10875,Female,21,No,Northeast,One Year,43,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,108.67,2.67,4632.89,3,2.9,Yes,Poor Support Experience
+CUST-10876,Male,18,No,Northeast,Month-to-Month,14,Fiber Optic,Credit Card,Yes,No,No,Yes,64.97,1.71,920.36,4,3.4,Yes,Poor Support Experience
+CUST-10877,Male,20,No,West,Two Year,36,DSL,Credit Card,No,No,Yes,No,78.49,5.6,2822.94,1,4.3,No,Retained
+CUST-10878,Female,46,No,South,Month-to-Month,11,DSL,Credit Card,No,No,No,Yes,80.05,0.21,899.55,3,3.5,Yes,No Long-Term Commitment
+CUST-10879,Female,49,No,West,Month-to-Month,8,Fiber Optic,Credit Card,No,No,No,No,85.29,1.72,681.36,2,3.6,Yes,Competitor Offer
+CUST-10880,Female,20,No,Midwest,Month-to-Month,8,DSL,Credit Card,No,Yes,Yes,No,68.44,3.15,535.62,3,4.6,Yes,No Long-Term Commitment
+CUST-10881,Male,55,No,West,Month-to-Month,1,DSL,Electronic Check,Yes,Yes,No,Yes,79.76,2.86,77.14,3,3.0,Yes,Competitor Offer
+CUST-10882,Female,35,No,West,Month-to-Month,21,DSL,Electronic Check,Yes,Yes,No,No,54.72,3.44,1150.13,0,3.0,Yes,No Long-Term Commitment
+CUST-10883,Female,44,No,Northeast,Month-to-Month,7,Fiber Optic,Credit Card,Yes,Yes,No,No,98.89,0.04,681.56,1,3.7,No,Retained
+CUST-10884,Male,65,Yes,West,One Year,43,DSL,Credit Card,Yes,No,No,Yes,59.95,7.92,2570.74,2,2.5,No,Retained
+CUST-10885,Female,55,No,Northeast,Month-to-Month,21,Fiber Optic,Bank Transfer,No,No,No,Yes,76.03,1.37,1582.5,3,2.4,Yes,Competitor Offer
+CUST-10886,Male,38,No,West,Month-to-Month,8,DSL,Electronic Check,Yes,Yes,Yes,No,61.77,3.96,524.14,3,2.6,Yes,Poor Support Experience
+CUST-10887,Female,30,No,West,Month-to-Month,19,Fiber Optic,Bank Transfer,Yes,Yes,No,No,57.68,1.01,1102.71,5,1.7,Yes,Poor Support Experience
+CUST-10888,Female,18,No,West,Two Year,65,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,74.55,9.68,4924.74,1,4.7,No,Retained
+CUST-10889,Female,32,No,Midwest,Two Year,32,Fiber Optic,Credit Card,No,Yes,No,Yes,98.64,8.11,3162.1,4,2.7,Yes,Price Too High
+CUST-10890,Male,39,No,South,Month-to-Month,24,DSL,Electronic Check,Yes,No,No,No,54.39,1.42,1286.08,2,4.1,Yes,No Long-Term Commitment
+CUST-10891,Male,28,No,South,Month-to-Month,20,Fiber Optic,Credit Card,Yes,Yes,No,Yes,88.87,3.37,1870.87,4,3.1,No,Retained
+CUST-10892,Male,40,No,Northeast,Month-to-Month,8,DSL,Electronic Check,Yes,No,No,No,65.84,2.99,541.2,2,3.3,Yes,Competitor Offer
+CUST-10893,Female,43,No,South,Two Year,69,Fiber Optic,Credit Card,Yes,Yes,Yes,No,108.06,7.38,7490.79,1,4.2,No,Retained
+CUST-10894,Male,39,No,West,Month-to-Month,14,DSL,Bank Transfer,Yes,Yes,No,No,85.75,2.45,1221.22,1,3.0,Yes,Moved/No Longer Needed
+CUST-10895,Female,33,No,West,Month-to-Month,18,DSL,Credit Card,No,No,No,No,47.44,1.85,875.73,1,3.6,Yes,Competitor Offer
+CUST-10896,Female,44,No,West,Month-to-Month,25,DSL,Credit Card,Yes,No,No,No,36.56,0.36,932.75,1,3.2,No,Retained
+CUST-10897,Male,48,No,Midwest,Month-to-Month,29,DSL,Bank Transfer,No,No,No,No,84.8,3.99,2420.63,1,4.9,Yes,No Long-Term Commitment
+CUST-10898,Female,27,No,South,Month-to-Month,16,DSL,Bank Transfer,Yes,No,Yes,Yes,98.01,2.21,1581.02,4,2.6,No,Retained
+CUST-10899,Female,62,No,West,One Year,14,Fiber Optic,Credit Card,Yes,Yes,No,No,88.42,2.04,1191.51,3,3.4,Yes,Poor Support Experience
+CUST-10900,Female,41,No,West,Month-to-Month,15,DSL,Electronic Check,No,Yes,Yes,No,62.71,1.63,934.55,5,2.3,Yes,No Long-Term Commitment
+CUST-10901,Female,42,No,Midwest,One Year,35,Fiber Optic,Bank Transfer,Yes,No,No,Yes,91.53,2.17,3178.15,2,3.8,No,Retained
+CUST-10902,Female,52,No,South,Month-to-Month,26,DSL,Credit Card,Yes,No,Yes,No,63.22,3.77,1656.23,2,4.1,Yes,Moved/No Longer Needed
+CUST-10903,Male,45,No,West,Month-to-Month,10,DSL,Electronic Check,No,No,No,Yes,64.21,0.67,653.79,0,2.7,Yes,Competitor Offer
+CUST-10904,Female,55,No,South,Two Year,40,Fiber Optic,Electronic Check,Yes,Yes,No,No,90.15,8.69,3622.84,2,3.2,No,Retained
+CUST-10905,Male,46,No,South,Month-to-Month,22,Fiber Optic,Bank Transfer,No,No,Yes,No,86.48,0.61,1912.62,0,3.7,Yes,Service Reliability Issues
+CUST-10906,Male,33,No,South,Two Year,27,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,69.18,13.28,1846.62,2,3.3,No,Retained
+CUST-10907,Female,47,No,South,Month-to-Month,4,DSL,Mailed Check,Yes,No,No,No,55.96,0.25,214.7,0,5.0,Yes,Competitor Offer
+CUST-10908,Female,26,No,Northeast,Month-to-Month,20,None,Electronic Check,Yes,No,No,Yes,51.76,0.33,1067.41,2,2.5,Yes,Competitor Offer
+CUST-10909,Female,44,No,South,Two Year,56,DSL,Bank Transfer,No,Yes,Yes,No,75.5,11.3,4265.37,1,3.4,No,Retained
+CUST-10910,Male,42,No,Northeast,Month-to-Month,22,DSL,Credit Card,Yes,No,Yes,No,68.7,2.06,1471.26,1,3.1,No,Retained
+CUST-10911,Female,39,No,Northeast,Two Year,48,None,Credit Card,No,Yes,Yes,Yes,64.29,13.36,3032.34,0,4.8,No,Retained
+CUST-10912,Male,40,No,West,Month-to-Month,22,Fiber Optic,Bank Transfer,No,No,Yes,Yes,84.51,0.18,1833.78,4,2.2,Yes,Poor Support Experience
+CUST-10913,Female,18,No,South,Two Year,18,Fiber Optic,Credit Card,Yes,Yes,No,Yes,83.87,12.76,1546.24,2,2.0,No,Retained
+CUST-10914,Male,34,No,West,Month-to-Month,23,DSL,Credit Card,Yes,No,No,No,19.24,3.81,485.04,3,3.6,Yes,Poor Support Experience
+CUST-10915,Female,43,No,Midwest,Month-to-Month,9,DSL,Electronic Check,Yes,Yes,No,No,65.85,1.12,560.29,2,3.4,Yes,Competitor Offer
+CUST-10916,Female,44,No,West,One Year,45,DSL,Electronic Check,Yes,No,No,Yes,70.43,6.3,3180.11,1,4.6,No,Retained
+CUST-10917,Male,28,No,South,Two Year,40,Fiber Optic,Electronic Check,Yes,No,No,Yes,72.82,5.82,2977.01,4,3.6,No,Retained
+CUST-10918,Male,60,No,West,Two Year,27,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,73.1,12.36,1988.24,2,3.5,No,Retained
+CUST-10919,Female,30,No,Northeast,One Year,43,Fiber Optic,Electronic Check,No,Yes,Yes,No,78.88,4.39,3441.59,3,2.1,No,Retained
+CUST-10920,Male,56,No,Midwest,Two Year,39,Fiber Optic,Electronic Check,No,No,No,No,75.24,14.54,2969.32,3,2.3,Yes,Competitor Offer
+CUST-10921,Female,48,No,South,Month-to-Month,16,Fiber Optic,Credit Card,No,Yes,No,Yes,98.89,1.68,1550.38,2,1.7,Yes,Poor Support Experience
+CUST-10922,Male,33,No,Midwest,Month-to-Month,6,DSL,Credit Card,No,No,No,No,69.09,1.16,407.89,0,3.9,No,Retained
+CUST-10923,Male,67,Yes,South,Month-to-Month,14,Fiber Optic,Bank Transfer,Yes,Yes,Yes,Yes,77.7,3.23,1089.02,4,2.5,Yes,Moved/No Longer Needed
+CUST-10924,Female,25,No,South,Month-to-Month,21,DSL,Electronic Check,No,No,Yes,No,63.81,1.93,1343.65,2,3.4,Yes,No Long-Term Commitment
+CUST-10925,Female,55,No,Northeast,Month-to-Month,1,Fiber Optic,Electronic Check,No,Yes,Yes,No,89.24,2.62,121.31,1,3.5,Yes,No Long-Term Commitment
+CUST-10926,Female,56,No,South,Month-to-Month,25,DSL,Mailed Check,Yes,Yes,No,No,68.11,0.76,1717.05,1,5.0,No,Retained
+CUST-10927,Male,33,No,South,Month-to-Month,9,Fiber Optic,Electronic Check,No,Yes,No,No,78.89,2.13,607.24,2,4.0,No,Retained
+CUST-10928,Male,61,No,South,One Year,32,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,87.14,4.08,2742.53,5,2.5,Yes,Poor Support Experience
+CUST-10929,Female,38,No,Northeast,Month-to-Month,24,Fiber Optic,Bank Transfer,Yes,Yes,No,No,96.13,2.11,2230.56,4,1.4,Yes,Moved/No Longer Needed
+CUST-10930,Female,46,No,Midwest,Month-to-Month,13,None,Bank Transfer,No,No,No,No,19.38,3.12,258.08,2,3.5,Yes,No Long-Term Commitment
+CUST-10931,Male,46,No,Midwest,Month-to-Month,26,DSL,Electronic Check,No,No,No,Yes,84.64,3.08,2209.06,2,4.2,Yes,Competitor Offer
+CUST-10932,Male,40,No,Midwest,One Year,34,Fiber Optic,Bank Transfer,Yes,No,No,Yes,81.65,7.02,2786.01,2,3.8,No,Retained
+CUST-10933,Male,53,No,South,One Year,48,Fiber Optic,Bank Transfer,No,No,Yes,Yes,84.76,4.22,4034.92,1,2.9,No,Retained
+CUST-10934,Female,53,No,West,One Year,33,None,Credit Card,Yes,Yes,No,No,56.33,7.47,1882.49,1,3.4,Yes,Competitor Offer
+CUST-10935,Female,18,No,West,Month-to-Month,28,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,69.79,2.5,1979.19,0,4.1,No,Retained
+CUST-10936,Female,60,No,South,Month-to-Month,8,Fiber Optic,Electronic Check,No,Yes,No,Yes,85.51,0.59,640.15,2,2.8,Yes,No Long-Term Commitment
+CUST-10937,Male,19,No,West,Month-to-Month,23,DSL,Electronic Check,Yes,No,No,No,56.96,2.72,1258.77,2,3.0,No,Retained
+CUST-10938,Female,56,No,Northeast,Month-to-Month,29,None,Credit Card,No,Yes,No,Yes,72.09,0.42,2090.61,1,2.0,Yes,Competitor Offer
+CUST-10939,Male,58,No,South,Month-to-Month,5,Fiber Optic,Credit Card,Yes,Yes,No,No,84.39,3.49,484.66,2,2.9,Yes,Poor Support Experience
+CUST-10940,Female,27,No,South,Month-to-Month,10,Fiber Optic,Electronic Check,Yes,Yes,No,No,91.47,2.07,974.19,5,2.6,Yes,Competitor Offer
+CUST-10941,Male,36,No,South,Month-to-Month,7,None,Credit Card,Yes,No,No,No,30.45,1.54,232.87,1,4.5,Yes,Moved/No Longer Needed
+CUST-10942,Male,27,No,South,Two Year,53,Fiber Optic,Credit Card,Yes,Yes,No,No,80.13,14.61,4221.34,1,3.8,No,Retained
+CUST-10943,Male,39,No,Northeast,Two Year,47,Fiber Optic,Credit Card,Yes,No,Yes,No,90.88,11.88,4302.4,0,4.5,No,Retained
+CUST-10944,Female,38,No,West,Month-to-Month,9,DSL,Mailed Check,No,Yes,No,No,80.92,3.61,712.45,2,3.4,Yes,No Long-Term Commitment
+CUST-10945,Female,53,No,West,Month-to-Month,27,DSL,Electronic Check,Yes,No,No,Yes,64.97,0.08,1727.33,2,2.8,Yes,Competitor Offer
+CUST-10946,Female,60,No,Midwest,Month-to-Month,26,Fiber Optic,Credit Card,No,No,No,No,82.51,1.9,2070.22,3,2.9,No,Retained
+CUST-10947,Male,62,No,South,Month-to-Month,14,None,Electronic Check,Yes,Yes,No,Yes,60.59,3.72,851.84,2,3.9,No,Retained
+CUST-10948,Male,34,No,West,Two Year,13,DSL,Credit Card,Yes,No,No,Yes,62.95,12.66,796.3,2,3.3,No,Retained
+CUST-10949,Male,39,No,West,Month-to-Month,25,Fiber Optic,Bank Transfer,Yes,No,No,No,87.81,1.71,2198.63,2,2.6,Yes,Price Too High
+CUST-10950,Male,18,No,Midwest,One Year,14,None,Mailed Check,Yes,No,No,Yes,53.68,6.24,671.04,2,2.3,No,Retained
+CUST-10951,Male,31,No,Northeast,Month-to-Month,21,Fiber Optic,Electronic Check,Yes,No,No,Yes,78.98,1.85,1664.52,2,2.8,Yes,Poor Support Experience
+CUST-10952,Female,56,No,Midwest,Two Year,38,Fiber Optic,Mailed Check,Yes,No,Yes,Yes,89.04,7.92,3298.43,4,2.3,No,Retained
+CUST-10953,Male,65,Yes,West,Month-to-Month,1,DSL,Electronic Check,Yes,No,No,Yes,61.36,0.07,99.44,1,3.3,No,Retained
+CUST-10954,Female,25,No,Northeast,One Year,28,Fiber Optic,Credit Card,Yes,Yes,No,Yes,78.4,5.45,2213.47,1,3.0,Yes,Competitor Offer
+CUST-10955,Female,34,No,South,Month-to-Month,10,Fiber Optic,Electronic Check,Yes,No,No,Yes,75.87,3.68,748.95,0,5.0,Yes,Competitor Offer
+CUST-10956,Female,42,No,South,One Year,47,Fiber Optic,Bank Transfer,Yes,Yes,No,No,79.51,8.69,3756.67,3,3.7,No,Retained
+CUST-10957,Female,46,No,South,Month-to-Month,20,Fiber Optic,Credit Card,Yes,Yes,No,No,67.49,0.84,1315.57,3,5.0,No,Retained
+CUST-10958,Female,31,No,West,Month-to-Month,25,DSL,Bank Transfer,No,No,No,Yes,75.19,1.48,1882.28,3,2.0,Yes,No Long-Term Commitment
+CUST-10959,Male,48,No,West,Two Year,65,DSL,Bank Transfer,Yes,Yes,No,No,35.4,8.74,2328.82,2,3.8,No,Retained
+CUST-10960,Female,35,No,Midwest,Two Year,72,None,Electronic Check,No,Yes,Yes,Yes,86.37,9.64,6110.34,3,2.6,No,Retained
+CUST-10961,Male,42,No,Northeast,Two Year,14,Fiber Optic,Electronic Check,Yes,No,No,Yes,88.93,11.09,1229.37,1,3.4,No,Retained
+CUST-10962,Female,50,No,West,One Year,11,Fiber Optic,Bank Transfer,No,No,No,Yes,75.56,4.2,830.37,2,5.0,No,Retained
+CUST-10963,Female,42,No,West,One Year,11,Fiber Optic,Electronic Check,Yes,No,Yes,No,79.27,4.62,865.1,3,1.9,No,Retained
+CUST-10964,Female,36,No,South,Month-to-Month,21,Fiber Optic,Electronic Check,No,No,No,Yes,83.72,2.24,1809.12,1,3.3,No,Retained
+CUST-10965,Female,40,No,South,Month-to-Month,2,Fiber Optic,Credit Card,Yes,No,No,No,67.11,2.64,94.88,1,3.2,Yes,No Long-Term Commitment
+CUST-10966,Male,41,No,West,Month-to-Month,26,DSL,Credit Card,No,Yes,No,No,73.22,1.47,1881.98,4,2.5,Yes,Moved/No Longer Needed
+CUST-10967,Female,37,No,West,One Year,23,None,Electronic Check,No,Yes,Yes,No,51.01,7.7,1106.17,2,1.8,Yes,Competitor Offer
+CUST-10968,Male,38,No,Northeast,Month-to-Month,23,None,Electronic Check,No,No,Yes,No,43.58,0.67,1055.2,1,4.8,Yes,No Long-Term Commitment
+CUST-10969,Female,64,No,South,Month-to-Month,2,Fiber Optic,Electronic Check,Yes,Yes,No,No,90.0,0.2,171.38,3,4.0,Yes,Poor Support Experience
+CUST-10970,Male,50,No,South,One Year,17,DSL,Credit Card,Yes,No,Yes,Yes,52.93,7.53,884.47,2,4.0,No,Retained
+CUST-10971,Male,38,No,West,One Year,27,Fiber Optic,Bank Transfer,Yes,No,No,Yes,77.74,5.73,2097.14,2,2.4,No,Retained
+CUST-10972,Male,52,No,South,Month-to-Month,5,Fiber Optic,Mailed Check,Yes,Yes,Yes,No,94.03,3.02,492.42,6,2.4,Yes,Price Too High
+CUST-10973,Female,37,No,South,Month-to-Month,20,DSL,Credit Card,No,No,No,No,60.28,2.07,1217.76,1,4.4,Yes,No Long-Term Commitment
+CUST-10974,Female,58,No,Midwest,Month-to-Month,7,DSL,Electronic Check,Yes,No,Yes,Yes,68.8,2.29,574.28,0,4.3,No,Retained
+CUST-10975,Female,47,No,South,Month-to-Month,24,Fiber Optic,Mailed Check,Yes,Yes,Yes,Yes,114.05,0.52,2753.09,1,3.4,Yes,No Long-Term Commitment
+CUST-10976,Male,40,No,Midwest,Month-to-Month,16,Fiber Optic,Credit Card,Yes,No,No,No,69.35,3.36,1093.32,2,4.6,Yes,Service Reliability Issues
+CUST-10977,Female,48,No,South,One Year,25,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,84.01,8.42,2080.6,2,2.9,No,Retained
+CUST-10978,Female,20,No,South,One Year,6,DSL,Mailed Check,Yes,Yes,No,Yes,88.42,5.5,516.77,1,3.3,Yes,Price Too High
+CUST-10979,Male,26,No,West,One Year,6,Fiber Optic,Bank Transfer,No,No,No,No,70.68,5.82,371.52,0,4.5,No,Retained
+CUST-10980,Female,25,No,Northeast,Month-to-Month,17,None,Bank Transfer,Yes,No,No,No,39.0,3.86,664.4,1,4.0,Yes,Competitor Offer
+CUST-10981,Male,44,No,West,Two Year,70,Fiber Optic,Bank Transfer,Yes,No,No,No,66.64,10.96,4692.22,3,3.7,No,Retained
+CUST-10982,Female,66,Yes,Midwest,Month-to-Month,1,Fiber Optic,Electronic Check,Yes,No,Yes,No,95.33,2.58,73.86,4,3.1,Yes,Poor Support Experience
+CUST-10983,Female,73,Yes,South,Month-to-Month,21,DSL,Electronic Check,Yes,No,Yes,No,62.96,1.49,1293.9,3,3.7,Yes,No Long-Term Commitment
+CUST-10984,Male,51,No,Midwest,One Year,35,DSL,Bank Transfer,Yes,Yes,No,Yes,86.37,7.53,3076.01,3,2.6,No,Retained
+CUST-10985,Female,49,No,South,Month-to-Month,9,Fiber Optic,Electronic Check,No,No,No,Yes,78.9,2.3,660.17,3,2.7,Yes,Poor Support Experience
+CUST-10986,Male,18,No,Midwest,Month-to-Month,15,DSL,Credit Card,No,No,No,No,48.9,1.58,661.13,1,3.9,No,Retained
+CUST-10987,Female,34,No,West,Two Year,14,DSL,Bank Transfer,No,Yes,No,No,70.76,11.71,950.29,0,5.0,No,Retained
+CUST-10988,Female,31,No,Northeast,Month-to-Month,14,None,Bank Transfer,No,Yes,No,Yes,51.49,1.63,666.94,2,3.5,No,Retained
+CUST-10989,Male,33,No,West,One Year,16,DSL,Credit Card,Yes,No,Yes,No,72.38,2.78,1171.6,2,4.0,No,Retained
+CUST-10990,Male,40,No,South,Month-to-Month,24,DSL,Bank Transfer,No,No,No,No,26.78,1.71,630.1,3,3.3,Yes,No Long-Term Commitment
+CUST-10991,Male,35,No,South,One Year,27,DSL,Bank Transfer,No,No,No,Yes,63.89,3.28,1717.34,1,5.0,No,Retained
+CUST-10992,Female,18,No,Northeast,Month-to-Month,12,DSL,Credit Card,No,No,No,Yes,58.64,3.04,744.03,3,3.1,Yes,Poor Support Experience
+CUST-10993,Male,52,No,West,Month-to-Month,13,Fiber Optic,Electronic Check,Yes,No,No,Yes,67.77,2.13,856.81,3,3.7,Yes,Service Reliability Issues
+CUST-10994,Female,27,No,Midwest,One Year,31,Fiber Optic,Electronic Check,No,No,Yes,No,73.8,3.35,2314.93,3,2.7,No,Retained
+CUST-10995,Female,45,No,South,Month-to-Month,13,Fiber Optic,Electronic Check,No,No,Yes,No,75.0,1.47,1027.9,3,2.4,Yes,No Long-Term Commitment
+CUST-10996,Male,71,Yes,West,Month-to-Month,1,Fiber Optic,Electronic Check,No,Yes,No,Yes,90.11,3.54,74.16,3,2.9,Yes,Price Too High
+CUST-10997,Female,29,No,South,Month-to-Month,24,Fiber Optic,Electronic Check,Yes,No,No,No,57.79,3.02,1412.76,3,4.2,Yes,Poor Support Experience
+CUST-10998,Male,18,No,Northeast,Month-to-Month,10,None,Electronic Check,No,No,No,No,41.26,1.29,404.14,4,3.5,No,Retained
+CUST-10999,Female,38,No,Midwest,Month-to-Month,3,Fiber Optic,Credit Card,No,No,Yes,No,95.66,3.75,319.32,3,1.2,Yes,Poor Support Experience
+CUST-11000,Female,57,No,Northeast,Month-to-Month,24,Fiber Optic,Mailed Check,No,No,Yes,No,86.1,0.31,2011.4,5,3.0,Yes,Price Too High
+CUST-11001,Male,69,Yes,South,Two Year,39,DSL,Electronic Check,Yes,No,No,Yes,65.05,14.08,2479.36,3,2.0,No,Retained
+CUST-11002,Male,25,No,Midwest,Month-to-Month,4,Fiber Optic,Bank Transfer,No,Yes,No,No,100.14,0.98,386.87,5,3.1,Yes,No Long-Term Commitment
+CUST-11003,Male,49,No,Midwest,Month-to-Month,16,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,108.8,0.04,1709.69,0,4.1,Yes,No Long-Term Commitment
+CUST-11004,Male,35,No,South,Month-to-Month,8,Fiber Optic,Electronic Check,Yes,Yes,No,No,108.52,1.74,850.08,2,3.0,Yes,Service Reliability Issues
+CUST-11005,Male,41,No,Northeast,Month-to-Month,16,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,86.74,1.44,1380.16,0,4.2,Yes,Moved/No Longer Needed
+CUST-11006,Male,79,Yes,Northeast,Two Year,70,Fiber Optic,Credit Card,No,No,Yes,No,68.68,7.67,4832.8,1,3.5,No,Retained
+CUST-11007,Male,21,No,Northeast,Month-to-Month,17,DSL,Credit Card,Yes,Yes,No,No,78.8,3.19,1325.33,2,3.6,No,Retained
+CUST-11008,Female,46,No,Midwest,Two Year,62,DSL,Bank Transfer,Yes,Yes,Yes,Yes,84.01,10.15,5179.78,3,2.1,No,Retained
+CUST-11009,Female,49,No,South,Month-to-Month,22,Fiber Optic,Electronic Check,No,No,Yes,Yes,96.74,1.6,2115.98,4,2.4,Yes,No Long-Term Commitment
+CUST-11010,Female,57,No,South,One Year,20,Fiber Optic,Bank Transfer,No,No,Yes,No,97.93,7.32,1931.68,2,3.9,No,Retained
+CUST-11011,Male,43,No,Northeast,Month-to-Month,16,Fiber Optic,Electronic Check,Yes,Yes,No,No,87.62,0.59,1369.23,2,2.1,Yes,Service Reliability Issues
+CUST-11012,Male,46,No,South,Two Year,26,DSL,Bank Transfer,No,No,No,Yes,61.34,13.74,1538.38,2,4.2,Yes,Moved/No Longer Needed
+CUST-11013,Female,37,No,Midwest,One Year,39,Fiber Optic,Credit Card,No,No,Yes,No,65.36,8.26,2551.47,2,1.9,Yes,Moved/No Longer Needed
+CUST-11014,Male,46,No,Midwest,Month-to-Month,11,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,124.68,0.26,1351.58,3,1.9,Yes,Price Too High
+CUST-11015,Male,37,No,Midwest,Month-to-Month,1,DSL,Electronic Check,Yes,Yes,No,Yes,71.79,2.94,105.61,3,3.0,Yes,Competitor Offer
+CUST-11016,Female,51,No,Northeast,Month-to-Month,15,Fiber Optic,Bank Transfer,Yes,No,Yes,Yes,83.46,2.16,1201.24,2,3.6,Yes,Moved/No Longer Needed
+CUST-11017,Male,37,No,South,Two Year,37,Fiber Optic,Bank Transfer,Yes,No,No,Yes,69.46,10.76,2551.05,5,2.3,Yes,Poor Support Experience
+CUST-11018,Male,47,No,West,Month-to-Month,19,Fiber Optic,Credit Card,Yes,No,Yes,No,73.63,2.16,1462.42,0,3.5,Yes,No Long-Term Commitment
+CUST-11019,Female,42,No,South,Month-to-Month,4,None,Credit Card,No,Yes,Yes,No,47.9,0.73,158.71,1,4.6,No,Retained
+CUST-11020,Male,58,No,West,One Year,48,DSL,Credit Card,No,Yes,No,Yes,68.19,4.92,3264.84,3,4.2,No,Retained
+CUST-11021,Female,41,No,South,Month-to-Month,5,DSL,Bank Transfer,Yes,No,Yes,No,48.99,3.2,202.4,2,3.2,Yes,Moved/No Longer Needed
+CUST-11022,Male,18,No,West,Two Year,46,DSL,Credit Card,Yes,Yes,No,Yes,58.69,14.42,2652.55,1,3.4,No,Retained
+CUST-11023,Male,60,No,Northeast,One Year,18,DSL,Bank Transfer,Yes,Yes,Yes,No,97.22,5.05,1804.12,0,3.4,No,Retained
+CUST-11024,Male,29,No,Northeast,One Year,15,None,Bank Transfer,Yes,No,Yes,Yes,58.33,2.51,880.94,1,5.0,No,Retained
+CUST-11025,Female,33,No,South,Two Year,22,None,Credit Card,Yes,Yes,Yes,No,60.95,10.51,1345.58,2,3.5,No,Retained
+CUST-11026,Male,34,No,West,Month-to-Month,18,Fiber Optic,Electronic Check,No,No,Yes,No,94.26,2.95,1637.31,5,3.7,Yes,No Long-Term Commitment
+CUST-11027,Male,61,No,Northeast,Month-to-Month,2,DSL,Credit Card,No,No,Yes,Yes,93.19,1.92,198.94,1,4.0,Yes,Price Too High
+CUST-11028,Female,18,No,South,Month-to-Month,7,Fiber Optic,Bank Transfer,Yes,Yes,No,No,65.53,1.81,499.22,2,3.4,Yes,Competitor Offer
+CUST-11029,Male,80,Yes,South,Month-to-Month,9,Fiber Optic,Electronic Check,No,No,No,Yes,64.95,3.41,624.78,5,2.2,Yes,Poor Support Experience
+CUST-11030,Female,57,No,South,One Year,47,DSL,Credit Card,Yes,Yes,Yes,Yes,69.22,8.15,3276.73,1,4.4,No,Retained
+CUST-11031,Male,45,No,Midwest,Two Year,61,Fiber Optic,Bank Transfer,No,No,No,Yes,72.3,5.32,4370.77,0,3.4,No,Retained
+CUST-11032,Female,41,No,South,Month-to-Month,23,None,Electronic Check,Yes,Yes,No,Yes,51.77,1.18,1201.67,2,3.2,Yes,No Long-Term Commitment
+CUST-11033,Female,46,No,Northeast,Month-to-Month,7,Fiber Optic,Credit Card,Yes,Yes,No,Yes,85.56,3.48,622.29,1,3.9,No,Retained
+CUST-11034,Female,49,No,West,Two Year,70,DSL,Electronic Check,No,No,No,Yes,60.34,12.08,4160.99,1,3.6,No,Retained
+CUST-11035,Male,51,No,West,Month-to-Month,7,None,Electronic Check,Yes,No,No,Yes,43.45,2.18,264.91,2,3.2,No,Retained
+CUST-11036,Female,50,No,South,Month-to-Month,3,None,Bank Transfer,No,No,Yes,Yes,41.1,2.91,154.39,1,3.5,No,Retained
+CUST-11037,Male,43,No,West,Month-to-Month,12,Fiber Optic,Electronic Check,Yes,Yes,No,No,60.35,2.49,754.86,2,3.0,Yes,Service Reliability Issues
+CUST-11038,Female,39,No,Midwest,Two Year,18,Fiber Optic,Electronic Check,Yes,Yes,No,No,71.3,6.3,1229.2,2,3.9,No,Retained
+CUST-11039,Female,40,No,Midwest,One Year,31,DSL,Bank Transfer,Yes,No,No,Yes,57.53,3.17,1811.26,1,3.8,No,Retained
+CUST-11040,Male,39,No,Midwest,One Year,38,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,88.93,2.32,3382.68,1,2.3,Yes,Poor Support Experience
+CUST-11041,Male,58,No,West,One Year,42,None,Mailed Check,No,Yes,No,Yes,38.91,8.32,1661.56,2,3.1,No,Retained
+CUST-11042,Female,50,No,Northeast,Month-to-Month,16,None,Mailed Check,Yes,No,No,No,31.28,2.58,478.27,4,2.7,Yes,Competitor Offer
+CUST-11043,Male,18,No,Northeast,Month-to-Month,15,Fiber Optic,Electronic Check,No,No,No,No,61.42,1.61,943.88,1,3.5,Yes,Service Reliability Issues
+CUST-11044,Male,51,No,Midwest,Two Year,13,Fiber Optic,Electronic Check,No,No,No,No,66.34,10.94,891.95,1,4.2,No,Retained
+CUST-11045,Male,45,No,South,Month-to-Month,9,Fiber Optic,Bank Transfer,No,No,No,Yes,67.14,2.87,591.96,0,3.4,Yes,Competitor Offer
+CUST-11046,Female,42,No,South,One Year,12,None,Credit Card,Yes,Yes,Yes,No,42.98,8.18,516.38,1,5.0,No,Retained
+CUST-11047,Female,37,No,South,Two Year,43,Fiber Optic,Electronic Check,No,No,Yes,Yes,68.1,7.1,2905.6,2,4.6,No,Retained
+CUST-11048,Male,58,No,Midwest,One Year,9,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,88.44,5.07,853.77,2,4.3,No,Retained
+CUST-11049,Female,55,No,West,One Year,25,Fiber Optic,Electronic Check,Yes,No,No,No,59.93,8.65,1494.04,2,2.7,Yes,Poor Support Experience
+CUST-11050,Male,31,No,West,One Year,41,DSL,Bank Transfer,Yes,No,Yes,Yes,77.96,7.06,3164.09,1,2.1,No,Retained
+CUST-11051,Male,48,No,Northeast,Two Year,43,Fiber Optic,Electronic Check,Yes,No,No,No,72.35,10.53,3086.0,2,3.2,Yes,Competitor Offer
+CUST-11052,Male,28,No,Northeast,Month-to-Month,28,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,85.82,2.65,2407.4,4,2.9,No,Retained
+CUST-11053,Male,23,No,Northeast,Month-to-Month,13,None,Electronic Check,Yes,No,No,Yes,33.07,3.96,456.28,2,3.4,Yes,No Long-Term Commitment
+CUST-11054,Male,33,No,South,Month-to-Month,1,None,Mailed Check,Yes,No,Yes,No,47.94,3.29,1.19,0,3.6,No,Retained
+CUST-11055,Female,54,No,Midwest,One Year,40,DSL,Bank Transfer,Yes,No,Yes,No,71.82,4.61,2937.47,3,1.9,No,Retained
+CUST-11056,Male,55,No,South,Month-to-Month,16,Fiber Optic,Bank Transfer,No,No,No,Yes,83.02,0.83,1339.12,2,3.0,Yes,Service Reliability Issues
+CUST-11057,Female,49,No,South,One Year,35,Fiber Optic,Credit Card,Yes,Yes,No,Yes,110.87,2.09,3896.78,1,3.2,No,Retained
+CUST-11058,Female,52,No,South,Month-to-Month,22,DSL,Electronic Check,Yes,Yes,No,No,75.89,2.1,1666.18,2,3.1,Yes,Moved/No Longer Needed
+CUST-11059,Male,49,No,West,One Year,41,Fiber Optic,Electronic Check,Yes,Yes,No,No,96.55,2.44,3959.22,2,2.7,No,Retained
+CUST-11060,Male,33,No,West,Month-to-Month,25,None,Credit Card,No,Yes,Yes,No,57.83,1.32,1440.56,2,2.9,No,Retained
+CUST-11061,Male,48,No,Northeast,One Year,30,DSL,Credit Card,Yes,No,Yes,Yes,74.85,7.72,2281.12,2,4.8,No,Retained
+CUST-11062,Male,53,No,South,Month-to-Month,16,Fiber Optic,Credit Card,Yes,No,No,Yes,71.06,1.9,1136.68,3,3.8,Yes,Poor Support Experience
+CUST-11063,Female,53,No,Midwest,Month-to-Month,26,None,Electronic Check,Yes,No,No,No,32.15,1.08,862.75,5,3.5,Yes,Competitor Offer
+CUST-11064,Female,59,No,West,Month-to-Month,19,None,Mailed Check,No,No,No,No,40.98,2.86,763.44,3,3.5,Yes,Poor Support Experience
+CUST-11065,Male,52,No,South,One Year,6,Fiber Optic,Electronic Check,Yes,No,No,Yes,83.66,2.84,508.81,4,1.9,Yes,Poor Support Experience
+CUST-11066,Female,47,No,West,Month-to-Month,5,DSL,Mailed Check,No,Yes,No,No,75.93,2.76,351.51,1,4.3,Yes,No Long-Term Commitment
+CUST-11067,Female,57,No,South,Month-to-Month,19,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,104.36,3.55,2025.42,4,3.7,Yes,Service Reliability Issues
+CUST-11068,Female,42,No,Midwest,Two Year,33,Fiber Optic,Credit Card,Yes,Yes,No,Yes,68.37,11.09,2227.03,2,4.7,No,Retained
+CUST-11069,Female,30,No,West,One Year,29,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,80.48,2.22,2322.55,2,4.0,No,Retained
+CUST-11070,Female,40,No,South,Two Year,54,DSL,Credit Card,Yes,No,No,No,54.07,13.84,2908.76,1,3.8,Yes,Competitor Offer
+CUST-11071,Female,32,No,South,Month-to-Month,13,None,Credit Card,Yes,No,Yes,No,35.28,2.84,446.25,1,3.7,No,Retained
+CUST-11072,Female,33,No,West,Month-to-Month,20,DSL,Credit Card,Yes,No,Yes,No,105.35,2.03,2132.29,1,3.8,No,Retained
+CUST-11073,Female,40,No,Northeast,Two Year,48,Fiber Optic,Credit Card,Yes,No,Yes,No,80.58,9.65,3856.76,2,2.2,No,Retained
+CUST-11074,Male,31,No,West,Month-to-Month,21,DSL,Bank Transfer,No,No,Yes,Yes,70.04,2.8,1519.63,0,4.5,No,Retained
+CUST-11075,Female,38,No,Midwest,One Year,41,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,80.9,7.87,3288.25,2,3.1,Yes,Competitor Offer
+CUST-11076,Female,18,No,Midwest,Month-to-Month,4,DSL,Bank Transfer,No,No,Yes,No,59.26,3.24,242.97,3,5.0,No,Retained
+CUST-11077,Male,45,No,Northeast,Month-to-Month,4,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,97.51,3.8,362.89,2,2.9,Yes,Service Reliability Issues
+CUST-11078,Female,42,No,Northeast,Month-to-Month,4,Fiber Optic,Credit Card,Yes,Yes,Yes,No,94.55,1.86,392.93,3,3.1,Yes,Poor Support Experience
+CUST-11079,Male,31,No,West,Month-to-Month,20,Fiber Optic,Credit Card,Yes,Yes,No,No,80.21,2.8,1603.64,3,3.4,Yes,No Long-Term Commitment
+CUST-11080,Male,51,No,Midwest,Month-to-Month,21,DSL,Credit Card,Yes,No,No,No,55.05,2.95,1150.62,2,2.9,Yes,No Long-Term Commitment
+CUST-11081,Female,55,No,Northeast,Month-to-Month,18,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,114.03,2.65,2094.14,2,3.5,No,Retained
+CUST-11082,Female,19,No,West,Two Year,61,DSL,Electronic Check,Yes,Yes,Yes,No,86.42,9.61,5248.72,1,3.7,No,Retained
+CUST-11083,Male,31,No,West,Month-to-Month,16,Fiber Optic,Electronic Check,No,No,Yes,No,82.98,3.53,1348.21,0,4.8,No,Retained
+CUST-11084,Male,31,No,South,One Year,46,Fiber Optic,Electronic Check,No,No,No,No,55.25,7.77,2514.59,2,4.1,Yes,Moved/No Longer Needed
+CUST-11085,Female,29,No,Northeast,Two Year,29,Fiber Optic,Electronic Check,Yes,Yes,Yes,No,93.46,7.88,2714.28,1,3.5,No,Retained
+CUST-11086,Male,54,No,Northeast,One Year,27,None,Bank Transfer,No,Yes,No,Yes,69.85,6.43,1844.1,1,3.1,No,Retained
+CUST-11087,Female,39,No,South,Month-to-Month,2,None,Bank Transfer,No,No,No,Yes,58.81,2.7,94.43,1,3.1,Yes,No Long-Term Commitment
+CUST-11088,Male,38,No,West,One Year,26,Fiber Optic,Mailed Check,Yes,Yes,Yes,Yes,101.42,7.64,2634.04,3,4.2,No,Retained
+CUST-11089,Female,18,No,West,One Year,41,Fiber Optic,Bank Transfer,No,No,No,Yes,92.49,6.64,3855.6,2,3.2,Yes,Price Too High
+CUST-11090,Male,51,No,South,One Year,44,Fiber Optic,Electronic Check,Yes,No,Yes,No,80.05,4.29,3525.73,1,5.0,No,Retained
+CUST-11091,Male,25,No,Northeast,One Year,44,DSL,Bank Transfer,Yes,Yes,No,No,75.86,4.63,3395.75,2,2.8,No,Retained
+CUST-11092,Male,43,No,South,Two Year,40,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,82.26,5.26,3298.11,0,5.0,No,Retained
+CUST-11093,Female,46,No,South,One Year,31,None,Credit Card,Yes,Yes,No,No,52.38,2.12,1610.23,1,3.0,No,Retained
+CUST-11094,Female,61,No,Midwest,Month-to-Month,21,None,Credit Card,Yes,Yes,No,Yes,69.58,3.29,1515.06,2,3.1,No,Retained
+CUST-11095,Female,24,No,Midwest,One Year,22,Fiber Optic,Mailed Check,Yes,Yes,No,No,73.91,8.68,1641.32,3,3.6,No,Retained
+CUST-11096,Female,18,No,South,Month-to-Month,16,DSL,Credit Card,No,No,Yes,Yes,62.33,0.53,974.78,2,4.3,No,Retained
+CUST-11097,Female,45,No,Midwest,Two Year,71,DSL,Mailed Check,No,Yes,Yes,Yes,79.69,7.52,5674.46,2,4.0,No,Retained
+CUST-11098,Male,67,Yes,West,Month-to-Month,19,DSL,Electronic Check,No,No,No,No,55.24,3.56,1039.32,0,2.5,No,Retained
+CUST-11099,Female,59,No,South,Month-to-Month,9,Fiber Optic,Electronic Check,No,No,No,No,82.37,1.7,671.71,0,3.5,Yes,Service Reliability Issues
+CUST-11100,Female,45,No,South,One Year,36,Fiber Optic,Credit Card,No,Yes,No,No,76.13,7.79,2773.44,2,2.6,No,Retained
+CUST-11101,Male,35,No,West,One Year,19,Fiber Optic,Credit Card,Yes,Yes,Yes,Yes,116.77,3.99,2256.95,0,2.5,No,Retained
+CUST-11102,Male,53,No,South,Month-to-Month,17,Fiber Optic,Bank Transfer,Yes,Yes,Yes,No,79.26,0.33,1411.75,3,3.2,Yes,Service Reliability Issues
+CUST-11103,Male,28,No,Northeast,Month-to-Month,5,Fiber Optic,Mailed Check,Yes,Yes,No,Yes,105.15,3.57,540.53,2,1.5,Yes,Service Reliability Issues
+CUST-11104,Male,49,No,Northeast,Two Year,13,Fiber Optic,Credit Card,No,No,Yes,Yes,71.92,9.9,926.25,0,4.8,No,Retained
+CUST-11105,Female,49,No,Northeast,Month-to-Month,20,DSL,Electronic Check,Yes,Yes,Yes,No,55.16,3.99,1132.42,0,4.6,Yes,Moved/No Longer Needed
+CUST-11106,Female,57,No,South,Two Year,59,Fiber Optic,Bank Transfer,No,No,Yes,No,75.59,11.95,4489.55,2,4.8,No,Retained
+CUST-11107,Male,80,Yes,Northeast,Month-to-Month,14,Fiber Optic,Credit Card,Yes,Yes,No,No,82.39,3.0,1210.8,2,2.6,No,Retained
+CUST-11108,Male,47,No,West,One Year,19,Fiber Optic,Electronic Check,Yes,Yes,No,No,68.94,7.69,1308.3,3,2.5,No,Retained
+CUST-11109,Female,35,No,West,Two Year,70,DSL,Credit Card,No,No,No,No,37.7,5.32,2633.2,1,4.6,No,Retained
+CUST-11110,Male,42,No,South,Month-to-Month,1,DSL,Bank Transfer,Yes,No,Yes,No,65.16,2.6,40.12,2,4.4,No,Retained
+CUST-11111,Female,18,No,South,Month-to-Month,3,DSL,Bank Transfer,Yes,Yes,No,No,80.7,3.6,260.91,1,4.8,No,Retained
+CUST-11112,Female,32,No,Midwest,Month-to-Month,26,Fiber Optic,Credit Card,Yes,Yes,No,No,91.87,3.32,2334.43,6,3.1,Yes,Competitor Offer
+CUST-11113,Male,36,No,West,One Year,44,None,Electronic Check,Yes,No,Yes,No,41.88,8.31,1869.88,3,3.4,No,Retained
+CUST-11114,Male,35,No,South,Month-to-Month,26,Fiber Optic,Mailed Check,No,Yes,No,No,90.49,3.48,2373.31,3,2.5,No,Retained
+CUST-11115,Male,44,No,Midwest,One Year,25,Fiber Optic,Bank Transfer,Yes,Yes,No,Yes,86.2,7.97,2175.48,2,3.7,No,Retained
+CUST-11116,Female,30,No,South,Month-to-Month,2,Fiber Optic,Credit Card,Yes,No,Yes,No,65.68,0.25,136.2,5,2.4,Yes,Poor Support Experience
+CUST-11117,Male,58,No,West,Month-to-Month,19,Fiber Optic,Electronic Check,Yes,No,No,No,56.96,3.38,1135.89,4,3.1,Yes,No Long-Term Commitment
+CUST-11118,Female,42,No,West,Month-to-Month,9,Fiber Optic,Bank Transfer,No,No,Yes,Yes,84.46,2.43,790.66,4,2.7,Yes,Competitor Offer
+CUST-11119,Female,42,No,Northeast,Month-to-Month,19,None,Electronic Check,Yes,No,No,No,35.52,1.52,653.63,1,4.0,No,Retained
+CUST-11120,Male,37,No,Northeast,One Year,42,DSL,Electronic Check,Yes,No,Yes,Yes,80.22,3.59,3348.62,1,4.7,No,Retained
+CUST-11121,Male,44,No,West,Two Year,29,Fiber Optic,Credit Card,No,No,Yes,No,84.53,8.21,2420.58,4,2.7,Yes,Moved/No Longer Needed
+CUST-11122,Male,54,No,West,One Year,21,None,Electronic Check,Yes,No,Yes,No,49.37,5.53,1056.06,1,3.3,No,Retained
+CUST-11123,Male,30,No,West,Month-to-Month,4,Fiber Optic,Credit Card,No,No,No,Yes,77.17,1.87,273.68,4,2.9,Yes,No Long-Term Commitment
+CUST-11124,Male,33,No,Northeast,Two Year,23,Fiber Optic,Electronic Check,Yes,No,No,Yes,62.13,5.04,1466.91,4,2.1,Yes,Service Reliability Issues
+CUST-11125,Male,38,No,West,One Year,34,DSL,Credit Card,Yes,Yes,No,No,72.22,6.14,2501.78,1,4.3,No,Retained
+CUST-11126,Female,23,No,South,Two Year,18,DSL,Electronic Check,Yes,Yes,No,Yes,73.67,12.61,1295.29,2,3.6,No,Retained
+CUST-11127,Female,31,No,South,Month-to-Month,14,Fiber Optic,Electronic Check,No,No,No,Yes,52.38,1.8,726.83,0,4.0,Yes,Moved/No Longer Needed
+CUST-11128,Female,35,No,West,Month-to-Month,23,Fiber Optic,Electronic Check,No,No,Yes,No,71.86,1.55,1653.36,3,3.5,Yes,No Long-Term Commitment
+CUST-11129,Female,54,No,West,Month-to-Month,12,DSL,Mailed Check,Yes,Yes,No,No,63.1,0.96,788.14,3,2.1,Yes,No Long-Term Commitment
+CUST-11130,Male,46,No,Northeast,One Year,40,DSL,Bank Transfer,Yes,No,Yes,No,65.83,3.78,2689.53,0,5.0,No,Retained
+CUST-11131,Female,45,No,South,Month-to-Month,5,DSL,Electronic Check,No,Yes,Yes,No,69.05,0.44,286.26,2,3.1,Yes,Moved/No Longer Needed
+CUST-11132,Female,54,No,West,Month-to-Month,17,Fiber Optic,Bank Transfer,No,No,No,No,72.61,3.88,1223.23,4,2.7,Yes,Competitor Offer
+CUST-11133,Female,40,No,Northeast,Month-to-Month,26,Fiber Optic,Credit Card,No,No,Yes,No,78.62,2.3,2034.81,4,3.7,No,Retained
+CUST-11134,Male,47,No,Northeast,One Year,47,Fiber Optic,Mailed Check,Yes,No,Yes,No,79.43,2.05,3684.19,3,3.7,No,Retained
+CUST-11135,Female,41,No,West,One Year,37,Fiber Optic,Credit Card,No,Yes,No,Yes,78.73,7.81,2896.03,4,4.6,Yes,Poor Support Experience
+CUST-11136,Male,46,No,West,Month-to-Month,10,None,Bank Transfer,Yes,No,No,No,29.67,2.19,311.67,2,2.7,Yes,Poor Support Experience
+CUST-11137,Female,34,No,South,Month-to-Month,11,Fiber Optic,Electronic Check,Yes,Yes,No,No,73.44,2.13,798.09,4,2.2,Yes,No Long-Term Commitment
+CUST-11138,Female,18,No,Northeast,One Year,22,Fiber Optic,Credit Card,Yes,Yes,No,No,90.26,2.48,1931.66,3,1.9,No,Retained
+CUST-11139,Male,40,No,South,Two Year,16,DSL,Mailed Check,No,Yes,No,Yes,74.6,12.08,1294.19,0,4.1,No,Retained
+CUST-11140,Male,62,No,Northeast,One Year,47,DSL,Credit Card,Yes,No,No,Yes,51.9,8.55,2448.62,2,3.3,No,Retained
+CUST-11141,Female,55,No,Midwest,Two Year,20,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,96.57,9.96,1935.31,2,2.6,No,Retained
+CUST-11142,Male,56,No,West,One Year,38,DSL,Electronic Check,No,Yes,Yes,Yes,77.97,4.0,2924.43,0,3.9,No,Retained
+CUST-11143,Male,59,No,South,One Year,41,DSL,Bank Transfer,Yes,No,No,No,75.93,3.1,3122.25,2,2.7,No,Retained
+CUST-11144,Female,43,No,West,Month-to-Month,4,DSL,Credit Card,No,No,Yes,Yes,64.93,0.55,253.97,2,4.7,No,Retained
+CUST-11145,Male,45,No,West,One Year,23,Fiber Optic,Credit Card,No,No,No,No,49.36,4.49,1069.18,2,2.9,No,Retained
+CUST-11146,Male,33,No,South,One Year,14,DSL,Mailed Check,Yes,No,No,Yes,66.03,6.78,886.96,1,3.3,No,Retained
+CUST-11147,Male,38,No,Midwest,One Year,34,DSL,Electronic Check,No,Yes,Yes,Yes,80.26,8.77,2756.66,1,1.8,Yes,Moved/No Longer Needed
+CUST-11148,Male,51,No,Northeast,Month-to-Month,29,Fiber Optic,Electronic Check,No,No,Yes,No,83.03,0.45,2475.91,3,1.9,Yes,Moved/No Longer Needed
+CUST-11149,Male,59,No,West,Month-to-Month,18,Fiber Optic,Mailed Check,No,No,Yes,Yes,80.27,1.25,1457.71,2,3.0,Yes,Competitor Offer
+CUST-11150,Male,40,No,Midwest,Month-to-Month,14,DSL,Electronic Check,No,Yes,Yes,No,77.28,1.67,1120.53,3,3.0,No,Retained
+CUST-11151,Male,36,No,South,Month-to-Month,25,Fiber Optic,Electronic Check,No,Yes,Yes,Yes,94.25,0.64,2350.8,4,3.2,Yes,Poor Support Experience
+CUST-11152,Male,42,No,West,Month-to-Month,15,DSL,Credit Card,Yes,Yes,No,No,66.99,2.02,1001.82,0,2.8,Yes,Poor Support Experience
+CUST-11153,Male,50,No,South,One Year,11,Fiber Optic,Bank Transfer,Yes,Yes,No,No,91.58,6.65,1045.56,3,3.3,No,Retained
+CUST-11154,Male,22,No,Midwest,Month-to-Month,24,Fiber Optic,Electronic Check,No,No,No,No,78.06,0.19,1931.64,2,4.0,No,Retained
+CUST-11155,Male,18,No,Northeast,Month-to-Month,10,Fiber Optic,Mailed Check,Yes,No,Yes,Yes,94.32,2.08,988.74,3,3.4,No,Retained
+CUST-11156,Female,34,No,Midwest,Month-to-Month,29,DSL,Bank Transfer,Yes,No,No,Yes,62.59,0.99,1777.79,3,4.1,Yes,Competitor Offer
+CUST-11157,Male,25,No,South,One Year,20,Fiber Optic,Electronic Check,No,No,No,No,68.0,5.42,1357.66,5,1.8,No,Retained
+CUST-11158,Male,35,No,West,Month-to-Month,29,DSL,Bank Transfer,No,Yes,No,No,57.17,1.7,1667.64,1,4.2,Yes,No Long-Term Commitment
+CUST-11159,Female,40,No,West,Month-to-Month,4,DSL,Credit Card,Yes,No,No,No,53.53,3.66,205.03,3,4.7,Yes,No Long-Term Commitment
+CUST-11160,Male,36,No,West,One Year,23,DSL,Credit Card,No,Yes,No,Yes,34.83,8.7,814.67,2,4.6,No,Retained
+CUST-11161,Female,62,No,Northeast,Month-to-Month,18,None,Bank Transfer,No,No,No,No,29.91,3.26,567.1,1,5.0,No,Retained
+CUST-11162,Female,47,No,Northeast,Two Year,68,DSL,Mailed Check,Yes,Yes,No,Yes,70.07,9.02,4799.86,0,4.2,No,Retained
+CUST-11163,Male,46,No,Midwest,Two Year,60,Fiber Optic,Electronic Check,No,No,Yes,Yes,90.29,5.71,5476.41,2,2.7,No,Retained
+CUST-11164,Female,51,No,West,Month-to-Month,12,None,Credit Card,Yes,Yes,No,No,45.35,3.05,532.67,1,1.7,No,Retained
+CUST-11165,Male,26,No,South,Month-to-Month,7,DSL,Credit Card,Yes,Yes,Yes,Yes,87.0,2.43,561.26,5,1.4,Yes,No Long-Term Commitment
+CUST-11166,Male,57,No,South,One Year,21,Fiber Optic,Credit Card,Yes,Yes,No,Yes,64.46,4.98,1366.2,1,3.3,No,Retained
+CUST-11167,Female,41,No,West,Month-to-Month,11,Fiber Optic,Credit Card,Yes,No,No,Yes,80.73,0.73,953.96,3,3.0,Yes,No Long-Term Commitment
+CUST-11168,Female,51,No,West,Month-to-Month,14,DSL,Electronic Check,Yes,No,Yes,Yes,51.4,2.75,702.91,5,2.1,No,Retained
+CUST-11169,Female,27,No,Midwest,Month-to-Month,3,Fiber Optic,Bank Transfer,No,Yes,Yes,No,77.3,3.98,255.94,2,3.8,Yes,Moved/No Longer Needed
+CUST-11170,Male,20,No,Midwest,Two Year,62,DSL,Credit Card,No,No,Yes,No,58.97,8.93,3680.49,2,3.7,No,Retained
+CUST-11171,Male,53,No,South,Month-to-Month,18,Fiber Optic,Electronic Check,Yes,No,Yes,Yes,101.31,2.89,1830.28,5,2.4,Yes,Price Too High
+CUST-11172,Male,47,No,West,One Year,47,Fiber Optic,Bank Transfer,No,No,Yes,No,81.9,6.35,3849.54,1,4.4,No,Retained
+CUST-11173,Female,29,No,South,One Year,43,DSL,Bank Transfer,Yes,No,Yes,No,64.4,4.2,2736.88,0,3.6,No,Retained
+CUST-11174,Male,30,No,South,Month-to-Month,13,Fiber Optic,Credit Card,Yes,Yes,Yes,No,93.22,1.64,1132.0,5,3.3,Yes,Service Reliability Issues
+CUST-11175,Male,58,No,Northeast,Month-to-Month,10,Fiber Optic,Electronic Check,No,Yes,Yes,Yes,90.57,2.02,866.79,2,2.2,Yes,Poor Support Experience
+CUST-11176,Male,25,No,South,Two Year,29,DSL,Credit Card,Yes,No,No,No,48.09,10.06,1380.95,1,3.5,No,Retained
+CUST-11177,Female,65,Yes,West,Month-to-Month,26,Fiber Optic,Electronic Check,Yes,No,Yes,No,85.49,3.0,2261.15,1,3.7,Yes,Service Reliability Issues
+CUST-11178,Male,29,No,South,One Year,25,DSL,Electronic Check,No,No,Yes,Yes,54.28,3.73,1353.39,1,2.2,No,Retained
+CUST-11179,Male,51,No,Northeast,Month-to-Month,26,DSL,Bank Transfer,Yes,No,No,Yes,70.54,3.53,1815.87,1,3.3,Yes,Competitor Offer
+CUST-11180,Male,37,No,West,Month-to-Month,16,DSL,Electronic Check,No,Yes,No,Yes,72.67,0.91,1131.54,1,4.3,No,Retained
+CUST-11181,Female,50,No,South,Month-to-Month,25,Fiber Optic,Electronic Check,Yes,No,No,No,82.83,3.58,2093.74,2,3.2,Yes,No Long-Term Commitment
+CUST-11182,Male,34,No,West,Month-to-Month,25,Fiber Optic,Electronic Check,Yes,Yes,Yes,Yes,110.99,1.37,2822.29,0,2.2,Yes,Poor Support Experience
+CUST-11183,Male,40,No,Midwest,Month-to-Month,6,DSL,Electronic Check,Yes,No,No,No,39.42,1.24,273.74,2,2.8,Yes,Poor Support Experience
+CUST-11184,Female,43,No,Northeast,Two Year,24,None,Electronic Check,Yes,No,No,Yes,31.77,14.18,783.7,1,2.7,No,Retained
+CUST-11185,Male,28,No,South,Month-to-Month,4,DSL,Mailed Check,Yes,No,No,No,49.12,1.22,144.83,3,3.6,Yes,Poor Support Experience
+CUST-11186,Male,52,No,Northeast,Month-to-Month,23,DSL,Electronic Check,Yes,No,No,Yes,44.16,0.21,1003.37,0,4.1,No,Retained
+CUST-11187,Female,35,No,Northeast,Month-to-Month,14,Fiber Optic,Electronic Check,No,Yes,No,No,74.48,1.49,1110.88,2,2.3,No,Retained
+CUST-11188,Female,39,No,Northeast,One Year,38,Fiber Optic,Electronic Check,No,Yes,No,No,107.81,8.09,4136.05,1,2.1,Yes,Service Reliability Issues
+CUST-11189,Male,28,No,Midwest,Month-to-Month,28,Fiber Optic,Mailed Check,Yes,No,No,Yes,88.14,1.31,2414.11,1,2.8,No,Retained
+CUST-11190,Female,18,No,Midwest,One Year,42,Fiber Optic,Credit Card,Yes,No,No,No,96.49,2.55,4050.63,3,2.9,Yes,Price Too High
+CUST-11191,Male,39,No,West,Month-to-Month,8,Fiber Optic,Credit Card,Yes,Yes,No,Yes,101.21,2.64,822.39,2,2.6,No,Retained
+CUST-11192,Female,76,Yes,Midwest,Month-to-Month,12,None,Bank Transfer,No,No,No,No,28.25,2.93,312.32,3,3.5,Yes,No Long-Term Commitment
+CUST-11193,Male,53,No,West,Month-to-Month,2,Fiber Optic,Credit Card,No,No,Yes,No,75.6,3.59,70.38,4,3.3,Yes,Poor Support Experience
+CUST-11194,Female,42,No,Midwest,Two Year,55,Fiber Optic,Electronic Check,Yes,Yes,No,Yes,92.84,8.13,5109.66,1,3.8,No,Retained
+CUST-11195,Male,38,No,West,Month-to-Month,5,Fiber Optic,Electronic Check,No,Yes,Yes,Yes,105.54,0.67,500.13,3,1.8,Yes,No Long-Term Commitment
+CUST-11196,Male,42,No,Midwest,Month-to-Month,22,None,Credit Card,Yes,No,No,Yes,36.6,1.28,777.77,0,3.8,No,Retained
+CUST-11197,Male,50,No,Northeast,Month-to-Month,5,DSL,Electronic Check,Yes,No,No,No,41.16,1.73,193.39,2,4.4,Yes,Competitor Offer
+CUST-11198,Male,25,No,South,Two Year,42,DSL,Bank Transfer,Yes,No,Yes,No,94.05,11.65,3945.42,2,2.6,No,Retained
+CUST-11199,Female,58,No,Northeast,Month-to-Month,13,None,Electronic Check,Yes,No,No,No,36.29,0.05,471.45,1,3.1,Yes,No Long-Term Commitment
